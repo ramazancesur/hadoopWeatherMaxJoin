@@ -1,0 +1,4562 @@
+Hurzuf;200;UA;40
+Novinki;200;RU;40
+Gorkhā;200;NP;40
+State of Haryāna;200;IN;40
+Holubynka;200;UA;40
+Bāgmatī Zone;200;NP;40
+Mar’ina Roshcha;200;RU;40
+Republic of India;200;IN;40
+Kathmandu;200;NP;40
+Laspi;200;UA;40
+Merida;200;VE;40
+Vinogradovo;200;RU;40
+Qarah Gawl al ‘Ulyā;200;IQ;40
+Cherkizovo;200;RU;40
+Alupka;200;UA;40
+Lichtenrade;200;DE;40
+Zavety Il’icha;200;RU;40
+‘Azriqam;200;IL;40
+Ghūra;200;IN;40
+Tyuzler;200;UA;40
+Zaponor’ye;200;RU;40
+Il’ichëvka;200;UA;40
+Partyzans’ke;200;UA;40
+Yurevichi;200;RU;40
+Gumist’a;200;GE;40
+Ptitsefabrika;200;GE;40
+Orekhovo;200;GE;40
+Birim;200;NG;40
+Priiskovyy;200;RU;40
+Dzhaga;200;RU;40
+Tret’ya Rota;200;RU;40
+Ruislip;200;GB;40
+Karow;200;DE;40
+Gatow;200;DE;40
+Mkuze;200;ZA;40
+Lhasa;200;CN;40
+İstanbul;200;TR;40
+Mao;200;DO;40
+Russian Federation;200;RU;40
+De-Friz;200;RU;40
+Rumbak;200;IN;40
+Vavibet;200;RU;40
+Surtagān Chib;200;PK;40
+Rīgas Rajons;200;LV;40
+Verkhneye Shchekotikhino;200;RU;40
+Bucha;200;UA;40
+Republic of Poland;200;PL;40
+Kuchary;200;PL;40
+North America;200;null;40
+Brumaire;200;KN;40
+Ishikawa-ken;200;JP;40
+Matoba;200;JP;40
+Pya;200;MM;40
+Kalanac;200;BA;40
+Federal Republic of Germany;200;DE;40
+Land Nordrhein-Westfalen;200;DE;40
+Mutaykutan;200;RU;40
+Nalchik;200;RU;40
+Kolganov;200;RU;40
+Rybatskiy;200;RU;40
+Bellara;200;AU;40
+Bartlett;200;ZA;40
+Rietfontein;200;ZA;40
+Hardap;200;NA;40
+Botswana;200;ZA;40
+El Destierro;200;AR;40
+Jones Crossroads;200;US;40
+Vernon Parish;200;US;40
+Pennick;200;US;40
+Black Bear Spring;200;US;40
+Bee House;200;US;40
+Morden;200;CA;40
+Nasirotu;200;FJ;40
+Sisali;200;ID;40
+Puntan;200;ID;40
+Tsiémé-Mandiélé;200;CG;40
+Masama;200;TZ;40
+Purukcahu;200;ID;40
+Néméyong II;200;CM;40
+Pondok Genteng;200;ID;40
+Mbongoté;200;CF;40
+Amiling;200;SS;40
+Kélkoto;200;CM;40
+Angetu;200;ET;40
+Massa;200;SD;40
+Tumko;200;SD;40
+Moskva;200;RU;40
+Japan;200;JP;40
+Hokkaidō;200;JP;40
+Sanggrahan;200;ID;40
+Karangmangle;200;ID;40
+Sheremetyevskiy;200;RU;40
+Yershovo;200;RU;40
+Znamenka;200;RU;40
+Lisbon;200;PT;40
+Walbrzych;200;PL;40
+Naklo nad Notecia;200;PL;40
+Zhengzhou;200;CN;40
+Tonyrefail;200;GB;40
+Bankra;200;IN;40
+Europe;200;null;40
+Moskovskaya Oblast’;200;RU;40
+Provo;200;US;40
+Tejon;200;US;40
+Guliston;200;UZ;40
+Ciciler;200;TR;40
+Bilmece;200;TR;40
+Provincia de Pontevedra;200;ES;40
+Carmarthenshire;200;GB;40
+Helsinki;200;FI;40
+Gemeente Wervershoof;200;NL;40
+Forville;200;FR;40
+Tall ‘Alāwī;200;IQ;40
+La Portanière;200;FR;40
+East Portlemouth;200;GB;40
+Whyalla;200;AU;40
+Terrace End;200;NZ;40
+Hashimoto;200;JP;40
+Tsukuba-kenkyūgakuen-toshi;200;JP;40
+Higashi-asahimachi;200;JP;40
+Hanabatachō;200;JP;40
+Senzaki;200;JP;40
+Sakaki;200;JP;40
+Daisen;200;JP;40
+Ikaruga;200;JP;40
+Matsuzaki;200;JP;40
+Noboribetsu;200;JP;40
+Grandate;200;IT;40
+Biella;200;IT;40
+Soverato;200;IT;40
+Pinerolo;200;IT;40
+Dundee City;200;GB;40
+Nuneaton and Bedworth District;200;GB;40
+Rhyl;200;GB;40
+Foulridge;200;GB;40
+Hermitage;200;GB;40
+Golcar;200;GB;40
+Thornbury;200;GB;40
+Peterhof;200;RU;40
+Grebnevo;200;RU;40
+Centro Habana;200;CU;40
+Carolina;200;ZA;40
+Gustavia;200;BL;40
+Xianju;200;CN;40
+Tōkyō-to;200;JP;40
+Washington;200;US;40
+San Dimas;200;US;40
+Culfa;200;AZ;40
+Bandar Emām Khomeynī;200;IR;40
+Shāhrūd;200;IR;40
+Bo;200;SL;40
+Daché;200;KM;40
+Département de l'Ouest;200;HT;40
+Montescudo;200;IT;40
+San Pedro;200;AR;40
+Wels(Stadt);200;AT;40
+Palmerston;200;AU;40
+Telmankend;200;AZ;40
+Neftcala;200;AZ;40
+Pushkino;200;AZ;40
+Visé;200;BE;40
+Lede;200;BE;40
+Ieper;200;BE;40
+Titao;200;BF;40
+Cascades;200;BF;40
+Villazon;200;BO;40
+Laval;200;CA;40
+Yangambi;200;CD;40
+Watsa;200;CD;40
+Wamba;200;CD;40
+Lusambo;200;CD;40
+Luebo;200;CD;40
+Lubao;200;CD;40
+Kampene;200;CD;40
+Kabinda;200;CD;40
+Kabare;200;CD;40
+Businga;200;CD;40
+Nioki;200;CD;40
+Mushie;200;CD;40
+Mangai;200;CD;40
+Ville de Kinshasa;200;CD;40
+Luzern;200;CH;40
+Fahrweid (südl. Teil);200;CH;40
+Riehen;200;CH;40
+Bärenbohl;200;CH;40
+Letten;200;CH;40
+Touba;200;CI;40
+Tonga;200;CM;40
+Lahovičky;200;CZ;40
+Svépravice;200;CZ;40
+Wardenburg;200;DE;40
+Wachtberg;200;DE;40
+Schwalmtal;200;DE;40
+Pfaffenhofen an der Ilm;200;DE;40
+Odenthal;200;DE;40
+Much;200;DE;40
+Großstädteln;200;DE;40
+Lindlar;200;DE;40
+Kreuzau;200;DE;40
+Höxter, Stadt;200;DE;40
+Kreis Unna;200;DE;40
+Hille;200;DE;40
+Haar;200;DE;40
+Grossenhain;200;DE;40
+Ginsheim-Gustavsburg;200;DE;40
+Engelskirchen;200;DE;40
+Eggenstein-Leopoldshafen;200;DE;40
+Brüggen;200;DE;40
+Bönen;200;DE;40
+Kreisfreie Stadt Bielefeld;200;DE;40
+Bielefeld;200;DE;40
+Baiersbronn;200;DE;40
+Bad Zwischenahn;200;DE;40
+Bad Honnef, Stadt;200;DE;40
+Ascheberg;200;DE;40
+Ostfildern;200;DE;40
+Spremberg, Stadt;200;DE;40
+Høje-Taastrup Kommune;200;DK;40
+Nyborg Kommune;200;DK;40
+Kolding Kommune;200;DK;40
+Neiba;200;DO;40
+Moca;200;DO;40
+el hed;200;DZ;40
+Souma;200;DZ;40
+Rouached;200;DZ;40
+Reggane;200;DZ;40
+Metlili Chaamba;200;DZ;40
+El Abiodh Sidi Cheikh;200;DZ;40
+Osuna;200;ES;40
+Lora del Río;200;ES;40
+Fuengirola;200;ES;40
+Bailén;200;ES;40
+Utebo;200;ES;40
+Barberà del Vallès;200;ES;40
+Pinto;200;ES;40
+Pineda de Mar;200;ES;40
+Palamós;200;ES;40
+Navalcarnero;200;ES;40
+Mejorada del Campo;200;ES;40
+Manlleu;200;ES;40
+Leganés;200;ES;40
+Laguna de Duero;200;ES;40
+Coruña (A);200;ES;40
+Illescas;200;ES;40
+la Roca del Vallès;200;ES;40
+Ermua;200;ES;40
+Eibar;200;ES;40
+Durango;200;ES;40
+Collado Villalba;200;ES;40
+Ciempozuelos;200;ES;40
+Caldes de Montbui;200;ES;40
+Calahorra;200;ES;40
+Benicasim/Benicàssim;200;ES;40
+Realejos (Los);200;ES;40
+Basauri;200;ES;40
+Lobras;200;ES;40
+Robit;200;ET;40
+Mekele;200;ET;40
+Kolito;200;ET;40
+Lambasa;200;FJ;40
+Sokehs Municipality;200;FM;40
+Wittenheim;200;FR;40
+Wattrelos;200;FR;40
+Vitré;200;FR;40
+Viry-Châtillon;200;FR;40
+Villeneuve-le-Roi;200;FR;40
+Vierzon;200;FR;40
+Verrières-le-Buisson;200;FR;40
+Arrondissement d'Antony;200;FR;40
+Vallauris;200;FR;40
+Tourcoing;200;FR;40
+Taverny;200;FR;40
+Soisy-sous-Montmorency;200;FR;40
+Sin-le-Noble;200;FR;40
+Sèvres;200;FR;40
+Salon-de-Provence;200;FR;40
+Saint-Ouen;200;FR;40
+Saint-Fons;200;FR;40
+Saint-Avold;200;FR;40
+Rezé;200;FR;40
+Pontivy;200;FR;40
+Pessac;200;FR;40
+Palaiseau;200;FR;40
+Ozoir-la-Ferrière;200;FR;40
+Oullins;200;FR;40
+Mougins;200;FR;40
+Morsang-sur-Orge;200;FR;40
+Montélimar;200;FR;40
+Montbéliard;200;FR;40
+Maisons-Alfort;200;FR;40
+Louviers;200;FR;40
+Limeil-Brévannes;200;FR;40
+Les Pavillons-sous-Bois;200;FR;40
+Lattes;200;FR;40
+Grigny;200;FR;40
+Goussainville;200;FR;40
+Gien;200;FR;40
+Gagny;200;FR;40
+Firminy;200;FR;40
+Échirolles;200;FR;40
+Décines-Charpieu;200;FR;40
+Dammarie-les-Lys;200;FR;40
+Colombes;200;FR;40
+Cognac;200;FR;40
+Chenôve;200;FR;40
+Chelles;200;FR;40
+Cesson-Sévigné;200;FR;40
+Cayenne;200;FR;40
+Carvin;200;FR;40
+Bonneuil-sur-Marne;200;FR;40
+Belfort;200;FR;40
+Bayeux;200;FR;40
+Bagnolet;200;FR;40
+Autun;200;FR;40
+Auch;200;FR;40
+Annecy-le-Vieux;200;FR;40
+Alfortville;200;FR;40
+Les Ulis;200;FR;40
+Yate;200;GB;40
+Caia Park;200;GB;40
+Worcester District;200;GB;40
+Borough of Wolverhampton;200;GB;40
+Winsford;200;GB;40
+Welwyn Hatfield;200;GB;40
+Borough of Trafford;200;GB;40
+Tamworth District;200;GB;40
+Wroughton;200;GB;40
+Dartford District;200;GB;40
+South Derbyshire District;200;GB;40
+Borough of Tameside;200;GB;40
+Mossley;200;GB;40
+Seaham;200;GB;40
+Sandown;200;GB;40
+Ryton;200;GB;40
+Redditch District;200;GB;40
+Prestatyn;200;GB;40
+Peterlee;200;GB;40
+Penarth;200;GB;40
+Oswestry;200;GB;40
+Northwich;200;GB;40
+Ards District;200;GB;40
+Newtownards;200;GB;40
+Newquay;200;GB;40
+Nailsea;200;GB;40
+Morley;200;GB;40
+Mirfield;200;GB;40
+Maesteg;200;GB;40
+Sutton;200;GB;40
+City of Westminster;200;GB;40
+Sefton;200;GB;40
+East Dunbartonshire;200;GB;40
+East Ayrshire;200;GB;40
+Keynsham;200;GB;40
+Kempston;200;GB;40
+Horwich;200;GB;40
+Dacorum District;200;GB;40
+Hastings District;200;GB;40
+Guisborough;200;GB;40
+Great Yarmouth District;200;GB;40
+South Staffordshire District;200;GB;40
+Goole;200;GB;40
+Fareham District;200;GB;40
+Epsom and Ewell District;200;GB;40
+Runnymede District;200;GB;40
+Ebbw Vale;200;GB;40
+Broxtowe District;200;GB;40
+Dunstable;200;GB;40
+City of Derby;200;GB;40
+Eccleshill;200;GB;40
+Cwmbran Central;200;GB;40
+Healeyfield;200;GB;40
+Ribble Valley District;200;GB;40
+Sodbury;200;GB;40
+Brymbo;200;GB;40
+Brixham;200;GB;40
+Bracknell;200;GB;40
+Blyth;200;GB;40
+Biggleswade;200;GB;40
+Berkhamsted;200;GB;40
+Bathampton;200;GB;40
+North Down District;200;GB;40
+Bangor;200;GB;40
+Banbridge District;200;GB;40
+Aberystwyth;200;GB;40
+Chalk Farm;200;GB;40
+East Dorset District;200;GB;40
+Poti;200;GE;40
+Tafo;200;GH;40
+Shama Junction;200;GH;40
+Saltpond;200;GH;40
+Dunkwa;200;GH;40
+Pita;200;GN;40
+Sainte-Anne;200;GP;40
+Pointe-à-Pitre;200;GP;40
+Les Abymes;200;GP;40
+Le Moule;200;GP;40
+Capesterre-Belle-Eau;200;GP;40
+Dimos Salamis;200;GR;40
+Dimos Fyli;200;GR;40
+Grytviken;200;GS;40
+Municipio de San Marcos;200;GT;40
+Municipio de Flores;200;GT;40
+Departamento de Valle;200;HN;40
+Thor;200;HT;40
+Ti Port-de-Paix;200;HT;40
+Csukásitanyák;200;HU;40
+Tanjungbalai;200;ID;40
+Reuleuet;200;ID;40
+Judieda Makr;200;IL;40
+Yeola;200;IN;40
+Yellapur;200;IN;40
+Yaval;200;IN;40
+Ventimiglia;200;IT;40
+Savona;200;IT;40
+Ruvo di Puglia;200;IT;40
+Pioltello;200;IT;40
+Palestrina;200;IT;40
+Palagiano;200;IT;40
+Pagani;200;IT;40
+Orta Nova;200;IT;40
+Oria;200;IT;40
+Noicattaro;200;IT;40
+Nettuno;200;IT;40
+Negrar;200;IT;40
+Mira;200;IT;40
+Lissone;200;IT;40
+Lastra a Signa;200;IT;40
+Imperia;200;IT;40
+Jesi;200;IT;40
+Giugliano in Campania;200;IT;40
+Galatone;200;IT;40
+Gaeta;200;IT;40
+Frosinone;200;IT;40
+Formigine;200;IT;40
+Fondi;200;IT;40
+Fidenza;200;IT;40
+Corciano;200;IT;40
+Conversano;200;IT;40
+Cittadella;200;IT;40
+Bra;200;IT;40
+Benevento;200;IT;40
+Bareggio;200;IT;40
+Arese;200;IT;40
+Aprilia;200;IT;40
+Anagni;200;IT;40
+Spinea;200;IT;40
+Volla;200;IT;40
+Old Harbour;200;JM;40
+New Kingston;200;JM;40
+Kimiidera;200;JP;40
+Mocimboa;200;MZ;40
+Gemeente Noordwijkerhout;200;NL;40
+Gemeente Leusden;200;NL;40
+Gemeente Huizen;200;NL;40
+Gemeente Hoogeveen;200;NL;40
+Gemeente Heemskerk;200;NL;40
+Gemeente Alphen aan den Rijn;200;NL;40
+Horten;200;NO;40
+Haugesund;200;NO;40
+Gjøvik;200;NO;40
+Ålesund;200;NO;40
+Tulsipur;200;NP;40
+Cambridge;200;NZ;40
+Bidbid;200;OM;40
+Bawshar;200;OM;40
+Badiyah;200;OM;40
+As Suwayq;200;OM;40
+Uchiza;200;PE;40
+Włocławek;200;PL;40
+Świdwin;200;PL;40
+Jastrzębie-Zdrój;200;PL;40
+Bełchatów;200;PL;40
+Aguadilla;200;PR;40
+Vila Franca de Xira;200;PT;40
+Ramada;200;PT;40
+Almada;200;PT;40
+Gueifães;200;PT;40
+Safonovo;200;RU;40
+Lillsjönäs;200;SE;40
+Koidu;200;SL;40
+Prakhon Chai;200;TH;40
+Changwat Lop Buri;200;TH;40
+Kocaali;200;TR;40
+Vwawa;200;TZ;40
+Coffee County;200;US;40
+Clay County;200;US;40
+Flagler County;200;US;40
+Hernando County;200;US;40
+Sumter County;200;US;40
+Fulton County;200;US;40
+DeKalb County;200;US;40
+Clark County;200;US;40
+Sylvania;200;US;40
+Clark County;200;US;40
+City of Baltimore;200;US;40
+Cashell Estates;200;US;40
+Wakely Terrace;200;US;40
+Saint Charles County;200;US;40
+City of Saint Louis;200;US;40
+Coahoma County;200;US;40
+Jackson County;200;US;40
+Nash County;200;US;40
+Lee County;200;US;40
+Warren County;200;US;40
+Creek County;200;US;40
+Richland County;200;US;40
+Taylor County;200;US;40
+Hidalgo County;200;US;40
+Washington County;200;US;40
+Walker County;200;US;40
+Kerr County;200;US;40
+City of Alexandria;200;US;40
+City of Bristol;200;US;40
+City of Charlottesville;200;US;40
+City of Chesapeake;200;US;40
+City of Colonial Heights;200;US;40
+City of Danville;200;US;40
+City of Fairfax;200;US;40
+City of Fredericksburg;200;US;40
+City of Harrisonburg;200;US;40
+City of Hopewell;200;US;40
+City of Lynchburg;200;US;40
+City of Manassas;200;US;40
+City of Newport News;200;US;40
+City of Norfolk;200;US;40
+City of Petersburg;200;US;40
+City of Portsmouth;200;US;40
+City of Radford;200;US;40
+City of Richmond;200;US;40
+City of Roanoke;200;US;40
+City of Salem;200;US;40
+City of Suffolk;200;US;40
+City of Staunton;200;US;40
+City of Waynesboro;200;US;40
+City of Winchester;200;US;40
+Cuyahoga County;200;US;40
+Lee County;200;US;40
+Knox County;200;US;40
+Ottawa County;200;US;40
+Bay County;200;US;40
+Macomb County;200;US;40
+Ingham County;200;US;40
+Shiawassee County;200;US;40
+Nassau County;200;US;40
+Kings County;200;US;40
+Cortland County;200;US;40
+City Line;200;US;40
+Fulton County;200;US;40
+Jamestown;200;US;40
+Queensbridge Houses;200;US;40
+Carnegie Hill;200;US;40
+Rensselaer County;200;US;40
+Mahoning County;200;US;40
+Delaware County;200;US;40
+Allen County;200;US;40
+Erie County;200;US;40
+Bristol County;200;US;40
+Santa Cruz County;200;US;40
+San Francisco County;200;US;40
+Grand Junction;200;US;40
+Maverick County;200;US;40
+Gray County;200;US;40
+Shofirkon;200;UZ;40
+Qushkupir;200;UZ;40
+Parkent;200;UZ;40
+Pop;200;UZ;40
+Paxtakor;200;UZ;40
+Novyy Turtkul;200;UZ;40
+Manghit;200;UZ;40
+Haqqulobod;200;UZ;40
+Iskandar;200;UZ;40
+Hazorasp;200;UZ;40
+Chinoz;200;UZ;40
+Buka;200;UZ;40
+Beruniy;200;UZ;40
+Bektemir;200;UZ;40
+Quva;200;UZ;40
+Redemption;200;VC;40
+Municipio Anaco;200;VE;40
+Anaco;200;VE;40
+Municipio Zamora;200;VE;40
+Municipio Valencia;200;VE;40
+Municipio Santiago Mariño;200;VE;40
+Municipio San Felipe;200;VE;40
+Municipio Colón;200;VE;40
+Municipio San Carlos;200;VE;40
+Municipio Los Salias;200;VE;40
+Municipio Sucre;200;VE;40
+Municipio Libertador;200;VE;40
+Palo Negro;200;VE;40
+Municipio Nirgua;200;VE;40
+Mucumpiz;200;VE;40
+Municipio Juan José Mora;200;VE;40
+Los Rastrojos;200;VE;40
+Municipio José Félix Ribas;200;VE;40
+Municipio Santos Michelena;200;VE;40
+Las Tejerias;200;VE;40
+Lagunillas;200;VE;40
+Municipio Vargas;200;VE;40
+Municipio Marcano;200;VE;40
+Municipio Valdez;200;VE;40
+Municipio Zamora;200;VE;40
+Municipio Plaza;200;VE;40
+Municipio Mario Briceño Iragorry;200;VE;40
+El Limon;200;VE;40
+Municipio El Hatillo;200;VE;40
+Municipio Chacao;200;VE;40
+Tacarigua;200;VE;40
+Municipio Baruta;200;VE;40
+Municipio José Tadeo Monagas;200;VE;40
+Municipio García de Hevia;200;VE;40
+Tỉnh Nghệ An;200;VN;40
+Tỉnh Phú Thọ;200;VN;40
+Viet Tri;200;VN;40
+Tỉnh Quảng Ninh;200;VN;40
+Tỉnh Phú Yên;200;VN;40
+Thornhill;200;CA;40
+Port Hope;200;CA;40
+Estado de Jalisco;200;MX;40
+Tabasco;200;MX;40
+Holdereggen;200;DE;40
+Landkreis Saarlouis;200;DE;40
+Sachsen;200;DE;40
+Straße;200;DE;40
+Burghaun;200;DE;40
+Kiedrich;200;DE;40
+Haiterbach;200;DE;40
+Neuenberg;200;DE;40
+Schlaitdorf;200;DE;40
+Thale;200;DE;40
+Treuchtlingen;200;DE;40
+Klein Glienicke;200;DE;40
+Ostbevern;200;DE;40
+Eselsburg;200;DE;40
+Reifert;200;DE;40
+Gemeente Leeuwarden;200;NL;40
+Het Hazebos;200;NL;40
+Musiskwartier;200;NL;40
+Suhr;200;CH;40
+Albardon;200;AR;40
+Buzovna;200;AZ;40
+Amirdzhan;200;AZ;40
+Aghsu Rayon;200;AZ;40
+Satkhira;200;BD;40
+Roeselare;200;BE;40
+Puurs;200;BE;40
+Province du Zoundwéogo;200;BF;40
+Garango;200;BF;40
+Province du Soum;200;BF;40
+Province de la Tapoa;200;BF;40
+Muramvya;200;BI;40
+Tchaourou;200;BJ;40
+Bassila;200;BJ;40
+Viana;200;BR;40
+Sao Joao dos Inhamuns;200;BR;40
+Solanea;200;BR;40
+Sobradinho;200;BR;40
+Bondo;200;CD;40
+Ippy;200;CF;40
+Puerto Quellon;200;CL;40
+Nacimiento;200;CL;40
+Mbanga;200;CM;40
+Mamfe;200;CM;40
+Ksar Chellala;200;DZ;40
+Kerkera;200;DZ;40
+El Affroun;200;DZ;40
+Al Qurayn;200;EG;40
+Al Ayyat;200;EG;40
+Abu al Matamir;200;EG;40
+Zoba Gash-Barka;200;ER;40
+Metahara;200;ET;40
+Korem;200;ET;40
+Giyon;200;ET;40
+Gimbi;200;ET;40
+Genet;200;ET;40
+Finote Selam;200;ET;40
+Dodola;200;ET;40
+Butajira;200;ET;40
+Asaita;200;ET;40
+Asasa;200;ET;40
+Areka;200;ET;40
+Saint-Jean-de-la-Ruelle;200;FR;40
+Saint-Herblain;200;FR;40
+Saint-Étienne;200;FR;40
+Saint-Cyr-sur-Loire;200;FR;40
+Paris;200;FR;40
+Arrondissement de Boulogne-sur-Mer;200;FR;40
+Outreau;200;FR;40
+Orvault;200;FR;40
+Arrondissement de Metz-Ville;200;FR;40
+Maurepas;200;FR;40
+Laon;200;FR;40
+La Crau;200;FR;40
+La Courneuve;200;FR;40
+Gentilly;200;FR;40
+Garches;200;FR;40
+Croix;200;FR;40
+Couëron;200;FR;40
+Tanjungtiram;200;ID;40
+Percut;200;ID;40
+Perbaungan;200;ID;40
+Labuhan Deli;200;ID;40
+Deli Tua;200;ID;40
+Bireun;200;ID;40
+Wiradesa;200;ID;40
+Weru;200;ID;40
+Welahan;200;ID;40
+Wangon;200;ID;40
+Ungaran;200;ID;40
+Tulungagung;200;ID;40
+Tayu;200;ID;40
+Randudongkal;200;ID;40
+Plumbon;200;ID;40
+Parung;200;ID;40
+Panji;200;ID;40
+Pangkalanbuun;200;ID;40
+Pamulang;200;ID;40
+Pakisaji;200;ID;40
+Lahat;200;ID;40
+Labuan;200;ID;40
+Kutoarjo;200;ID;40
+Kroya;200;ID;40
+Krian;200;ID;40
+Klungkung;200;ID;40
+Kijang;200;ID;40
+Ketanggungan;200;ID;40
+Jekulo;200;ID;40
+Godean;200;ID;40
+Cimahi;200;ID;40
+Buduran;200;ID;40
+Bondowoso;200;ID;40
+Bojonegoro;200;ID;40
+Bima;200;ID;40
+Bangil;200;ID;40
+Maghar;200;IL;40
+Wokha;200;IN;40
+Warora;200;IN;40
+Waraseoni;200;IN;40
+Wadi;200;IN;40
+Virarajendrapet;200;IN;40
+Virar;200;IN;40
+Vettaikkaranpudur;200;IN;40
+Vedaraniyam;200;IN;40
+Vayalar;200;IN;40
+Vasudevanallur;200;IN;40
+Vadakku Valliyur;200;IN;40
+Usilampatti;200;IN;40
+Uravakonda;200;IN;40
+Uran;200;IN;40
+Upleta;200;IN;40
+Uppal Kalan;200;IN;40
+Unnao;200;IN;40
+Unjha;200;IN;40
+Un;200;IN;40
+Umreth;200;IN;40
+Umred;200;IN;40
+Turaiyur;200;IN;40
+Todaraisingh;200;IN;40
+Titlagarh;200;IN;40
+Tisaiyanvilai;200;IN;40
+Tiruvalla;200;IN;40
+Terdal;200;IN;40
+Teonthar;200;IN;40
+Tekkali;200;IN;40
+Tekari;200;IN;40
+Tarn Taran;200;IN;40
+Tarana;200;IN;40
+Tanuku;200;IN;40
+Tanakpur;200;IN;40
+Talwara;200;IN;40
+Taloda;200;IN;40
+Taliparamba;200;IN;40
+Taleigao;200;IN;40
+Taki;200;IN;40
+Suriapet;200;IN;40
+Suluru;200;IN;40
+Sultanpur;200;IN;40
+Suket;200;IN;40
+Suar;200;IN;40
+Srivaikuntam;200;IN;40
+Srisailam;200;IN;40
+Sriramnagar;200;IN;40
+Sriperumbudur;200;IN;40
+Sopur;200;IN;40
+Songadh;200;IN;40
+Sonari;200;IN;40
+Sojat;200;IN;40
+Sohagpur;200;IN;40
+Siwana;200;IN;40
+Siwan;200;IN;40
+Sitarganj;200;IN;40
+Siruguppa;200;IN;40
+Sirsilla;200;IN;40
+Singarayakonda;200;IN;40
+Singanallur;200;IN;40
+Sikka;200;IN;40
+Sidhi;200;IN;40
+Sidhauli;200;IN;40
+Siddhapur;200;IN;40
+Shujalpur;200;IN;40
+Shiggaon;200;IN;40
+Shertallai;200;IN;40
+Shahpur;200;IN;40
+Sehore;200;IN;40
+Secunderabad;200;IN;40
+Sayla;200;IN;40
+Savda;200;IN;40
+Sathyamangalam;200;IN;40
+Sarwar;200;IN;40
+Sardulgarh;200;IN;40
+Sardarshahr;200;IN;40
+Saoner;200;IN;40
+Sangola;200;IN;40
+Sangod;200;IN;40
+Sangaria;200;IN;40
+Sandur;200;IN;40
+Sanchor;200;IN;40
+Sanawad;200;IN;40
+Samdari;200;IN;40
+Sambalpur;200;IN;40
+Sakleshpur;200;IN;40
+Sainthia;200;IN;40
+Rusera;200;IN;40
+Robertsganj;200;IN;40
+Remuna;200;IN;40
+Rehli;200;IN;40
+Raybag;200;IN;40
+Raxaul;200;IN;40
+Ratlam;200;IN;40
+Rasipuram;200;IN;40
+Rampura;200;IN;40
+Raisen;200;IN;40
+Raipur;200;IN;40
+Pusad;200;IN;40
+Punalur;200;IN;40
+Puliyangudi;200;IN;40
+Pithapuram;200;IN;40
+Piriyapatna;200;IN;40
+Pipri;200;IN;40
+Pipar;200;IN;40
+Pilani;200;IN;40
+Pihani;200;IN;40
+Periyakulam;200;IN;40
+Pattukkottai;200;IN;40
+Patharia;200;IN;40
+Pathardi;200;IN;40
+Pathalgaon;200;IN;40
+Patamundai;200;IN;40
+Paonta Sahib;200;IN;40
+Pandua;200;IN;40
+Panagar;200;IN;40
+Pali;200;IN;40
+Osmanabad;200;IN;40
+Nuzvid;200;IN;40
+Nongstoin;200;IN;40
+Neem ka Thana;200;IN;40
+Nimbahera;200;IN;40
+Nelamangala;200;IN;40
+Navalgund;200;IN;40
+Nattam;200;IN;40
+Misterbianco;200;IT;40
+Tremestieri Etneo;200;IT;40
+Muḩāfaz̧at aţ Ţafīlah;200;JO;40
+Anjarah;200;JO;40
+Youkaichi;200;JP;40
+Ushibuka;200;JP;40
+Suzaka;200;JP;40
+Susaki;200;JP;40
+Sueyoshi;200;JP;40
+Shinichi;200;JP;40
+Ono;200;JP;40
+Hofu;200;JP;40
+Haebaru;200;JP;40
+Ongjin;200;KP;40
+Kosan;200;KP;40
+Haeju;200;KP;40
+Nasŏn-si;200;KP;40
+Neietsu;200;KR;40
+Reiko;200;KR;40
+Yeoju;200;KR;40
+Yanggu;200;KR;40
+Mungyeong;200;KR;40
+Kurye;200;KR;40
+Cheongsong gun;200;KR;40
+Chinchon;200;KR;40
+Hwawon;200;KR;40
+Ar Riqqah;200;KW;40
+Muḩāfaz̧at Jahrā’;200;KW;40
+Qulsary;200;KZ;40
+Balyqshy;200;KZ;40
+Lenger;200;KZ;40
+Georgievka;200;KZ;40
+Khouèng Oudômxai;200;LA;40
+Matara;200;LK;40
+Kalutara;200;LK;40
+Voinjama;200;LR;40
+Zaltan;200;LY;40
+Sha‘bīyat Mişrātah;200;LY;40
+Sha‘bīyat Wādī al Ḩayāt;200;LY;40
+Zana;200;PE;40
+Querecotillo;200;PE;40
+Picsi;200;PE;40
+Paita;200;PE;40
+Lambayeque;200;PE;40
+Chepen;200;PE;40
+Yunguyo;200;PE;40
+Tambopata;200;PE;40
+Mala;200;PE;40
+Ayaviri;200;PE;40
+Bougainville;200;PG;40
+Arawa;200;PG;40
+Province of Lanao del Sur;200;PH;40
+Province of Albay;200;PH;40
+Teresa;200;PH;40
+Tanauan;200;PH;40
+Talavera;200;PH;40
+Talacogon;200;PH;40
+Talacogon;200;PH;40
+Surallah;200;PH;40
+Solano;200;PH;40
+Silang;200;PH;40
+Świętochłowice;200;PL;40
+Powiat sierpecki;200;PL;40
+Jastrzębie-Zdrój;200;PL;40
+Gostynin;200;PL;40
+Custóias;200;PT;40
+Coimbra (Sé Nova);200;PT;40
+Baguim do Monte (Rio Tinto);200;PT;40
+Baguim do Monte;200;PT;40
+Vera Cruz;200;PT;40
+Glogovac;200;RS;40
+Ar Rahad;200;SD;40
+Oum Hadjer;200;TD;40
+Moussoro;200;TD;40
+Aygavan;200;AM;40
+Yerazgavors;200;AM;40
+Voskevaz;200;AM;40
+Verin Dvin;200;AM;40
+Vaghashen;200;AM;40
+Vahagni;200;AM;40
+Lukashin;200;AM;40
+Lanjaghbyur;200;AM;40
+Kosh;200;AM;40
+Karchaghbyur;200;AM;40
+Karanlukh;200;AM;40
+Getazat;200;AM;40
+Darpas;200;AM;40
+Bjni;200;AM;40
+Byurakan;200;AM;40
+Bazum;200;AM;40
+Bagratashen;200;AM;40
+Aknalich;200;AM;40
+Ashnak;200;AM;40
+Arevashat;200;AM;40
+Apaga;200;AM;40
+Anushavan;200;AM;40
+Akunk;200;AM;40
+Aghavnadzor;200;AM;40
+Abovyan;200;AM;40
+Artsvaberd;200;AM;40
+Nor Yerznka;200;AM;40
+Lenughi;200;AM;40
+Gay;200;AM;40
+Mrgavet;200;AM;40
+Arevabuyr;200;AM;40
+Ndalatando;200;AO;40
+Villa del Rosario;200;AR;40
+Riacho Eh-Eh;200;AR;40
+Puerto Bermejo;200;AR;40
+Panambi;200;AR;40
+Cerro Cora;200;AR;40
+Campo Ramon;200;AR;40
+Tilcara;200;AR;40
+Tafi del Valle;200;AR;40
+Taco Pozo;200;AR;40
+Santiago Temple;200;AR;40
+San Francisco del Monte de Oro;200;AR;40
+San Cristobal;200;AR;40
+Napenay;200;AR;40
+Mutquin;200;AR;40
+Los Varela;200;AR;40
+Contraalmirante Cordero;200;AR;40
+Concepcion del Bermejo;200;AR;40
+Colonia La Tordilla;200;AR;40
+Tau;200;AS;40
+Faleasao County;200;AS;40
+Millstatt;200;AT;40
+Zirl;200;AT;40
+Zederhaus;200;AT;40
+Wurmla;200;AT;40
+Wundschuh;200;AT;40
+Worth an der Lafnitz;200;AT;40
+Wolfsberg im Schwarzautal;200;AT;40
+Weissenbach an der Triesting;200;AT;40
+Weingraben;200;AT;40
+Politischer Bezirk Radkersburg;200;AT;40
+Weinburg am Sassbach;200;AT;40
+Weichselbaum;200;AT;40
+Wattenberg;200;AT;40
+Wängle;200;AT;40
+Unterauersbach;200;AT;40
+Unken;200;AT;40
+Thalgau;200;AT;40
+Strengberg;200;AT;40
+Steeg;200;AT;40
+Stattegg;200;AT;40
+Spital am Semmering;200;AT;40
+Spillern;200;AT;40
+Spillern;200;AT;40
+Spielfeld;200;AT;40
+Söll;200;AT;40
+Sittersdorf;200;AT;40
+Sieggraben;200;AT;40
+Siegersdorf bei Herberstein;200;AT;40
+Sebersdorf;200;AT;40
+Sebersdorf;200;AT;40
+Schwoich;200;AT;40
+Schwendt;200;AT;40
+Schrattenthal;200;AT;40
+Scheffau am Wilden Kaiser;200;AT;40
+Scharndorf;200;AT;40
+Schandorf;200;AT;40
+Sautens;200;AT;40
+Sankt Veit an der Golsen;200;AT;40
+Sankt Ulrich bei Steyr;200;AT;40
+Sankt Stefan ob Leoben;200;AT;40
+Sankt Peter am Kammersberg;200;AT;40
+Sankt Peter am Kammersberg;200;AT;40
+Sankt Oswald bei Plankenwarth;200;AT;40
+Sankt Nikolai ob Draßling;200;AT;40
+Sankt Nikolai im Sausal;200;AT;40
+Sankt Michael in Obersteiermark;200;AT;40
+Sankt Michael im Lungau;200;AT;40
+Sankt Michael im Burgenland;200;AT;40
+Sankt Martin im Sulmtal;200;AT;40
+Sankt Martin an der Raab;200;AT;40
+Sankt Martin am Grimming;200;AT;40
+Sankt Margarethen bei Knittelfeld;200;AT;40
+Sankt Marein bei Neumarkt;200;AT;40
+Sankt Marein bei Knittelfeld;200;AT;40
+Sankt Marein bei Graz;200;AT;40
+Sankt Georgen an der Stiefing;200;AT;40
+Sankt Georgen an der Stiefing;200;AT;40
+Sankt Gallen;200;AT;40
+Sankt Corona am Wechsel;200;AT;40
+Sankt Anton am Arlberg;200;AT;40
+Sachsenburg;200;AT;40
+Ruden;200;AT;40
+Rothis;200;AT;40
+Rohr im Gebirge;200;AT;40
+Röhrenbach;200;AT;40
+Reisenberg;200;AT;40
+Reinsberg;200;AT;40
+Reinsberg;200;AT;40
+Ratschendorf;200;AT;40
+Randegg;200;AT;40
+Ramsau im Zillertal;200;AT;40
+Raabau;200;AT;40
+Pulkau;200;AT;40
+Puhret;200;AT;40
+Puch bei Weiz;200;AT;40
+Puch bei Hallein;200;AT;40
+Prutz;200;AT;40
+Pruggern;200;AT;40
+Prinzersdorf;200;AT;40
+Preitenegg;200;AT;40
+Poggersdorf;200;AT;40
+Pfunds;200;AT;40
+Pfarrkirchen im Mühlkreis;200;AT;40
+Pfarrkirchen bei Bad Hall;200;AT;40
+Ottenschlag im Muhlkreis;200;AT;40
+Offenhausen;200;AT;40
+Öblarn;200;AT;40
+Obervogau;200;AT;40
+Obervellach;200;AT;40
+Oberndorf bei Schwanenstadt;200;AT;40
+Oberndorf bei Salzburg;200;AT;40
+Oberloisdorf;200;AT;40
+Oberlienz;200;AT;40
+Oberkurzheim;200;AT;40
+Oberhofen im Inntal;200;AT;40
+Oberhofen im Inntal;200;AT;40
+Oberhofen am Irrsee;200;AT;40
+Oberhaag;200;AT;40
+Oberhaag;200;AT;40
+Nochling;200;AT;40
+Niklasdorf;200;AT;40
+Neustift an der Lafnitz;200;AT;40
+Neuhaus am Klausenbach;200;AT;40
+Neufeld an der Leitha;200;AT;40
+Neckenmarkt;200;AT;40
+Nauders;200;AT;40
+Namlos;200;AT;40
+Mortantsch;200;AT;40
+Mittersill;200;AT;40
+Mittelberg;200;AT;40
+Merkendorf;200;AT;40
+Mauterndorf;200;AT;40
+Mauerbach;200;AT;40
+Matrei am Brenner;200;AT;40
+Markgrafneusiedl;200;AT;40
+Maria Taferl;200;AT;40
+Maria Enzersdorf;200;AT;40
+Maria-Anzbach;200;AT;40
+Maissau;200;AT;40
+Maishofen;200;AT;40
+Maierdorf;200;AT;40
+Leopoldsdorf;200;AT;40
+Leobersdorf;200;AT;40
+Lenzing;200;AT;40
+Lechaschau;200;AT;40
+Lechaschau;200;AT;40
+Lassing;200;AT;40
+Lassee;200;AT;40
+Lanzenkirchen;200;AT;40
+Politischer Bezirk Hermagor;200;AT;40
+Kirchbach;200;AT;40
+Imst;200;AT;40
+Hernstein;200;AT;40
+Hernstein;200;AT;40
+Arkhara;200;RU;40
+Saint Petersburg;200;RU;40
+London;200;GB;40
+Kudepsta;200;RU;40
+Ashburton;200;NZ;40
+Prince Albert;200;ZA;40
+Williston;200;ZA;40
+Victoria West;200;ZA;40
+Koffiefontein;200;ZA;40
+Xiaoshi;200;CN;40
+Usera;200;ES;40
+Niegowonice;200;PL;40
+Kaulsdorf;200;DE;40
+Coulsdon;200;GB;40
+Edgware;200;GB;40
+Wickham;200;GB;40
+Pevensey;200;GB;40
+Himeville;200;ZA;40
+Moratalaz;200;ES;40
+Wasaga Beach;200;CA;40
+Cernay;200;FR;40
+Northolt;200;GB;40
+Germiston;200;ZA;40
+Adrar;200;DZ;40
+Richmond;200;AU;40
+Collingwood;200;AU;40
+North Sydney;200;AU;40
+Fitzroy;200;AU;40
+Fortitude Valley;200;AU;40
+Mundaring;200;AU;40
+Belmont;200;AU;40
+Haidian;200;CN;40
+Haitou;200;CN;40
+Zhenzhuquan;200;CN;40
+Yanqing;200;CN;40
+Onagawa Cho;200;JP;40
+Montussan;200;FR;40
+Aldeia de Joanes;200;PT;40
+Igoumenitsa;200;GR;40
+City of Westminster;200;GB;40
+Teddington;200;GB;40
+Southall;200;GB;40
+Stanmore;200;GB;40
+Isleworth;200;GB;40
+Pinner;200;GB;40
+Greenford;200;GB;40
+Hampton;200;GB;40
+Woodford Green;200;GB;40
+Santa Maria Chimalhuacan;200;MX;40
+Moabit;200;DE;40
+Schwaigern;200;DE;40
+Gruibingen;200;DE;40
+Friedenau;200;DE;40
+Baumschulenweg;200;DE;40
+Marienfelde;200;DE;40
+Blankenfelde;200;DE;40
+Ilfeld;200;DE;40
+Partenheim;200;DE;40
+Karlshorst;200;DE;40
+Rudow;200;DE;40
+Bad Blankenburg;200;DE;40
+Niederschonhausen;200;DE;40
+Friedrichshagen;200;DE;40
+Schmargendorf;200;DE;40
+Rosenthal;200;DE;40
+Heinersdorf;200;DE;40
+Gropiusstadt;200;DE;40
+Lankwitz;200;DE;40
+Buchholz;200;DE;40
+Biesdorf;200;DE;40
+Adlershof;200;DE;40
+Bogenhausen;200;DE;40
+Mahlsdorf;200;DE;40
+Koeln-Ehrenfeld;200;DE;40
+Bohnsdorf;200;DE;40
+Wannsee;200;DE;40
+Markt Nordheim;200;DE;40
+Staaken;200;DE;40
+Oberschoneweide;200;DE;40
+Niederschoneweide;200;DE;40
+Mariendorf;200;DE;40
+Muggelheim;200;DE;40
+Schmockwitz;200;DE;40
+Playa Blanca;200;ES;40
+Vicalvaro;200;ES;40
+El Tabo;200;CL;40
+Ituzaingo;200;AR;40
+Tinwald;200;NZ;40
+Pailly;200;CH;40
+Bavois;200;CH;40
+Grancy;200;CH;40
+Ballens;200;CH;40
+Mollens;200;CH;40
+Silvaplana;200;CH;40
+Saint-Livres;200;CH;40
+Pampigny;200;CH;40
+Sottens;200;CH;40
+Mossel Bay;200;ZA;40
+Paarl;200;ZA;40
+Ladysmith;200;ZA;40
+Estcourt;200;ZA;40
+Hoedspruit;200;ZA;40
+Mafikeng;200;ZA;40
+Riversdale;200;ZA;40
+Meyerton;200;ZA;40
+Mtubatuba;200;ZA;40
+Bergville;200;ZA;40
+Ashton;200;ZA;40
+Ixopo;200;ZA;40
+Marble Hall;200;ZA;40
+Ventersdorp;200;ZA;40
+Lady Grey;200;ZA;40
+Dendron;200;ZA;40
+Douglas;200;ZA;40
+Harding;200;ZA;40
+Creighton;200;ZA;40
+Ganyesa;200;ZA;40
+Delareyville;200;ZA;40
+Touba;200;SN;40
+Ogrodzieniec;200;PL;40
+Lyozna;200;BY;40
+Gulubovo;200;BG;40
+Victoria;200;RO;40
+Reghin;200;RO;40
+Cosambesti;200;RO;40
+Campulung;200;RO;40
+Onesti;200;RO;40
+Campina;200;RO;40
+Domnesti;200;RO;40
+Baia de Arama;200;RO;40
+Zarnesti;200;RO;40
+Ramnicelu;200;RO;40
+Brastavatu;200;RO;40
+Visina Noua;200;RO;40
+Marsani;200;RO;40
+Obarsia;200;RO;40
+Waidhofen an der Ybbs;200;AT;40
+Scheibbs;200;AT;40
+Librazhd;200;AL;40
+Pogradec;200;AL;40
+Imdina;200;MT;40
+Tarapoto;200;PE;40
+Ventanilla;200;PE;40
+Surco;200;PE;40
+Carabayllo;200;PE;40
+Aplao;200;PE;40
+Quillabamba;200;PE;40
+Huari;200;PE;40
+Chaclacayo;200;PE;40
+Punta Hermosa;200;PE;40
+Pomalca;200;PE;40
+Socabaya;200;PE;40
+Oesapa;200;ID;40
+Tianzhu;200;CN;40
+Ficksburg;200;ZA;40
+Barajas de Madrid;200;ES;40
+Karmelava;200;LT;40
+Chessington;200;GB;40
+Huanchaco;200;PE;40
+San Juan;200;PE;40
+Quince Mil;200;PE;40
+Buenos Aires;200;PE;40
+Rochegda;200;RU;40
+Cheremisinovo;200;RU;40
+Novoomskiy;200;RU;40
+Puchenstuben;200;AT;40
+Mayrhofen;200;AT;40
+Mariazell;200;AT;40
+Nesebar;200;BG;40
+Jiangan;200;CN;40
+Neustadt;200;DE;40
+Hamburg-Mitte;200;DE;40
+Sherrebek;200;DK;40
+Middelfart;200;DK;40
+Ejby;200;DK;40
+Saint-Laurent;200;FR;40
+Saint-Bris-le-Vineux;200;FR;40
+Southbank;200;AU;40
+South Petherton;200;GB;40
+Hawick;200;GB;40
+Gorleston-on-Sea;200;GB;40
+Galashiels;200;GB;40
+Bromyard;200;GB;40
+Looe;200;GB;40
+Solbiate Arno;200;IT;40
+San Teodoro;200;IT;40
+Ponte San Nicolo;200;IT;40
+Pantigliate;200;IT;40
+Marcon;200;IT;40
+Livo;200;IT;40
+Curno;200;IT;40
+Casalbore;200;IT;40
+Carugate;200;IT;40
+Baranzate;200;IT;40
+Asolo;200;IT;40
+Assago;200;IT;40
+Cavaso del Tomba;200;IT;40
+Busnago;200;IT;40
+Caponago;200;IT;40
+Bluff;200;NZ;40
+Lazy;200;PL;40
+City Center;200;ES;40
+Yevpatoriya;200;UA;40
+Kryvyy Rih;200;UA;40
+Staryy Oskol;200;RU;40
+Coffs Harbour;200;AU;40
+Pune;200;IN;40
+Salzburg;200;AT;40
+Cancun;200;MX;40
+Pristina;200;XK;40
+Ningde;200;CN;40
+Daxing;200;CN;40
+Venezia;200;IT;40
+Grande Prairie;200;CA;40
+Kassel;200;DE;40
+Saarbrucken;200;DE;40
+Alcoy;200;ES;40
+Geneve;200;CH;40
+Wroclaw;200;PL;40
+Tallinn;200;EE;40
+Mississauga;200;CA;40
+Birmingham;200;GB;40
+New York;200;US;40
+Svetlogorsk;200;BY;40
+Verkhoyansk;200;RU;40
+City of Cape Canaveral;200;US;40
+Merauke;200;ID;40
+Anadyr;200;RU;40
+Oymyakon;200;RU;40
+Cuauhtemoc;200;MX;40
+Mentougou;200;CN;40
+Bochum;200;DE;40
+Giugliano in Campania;200;IT;40
+South America;200;null;40
+Estado Portuguesa;200;VE;40
+Miraflores;200;VE;40
+Batyunino;200;RU;40
+Santa Marta;200;VE;40
+Asia;200;null;40
+Ukraine;200;UA;40
+Misto Kyyiv;200;UA;40
+Avtonomna Respublika Krym;200;UA;40
+Pisang;200;NP;40
+Alachkovo;200;RU;40
+Dal’niye Prudishchi;200;RU;40
+Nagatino;200;RU;40
+El Pantano;200;VE;40
+Campo Claro;200;VE;40
+Thapathali;200;NP;40
+Yelgazino;200;RU;40
+La Horquilla;200;VE;40
+Besedy;200;RU;40
+Vera de Agua;200;VE;40
+Connaught Place;200;IN;40
+Mampote;200;VE;40
+Arabopó;200;VE;40
+Vvedenskoye;200;RU;40
+Reutov;200;RU;40
+Kurovskoye;200;RU;40
+Gorenosovo;200;RU;40
+Golitsyno;200;RU;40
+Novaya Gollandiya;200;RU;40
+Sankt-Peterburg;200;RU;40
+Malaya Yablonovka;200;RU;40
+Malaya Okhta;200;RU;40
+Republic of Belarus;200;BY;40
+Nikol’skoye;200;RU;40
+Kuznetsovo;200;RU;40
+Zen’kino;200;RU;40
+Sychëvka;200;RU;40
+Vinogradnoye;200;UA;40
+Vecheri;200;RU;40
+Zabor’ye;200;RU;40
+Broomfield County;200;US;40
+Denver County;200;US;40
+Durango;200;US;40
+Montrose County;200;US;40
+Liberal;200;US;40
+McKinley County;200;US;40
+Lyon County;200;US;40
+Mesquite;200;US;40
+Ector County;200;US;40
+Spring Circle;200;US;40
+Wheadon Acres;200;US;40
+Clark County;200;US;40
+Casper;200;US;40
+Young;200;UY;40
+Treinta y Tres;200;UY;40
+Departamento de San José;200;UY;40
+La Paz;200;UY;40
+Delta del Tigre;200;UY;40
+Oltinkol;200;UZ;40
+Zomin;200;UZ;40
+Shorchi;200;UZ;40
+Kitob;200;UZ;40
+Juma;200;UZ;40
+Chiroqchi;200;UZ;40
+Chelak;200;UZ;40
+Bulungur;200;UZ;40
+Beshkent;200;UZ;40
+Boysun;200;UZ;40
+Oqtosh;200;UZ;40
+Zafar;200;UZ;40
+Yangirabot;200;UZ;40
+Yangiqorgon;200;UZ;40
+Dashtobod;200;UZ;40
+Tuytepa;200;UZ;40
+Turagurghon;200;UZ;40
+Toshbuloq;200;UZ;40
+Showot;200;UZ;40
+Salor;200;UZ;40
+Kosonsoy;200;UZ;40
+Gagarin;200;UZ;40
+Dustlik;200;UZ;40
+Kingstown Park;200;VC;40
+Turmero;200;VE;40
+Municipio Rosario de Perijá;200;VE;40
+Municipio Guacara;200;VE;40
+Municipio Sucre;200;VE;40
+Municipio Torres;200;VE;40
+Municipio Bolívar;200;VE;40
+El Coche;200;VE;40
+Uong Bi;200;VN;40
+Lagi;200;VN;40
+Komuna e Thërandës;200;XK;40
+Komuna e Shtimes;200;XK;40
+Komuna e Pejës;200;XK;40
+Komuna e Malisheves;200;XK;40
+Komuna e Deçanit;200;XK;40
+Zabīd;200;YE;40
+Yarīm;200;YE;40
+Al Bayda City;200;YE;40
+Schapenrust;200;ZA;40
+Queensdale;200;ZA;40
+Mondlo;200;ZA;40
+Lady Frere;200;ZA;40
+Ellisras;200;ZA;40
+Cradock;200;ZA;40
+Monze;200;ZM;40
+Kansanshi;200;ZM;40
+Gokwe;200;ZW;40
+Srandakan;200;ID;40
+Sragen;200;ID;40
+Soreang;200;ID;40
+Sychevo;200;RU;40
+Samashki;200;RU;40
+Gerzel-Aul;200;RU;40
+Avdon;200;RU;40
+Zorkot;200;AF;40
+Kyyivs’ka Oblast’;200;UA;40
+Posëlok Neftebazy;200;RU;40
+National Capital Territory of Delhi;200;IN;40
+Delhi;200;IN;40
+Privol’noye;200;UA;40
+Estado Bolívar;200;VE;40
+Curatabaca;200;VE;40
+Masu-parú-mota;200;VE;40
+Manangbhot;200;NP;40
+Lamjung;200;NP;40
+Reshetnikovo;200;RU;40
+Tverskaya Oblast’;200;RU;40
+Novyye Berëzki;200;RU;40
+Bobyanskoye;200;UA;40
+Petrozavodsk;200;RU;40
+Kondoka;200;RU;40
+Klimovsk;200;RU;40
+Savëlovo;200;RU;40
+Oynashniyemi;200;RU;40
+Nazarovo;200;RU;40
+Pokoyevo;200;RU;40
+Savel’yevo;200;RU;40
+Dolevo;200;RU;40
+Kursakovo-Markovo;200;RU;40
+Filatovo;200;RU;40
+Glebovo;200;RU;40
+Bukarevo;200;RU;40
+Chepelëvo;200;RU;40
+Vatutino;200;RU;40
+Klyaz’ma;200;RU;40
+Pushkino;200;RU;40
+Mayskoye;200;RU;40
+Zelentsino;200;RU;40
+Lyubimezh;200;RU;40
+Vetchi;200;RU;40
+Davydovo;200;RU;40
+Malpura;200;IN;40
+Kiraoli;200;IN;40
+Aghāpur;200;IN;40
+Mamonal;200;VE;40
+Shchekutina;200;RU;40
+Rogacheva;200;RU;40
+Navlya;200;RU;40
+Druzhba;200;UA;40
+Imshanaya;200;UA;40
+Svitino;200;RU;40
+Vislyy Bor;200;RU;40
+Burovka;200;RU;40
+Uspenskiy;200;RU;40
+Churbanov;200;KZ;40
+Verkhnyaya Akhtuba;200;RU;40
+Kakarmatha;200;IN;40
+Karchana;200;IN;40
+Parāsi;200;NP;40
+Bālāju;200;NP;40
+Yurov;200;UA;40
+Zhirovo;200;RU;40
+Biserovo;200;RU;40
+Voroniy Ostrov;200;RU;40
+Federative Republic of Brazil;200;BR;40
+Borodino;200;RU;40
+Troitskaya;200;RU;40
+Gol’yevo;200;RU;40
+Vorya-Bogorodskoye;200;RU;40
+Sharya;200;RU;40
+Borodulino;200;RU;40
+Mervino;200;RU;40
+Yalpay;200;RU;40
+Puchina;200;RU;40
+Smolensk;200;RU;40
+Guraki;200;BY;40
+Zalozy;200;BY;40
+Yesiplevo;200;RU;40
+Massandra;200;UA;40
+Kudryne;200;UA;40
+Krasnopeshchernaya;200;UA;40
+Verkhovskoye;200;RU;40
+Chvizhepse;200;RU;40
+Krasnaya Polyana;200;RU;40
+Kul’turnoye Uchdere;200;RU;40
+Sergey-Pole;200;RU;40
+Nizhneye Orekhovo;200;RU;40
+Vtoraya Rota;200;RU;40
+Verkhnerusskaya Khobza;200;RU;40
+Khartsiz Pervyy;200;RU;40
+Solokhaul;200;RU;40
+Bzogu;200;RU;40
+Rozhdestvenskiy;200;RU;40
+-;200;RU;40
+Abzhaqva;200;GE;40
+Ip’nari;200;GE;40
+Leselidze;200;GE;40
+Maloye Obraztsovo;200;RU;40
+Troitskoye;200;RU;40
+Sanatornaya;200;RU;40
+Kabardino-Balkarskaya Respublika;200;RU;40
+Novyy Krugozor;200;RU;40
+Uglovoye;200;RU;40
+Knevichi;200;RU;40
+Adler;200;RU;40
+Yakornaya Shchel';200;RU;40
+Agoy;200;RU;40
+Aeroflots’kyy;200;UA;40
+Rostovskaya Oblast’;200;RU;40
+Krucha;200;UA;40
+-;200;UA;40
+-;200;RU;40
+Vyazemskiy;200;RU;40
+Sukhoivanovskoye;200;UA;40
+Morozovskiy;200;UA;40
+Dravtse;200;UA;40
+Popovka;200;RU;40
+-;200;RU;40
+Voronezh;200;RU;40
+Bolokhovo;200;RU;40
+Dahmi;200;IN;40
+Voslinka;200;RU;40
+Murmanskaya Oblast’;200;RU;40
+Matrosy;200;RU;40
+Kaliningradskaya Oblast’;200;RU;40
+Gorbatovka;200;RU;40
+Prigorodnyy;200;RU;40
+Yantarnyy;200;RU;40
+Torfyanoye;200;RU;40
+Hoshāb;200;PK;40
+Kamāl Halq;200;PK;40
+Hirok;200;PK;40
+Gorcop;200;PK;40
+Kārez;200;PK;40
+Niāmi Kalag;200;PK;40
+Akil Iomak;200;PK;40
+Jamak;200;PK;40
+Kārez;200;PK;40
+Dram Kol;200;PK;40
+Orel;200;KZ;40
+Kopa;200;KZ;40
+Bechiwāra;200;IN;40
+Thamel;200;NP;40
+Riga;200;LV;40
+Fedoreyevka;200;RU;40
+Mostki;200;RU;40
+Prokurovka;200;RU;40
+Zhilina;200;RU;40
+Orel;200;RU;40
+Shatylivka;200;UA;40
+Saygatovo;200;RU;40
+Gostishchevo;200;RU;40
+Rozovka;200;UA;40
+Sichuan Sheng;200;CN;40
+Województwo Łódzkie;200;PL;40
+Hinode;200;JP;40
+Hyōgo-ken;200;JP;40
+Myōrakuji;200;JP;40
+Ehime-ken;200;JP;40
+Yokogawara;200;JP;40
+Yamagata-ken;200;JP;40
+Mazawa;200;JP;40
+Yamaguchi-ken;200;JP;40
+Daidō;200;JP;40
+Yamanashi-ken;200;JP;40
+Isawa;200;JP;40
+Aichi-ken;200;JP;40
+Arimatsu;200;JP;40
+Wada;200;JP;40
+Ibaraki-ken;200;JP;40
+Mukai-awagasaki;200;JP;40
+Kozlovka;200;RU;40
+Mokroye;200;RU;40
+Podbor’ye;200;RU;40
+Kuvshinovo;200;RU;40
+Kolykhmanovo;200;RU;40
+Terskol;200;RU;40
+Zaton;200;RU;40
+Tulun;200;RU;40
+Perevoz;200;RU;40
+Azey;200;RU;40
+Azey;200;RU;40
+Sheragul;200;RU;40
+Novotroitsk;200;RU;40
+Traktovaya;200;RU;40
+Tulyushka;200;RU;40
+Mingatuy;200;RU;40
+Yelanskiy;200;RU;40
+Kuytun;200;RU;40
+Kas’yanovka;200;RU;40
+Tashlinskiy;200;RU;40
+Novo-Pokrovskoye;200;RU;40
+Salyno-Khulsunskiye;200;RU;40
+Sakhalinskaya Oblast’;200;RU;40
+Khomutovo;200;RU;40
+Berdyanskoye;200;UA;40
+Kirlichnyy;200;RU;40
+Shyghys Qazaqstan Oblysy;200;KZ;40
+Zaysan;200;KZ;40
+Matveyevka;200;RU;40
+Gonchary;200;RU;40
+Gardami;200;RU;40
+Praporshchikovo;200;KZ;40
+Amurskaya Oblast’;200;RU;40
+Muralevo;200;RU;40
+Tekstil’shchik;200;RU;40
+Ovsyanka;200;RU;40
+Bol’shoy Istok;200;RU;40
+Harjumaa;200;EE;40
+Kernu vald;200;EE;40
+Vanavara;200;RU;40
+Markha;200;RU;40
+Allenton;200;NZ;40
+Whakarewarewa;200;NZ;40
+Grant;200;AU;40
+Bamarong;200;AU;40
+Región del Libertador General Bernardo O’Higgins;200;CL;40
+Lo Moscoso;200;CL;40
+State of Western Australia;200;AU;40
+Plantagenet Shire;200;AU;40
+Mortigallup;200;AU;40
+Wingecarribee;200;AU;40
+Sutton Forest;200;AU;40
+Hay;200;AU;40
+Hay;200;AU;40
+Piñero;200;AR;40
+Mallala;200;AU;40
+Fairfield;200;AU;40
+Hornsby Shire;200;AU;40
+Parkes;200;AU;40
+Goobang;200;AU;40
+Noupoort;200;ZA;40
+State of Queensland;200;AU;40
+Southern Downs;200;AU;40
+Applethorpe;200;AU;40
+Welkom;200;ZA;40
+Fleurbaix;200;AU;40
+Gold Coast;200;AU;40
+Bilinga;200;AU;40
+Fraaiuitzicht;200;ZA;40
+South Burnett;200;AU;40
+Hodgleigh;200;AU;40
+Rio da Areia;200;BR;40
+Province of North-West;200;ZA;40
+Mesa;200;ZA;40
+Meekatharra;200;AU;40
+Abbotts;200;AU;40
+Gauteng;200;ZA;40
+Glenharvie;200;ZA;40
+Eden Glen;200;ZA;40
+Departamento de Copo;200;AR;40
+Monte Quemado;200;AR;40
+Estado do Parana;200;BR;40
+Piraquara;200;BR;40
+Boschrand;200;ZA;40
+Soutpan;200;ZA;40
+Atuba;200;BR;40
+Olaria;200;BR;40
+Yulara;200;AU;40
+Hukuntsi;200;BW;40
+Ga-Modjadji;200;ZA;40
+Palmietfontein;200;ZA;40
+Marowe;200;ZA;40
+Alice Springs;200;AU;40
+Alice Springs;200;AU;40
+Estado de São Paulo;200;BR;40
+Arujá;200;BR;40
+Mara;200;ZA;40
+Islandia;200;US;40
+Texas;200;US;40
+Brooks County;200;US;40
+Noria Willie;200;US;40
+Highlands County;200;US;40
+Wild Island;200;US;40
+Hillsborough County;200;US;40
+Lindsey;200;US;40
+Refugio County;200;US;40
+Cranell;200;US;40
+Calhoun County;200;US;40
+Louisiana;200;US;40
+Plaquemines Parish;200;US;40
+Burrwood (historical);200;US;40
+Slagle;200;US;40
+Conecuh County;200;US;40
+Castleberry;200;US;40
+Crenshaw County;200;US;40
+Dozier;200;US;40
+Hamilton County;200;US;40
+Parsley Crossing;200;US;40
+Pima County;200;US;40
+Valencia West;200;US;40
+Vanar;200;US;40
+Bedford;200;US;40
+Alvarado;200;US;40
+Grimsby;200;CA;40
+Beamsville;200;CA;40
+Hensall;200;CA;40
+Nova Scotia;200;CA;40
+Turriff;200;CA;40
+Montérégie;200;CA;40
+Huntingdon;200;CA;40
+Saint-Bernard-de-Lacolle;200;CA;40
+Kerrowgare;200;CA;40
+Bourget;200;CA;40
+Aboushagan Road;200;CA;40
+Argyle Shore;200;CA;40
+Cap-Saint-Ignace;200;CA;40
+Bas-Saint-Laurent;200;CA;40
+Sainte-Marguerite;200;CA;40
+Savanne;200;CA;40
+Driftwood;200;CA;40
+Hilliers;200;CA;40
+Moonbeam;200;CA;40
+Frontier;200;CA;40
+Sioux Narrows;200;CA;40
+Gahern;200;CA;40
+Porto Rico;200;CA;40
+Portage la Prairie;200;CA;40
+Royal Park;200;CA;40
+Mount Isa;200;AU;40
+Kunene;200;NA;40
+Outjo;200;NA;40
+Pôrto do Sapé;200;BR;40
+Altamira;200;BR;40
+Cardeal Mota;200;BR;40
+Mollendo;200;PE;40
+Holloways Beach;200;AU;40
+Namalindi;200;ZM;40
+Mashonaland West Province;200;ZW;40
+Makuti;200;ZW;40
+Ôlho d’Água;200;BR;40
+Distrito Federal;200;BR;40
+Gama;200;BR;40
+Guará;200;BR;40
+Quepacc;200;PE;40
+Aldeia Chivungo;200;MZ;40
+Central Province;200;ZM;40
+Mungule Court;200;ZM;40
+Comaxinda;200;MZ;40
+Departamento de Ayacucho;200;PE;40
+Layo;200;PE;40
+Chavantina;200;BR;40
+Lyembo;200;ZM;40
+Guma;200;MW;40
+Dowa District;200;MW;40
+Mjudzi;200;MW;40
+Nkhongue;200;MW;40
+Província de Niassa;200;MZ;40
+Aldeia Nacapa;200;MZ;40
+North-Western Province;200;ZM;40
+Chikonkwelo;200;ZM;40
+Ngambo;200;ZM;40
+Mulaya;200;ZM;40
+Nkhotakota District;200;MW;40
+Chinemba;200;MW;40
+Ngwata;200;ZM;40
+East Arnhem;200;AU;40
+Nhulunbuy;200;AU;40
+San Borja;200;PE;40
+Departamento de Junín;200;PE;40
+Chaucancha;200;PE;40
+Kabuko;200;ZM;40
+Anori;200;BR;40
+Tambo;200;CD;40
+Kampung Malaju;200;ID;40
+Provinsi Jawa Timur;200;ID;40
+Provinsi Jawa Tengah;200;ID;40
+Bangun;200;ID;40
+Ngasin;200;ID;40
+Provinsi Jawa Barat;200;ID;40
+Sengo;200;CD;40
+Tambakboyo;200;ID;40
+Simpeureum;200;ID;40
+Morogoro Region;200;TZ;40
+Manyara Region;200;TZ;40
+Marwa;200;TZ;40
+Republic of Ecuador;200;EC;40
+Provincia de Loja;200;EC;40
+Yanacocha;200;EC;40
+Serapat;200;ID;40
+Balémon;200;CG;40
+Dolupo;200;ID;40
+Longanio;200;CD;40
+Provincia del Guayas;200;EC;40
+Hacienda Norton;200;EC;40
+Rift Valley Province;200;KE;40
+Poka;200;KE;40
+Curuai;200;BR;40
+Selindung;200;ID;40
+Nginda;200;KE;40
+Provincia de Pichincha;200;EC;40
+Del Salitre;200;EC;40
+Provinsi Sumatera Barat;200;ID;40
+Provincia de Manabí;200;EC;40
+Eloy Alfaro;200;EC;40
+Nyanza Province;200;KE;40
+Toayan;200;ID;40
+Merus;200;ID;40
+Kangboi;200;ID;40
+Maracá;200;BR;40
+Tumbit;200;ID;40
+Adok;200;UG;40
+Napak District;200;UG;40
+Lokiporangatome;200;UG;40
+Departamento del Guaviare;200;CO;40
+Inspección de Policía Puerto Ospina;200;CO;40
+Province Orientale;200;CD;40
+South Region;200;CM;40
+Atog-Boga;200;CM;40
+Bakrakondre;200;SR;40
+Pekia;200;CD;40
+Doumomama;200;CM;40
+Bangenze;200;CD;40
+Departamento del Meta;200;CO;40
+Koffio;200;CI;40
+Hele;200;CF;40
+Imo State;200;NG;40
+Elelem;200;NG;40
+Distrikt Brokopondo;200;SR;40
+Maréchalskondre;200;SR;40
+Santa Rita;200;CO;40
+Fouy;200;CM;40
+Garga Sarali;200;CM;40
+Province of Sulu;200;PH;40
+Bu-Datu;200;PH;40
+Chum;200;GH;40
+Muete;200;GH;40
+Banwalan;200;PH;40
+Twinsisim;200;GH;40
+Lakes State;200;SS;40
+Dolinom;200;SS;40
+Zamboanga Peninsula;200;PH;40
+Province of  Zamboanga del Sur;200;PH;40
+Caraga;200;PH;40
+Province of Surigao del Sur;200;PH;40
+Tudela;200;PH;40
+Western Bahr el Ghazal State;200;SS;40
+Jellab;200;SS;40
+Province of Lanao del Norte;200;PH;40
+Buntong;200;PH;40
+Changwat Nakhon Si Thammarat;200;TH;40
+Ban Thung That;200;TH;40
+Province of Zamboanga del Norte;200;PH;40
+Sonob;200;PH;40
+Upper Nile State;200;SS;40
+Liamyok;200;SS;40
+Koka;200;ET;40
+Northern Bahr el Ghazal State;200;SS;40
+Bahr en Nil;200;SS;40
+Province of Misamis Oriental;200;PH;40
+Baligidian;200;PH;40
+Bouvolem;200;TG;40
+Municipio Uracoa;200;VE;40
+Uracoa;200;VE;40
+Kabalima;200;GH;40
+Kayogyog;200;PH;40
+Emagiti;200;NG;40
+Provincia de Panamá;200;PA;40
+Chilibrillo Número Dos;200;PA;40
+Chiquilleo;200;PA;40
+El Drago;200;VE;40
+Pirital;200;VE;40
+Adibo;200;GH;40
+Mēta;200;ET;40
+Estado Trujillo;200;VE;40
+Los Pajones;200;VE;40
+San Juan de Paya;200;VE;40
+Republic of Costa Rica;200;CR;40
+Provincia de San José;200;CR;40
+Tulín;200;CR;40
+Vuelta del Virilla;200;CR;40
+Las Dos Bocas;200;VE;40
+Central Visayas;200;PH;40
+Province of Cebu;200;PH;40
+Esperanza;200;PH;40
+Nawari;200;GH;40
+Far North Region;200;CM;40
+Barawa Ladé;200;CM;40
+El Conflicto;200;VE;40
+Changwat Chumphon;200;TH;40
+Ban Khron;200;TH;40
+Loma Larga;200;VE;40
+El Silencio;200;VE;40
+Gobolka Awdal;200;SO;40
+Laem Ngop;200;TH;40
+Departamento de León;200;NI;40
+El Papalote;200;NI;40
+Changawat Chanthaburi;200;TH;40
+Ban Pak Nam;200;TH;40
+Bambato;200;GW;40
+Western Darfur State;200;SD;40
+Godosgo;200;SD;40
+State of Tamil Nādu;200;IN;40
+Polur;200;IN;40
+State of Karnātaka;200;IN;40
+Kanakapura;200;IN;40
+Changwat Rayong;200;TH;40
+Ban Charoen Suk;200;TH;40
+Région de Kayes;200;ML;40
+Sikoroni;200;ML;40
+Yobe State;200;NG;40
+Dillala;200;NG;40
+Departamento de La Libertad;200;SV;40
+La Shila;200;SV;40
+Zinder;200;NE;40
+Kaygamari;200;NE;40
+Krung Thep Mahanakhon;200;TH;40
+Phra Khanong;200;TH;40
+Changwat Samut Prakan;200;TH;40
+Ban Bang Krabueang;200;TH;40
+Ban Khlong Bang Waek;200;TH;40
+Changwat Nonthaburi;200;TH;40
+Bangkok;200;TH;40
+Sukhumvit;200;TH;40
+Muḩāfaz̧at Ibb;200;YE;40
+Ibb;200;YE;40
+Bayt Sa‘d Nāşir;200;YE;40
+Changwat Kanchanaburi;200;TH;40
+Ban Tha Po;200;TH;40
+Departmento de Francisco Morazán;200;HN;40
+Villa Nueva;200;HN;40
+Changwat Prachin Buri;200;TH;40
+Ban Nong Nam Khao;200;TH;40
+Yahaungwa;200;MM;40
+Tillabéri;200;NE;40
+I-n-Alakam;200;NE;40
+Province of Quezon;200;PH;40
+Quilib;200;PH;40
+Departamento de Chalatenango;200;SV;40
+Teosinte;200;SV;40
+Llano de La Virgen;200;SV;40
+Republic of Guatemala;200;GT;40
+Departamento de Santa Rosa;200;GT;40
+Ojo de Agua;200;GT;40
+Changwat Nakhon Ratchasima;200;TH;40
+Ban Huai Sakae Rat;200;TH;40
+Pak Chong;200;TH;40
+Central Luzon;200;PH;40
+Province of Zambales;200;PH;40
+Leley;200;PH;40
+Mai Albo;200;ER;40
+Région de Mopti;200;ML;40
+Tilèya;200;ML;40
+Villar;200;PH;40
+Région de Louga;200;SN;40
+Vèndou Séno;200;SN;40
+Sanaa;200;YE;40
+Bani Matar;200;YE;40
+Al Khasamah;200;YE;40
+Mescul;200;ER;40
+Agametta;200;ER;40
+Changwat Nakhon Sawan;200;TH;40
+Ban Nam Song;200;TH;40
+Ban Nong Rang Ka;200;TH;40
+Région de Gao;200;ML;40
+Wagaman;200;ML;40
+Departamento de Colón;200;HN;40
+Boca de Hule;200;HN;40
+Changwat Maha Sarakham;200;TH;40
+Kae Dam;200;TH;40
+Muḩāfaz̧at Ḩajjah;200;YE;40
+Abs;200;YE;40
+Dayr al Ḩisī;200;YE;40
+Muḩāfaz̧at al Jawf;200;YE;40
+Al Maslub;200;YE;40
+Rakkat al ‘Askarī;200;YE;40
+Estado de Chiapas;200;MX;40
+Las Maravillas;200;MX;40
+Région de Saint-Louis;200;SN;40
+Keur Mor Ibra;200;SN;40
+Changwat Yasothon;200;TH;40
+Ban Wang Pong;200;TH;40
+Changwat Udon Thani;200;TH;40
+Ban Laem Thong Phatthana;200;TH;40
+Ban Na Lap Laeng;200;TH;40
+Ban Dan Mae Kham Man Nuea;200;TH;40
+La Venta;200;DO;40
+Villas Agrícolas Número Dos;200;DO;40
+Marmolejos;200;DO;40
+Arroyo Hondo;200;DO;40
+Provincia de La Altagracia;200;DO;40
+Otra Banda;200;DO;40
+Ban Mae Wan;200;TH;40
+Tessalit;200;ML;40
+Tanaunghla;200;MM;40
+Estado de Querétaro de Arteaga;200;MX;40
+Thayetchin;200;MM;40
+Wān Yampēng;200;MM;40
+Serdégé;200;TD;40
+Kongmöng;200;MM;40
+Guangdong Sheng;200;CN;40
+Thanbankyun;200;MM;40
+Ash Shubramīyah;200;SA;40
+Jharol;200;IN;40
+Qaşr al Quraynah;200;SA;40
+Taiwan;200;TW;40
+Taiwan;200;TW;40
+Siji;200;TW;40
+Tulāpāra;200;BD;40
+Sagaing Division;200;MM;40
+Wilaya d’ Adrar;200;DZ;40
+Akabli;200;DZ;40
+Al Fāḑilī;200;SA;40
+Ad Dchira;200;EH;40
+Mahkawshan;200;MM;40
+Sadabad;200;IN;40
+Kingdom of Spain;200;ES;40
+Comunidad Autónoma de Canarias;200;ES;40
+Puerto Rico;200;ES;40
+Ostān-e Khūzestān;200;IR;40
+Muḩāfaz̧at an Najaf;200;IQ;40
+Raḩbah;200;IQ;40
+Jiangsu Sheng;200;CN;40
+Xiaolingwei;200;CN;40
+Kobaruyama;200;JP;40
+Dê Kanāt-e Laţīf;200;AF;40
+Marghakay;200;AF;40
+Khadzhi-Alam-Kalay;200;AF;40
+Qaryah-ye Band Now;200;AF;40
+Tōngar;200;AF;40
+Aril;200;AF;40
+Muḩāfaz̧at Karbalā’;200;IQ;40
+Ḩasan Yūsuf;200;IQ;40
+Khênḏakaī Karam Zāway;200;AF;40
+Kākā Khēl;200;AF;40
+Wilaya de Ghardaïa;200;DZ;40
+Ghardaïa;200;DZ;40
+Federally Administered Tribal Areas;200;PK;40
+Sembonyama;200;JP;40
+Portuguese Republic;200;PT;40
+Região Autónoma da Madeira;200;PT;40
+Ūrāyin-e ‘Ulyā;200;AF;40
+Shavers (historical);200;US;40
+Lakeview;200;US;40
+Région de Rabat-Salé-Zemmour-Zaër;200;MA;40
+Apollo (historical);200;US;40
+Khānī-ye ‘Ulyā;200;AF;40
+Morizane;200;JP;40
+Grayson County;200;US;40
+Shiobaru;200;JP;40
+Jowkān;200;IR;40
+Ono;200;JP;40
+Peshawar;200;PK;40
+Al Haïmriyine;200;MA;40
+Los Angeles County;200;US;40
+Shiwnah Takhak;200;AF;40
+Chattooga County;200;US;40
+Sprite;200;US;40
+Nagao;200;JP;40
+Shaanxi;200;CN;40
+Weiyanggong;200;CN;40
+Newberry County;200;US;40
+Mount Bethel (historical);200;US;40
+Kershaw County;200;US;40
+Kānsī Suflá;200;AF;40
+Dahan-e Akhtah Khānah;200;AF;40
+Ghurumbāw;200;AF;40
+Ageki;200;JP;40
+Hayashi;200;JP;40
+Kamonomiya;200;JP;40
+Nomós Chaniás;200;GR;40
+Nelson;200;US;40
+Koyasu;200;JP;40
+Miyanomae;200;JP;40
+Schoolton;200;US;40
+Kubota;200;JP;40
+Chatham County;200;US;40
+Shimo-kodanaka;200;JP;40
+Denenchōfu;200;JP;40
+Nishi-hanawa;200;JP;40
+Fujino;200;JP;40
+Asagaya;200;JP;40
+Egotamachi;200;JP;40
+Awatabe;200;JP;40
+Ono;200;JP;40
+Dyer County;200;US;40
+Rehoboth;200;US;40
+Tateno;200;JP;40
+Yugawa;200;JP;40
+Shiogasaki;200;JP;40
+Almería;200;ES;40
+La Vega de Acá;200;ES;40
+Ch’ungch’ŏng-bukto;200;KR;40
+Monachil;200;ES;40
+Illinois;200;US;40
+Breaks;200;US;40
+괴내;200;KR;40
+Campillo de Adentro;200;ES;40
+Tangp’yŏng;200;KR;40
+Pedara;200;IT;40
+Curry Village;200;US;40
+Bent County;200;US;40
+Riverdale;200;US;40
+Umulmok;200;KR;40
+Prowers County;200;US;40
+Altofonte;200;IT;40
+Dimos Mandra-Eidyllia;200;GR;40
+Myŏngwŏli-ri;200;KR;40
+Rowan County;200;US;40
+Aone;200;JP;40
+Palermo;200;IT;40
+Noce;200;IT;40
+Guadalcanal Village;200;US;40
+Basilicò;200;IT;40
+Garfield County;200;US;40
+Badiazza;200;IT;40
+Castanea delle Furie;200;IT;40
+Ravanna;200;US;40
+El Águila;200;ES;40
+Central Greece;200;GR;40
+Pueblo County;200;US;40
+Poncha Springs;200;US;40
+Setúbal;200;PT;40
+São Lourenço;200;PT;40
+Vila Nogueira de Azeitão;200;PT;40
+Napa County;200;US;40
+Redbud Park (historical);200;US;40
+Sloughhouse;200;US;40
+Manisa;200;TR;40
+El Paso County;200;US;40
+Truckton;200;US;40
+West Greece;200;GR;40
+Nomós Aitolías kai Akarnanías;200;GR;40
+Dimos Agrinio;200;GR;40
+Puertollano;200;ES;40
+Grainfield;200;US;40
+North Aegean;200;GR;40
+Nomós Lésvou;200;GR;40
+Dimos Lesbos;200;GR;40
+Moria;200;GR;40
+Kit Carson County;200;US;40
+Parreira;200;PT;40
+Monserrato;200;IT;40
+Köprübaşı;200;TR;40
+Casas-Ibáñez;200;ES;40
+Vanderbilt (historical);200;US;40
+Ishiwaki;200;JP;40
+Thomas County;200;US;40
+Aşağı Aladağ;200;TR;40
+Calderón;200;ES;40
+Harris Park;200;US;40
+Nomós Larísis;200;GR;40
+Brindletown;200;US;40
+Crisman;200;US;40
+Mileo;200;IT;40
+Arıklıbağları;200;TR;40
+Ward;200;US;40
+Provincia di Nuoro;200;IT;40
+Pawnee City;200;US;40
+Miami County;200;US;40
+Meyers (historical);200;US;40
+Provincia de Cáceres;200;ES;40
+Madrigal de la Vera;200;ES;40
+Madrigal de la Vera;200;ES;40
+Provincia di Oristano;200;IT;40
+Cuglieri;200;IT;40
+Figueira da Foz;200;PT;40
+Humboldt County;200;US;40
+Honeydew;200;US;40
+Dimos Kozani;200;GR;40
+Kozani;200;GR;40
+Shelby County;200;US;40
+Lakeside Village;200;US;40
+Bull Creek;200;US;40
+Yuma County;200;US;40
+Loeches;200;ES;40
+Barro;200;US;40
+Ak-Shor;200;KG;40
+Hachinohe;200;JP;40
+Verona;200;US;40
+Chortiatis;200;GR;40
+Potenza;200;IT;40
+Castilla y León;200;ES;40
+Salamanca;200;ES;40
+Seneca County;200;US;40
+Springville;200;US;40
+Provincia di Caserta;200;IT;40
+Provincia di Avellino;200;IT;40
+Mira;200;PT;40
+Jacinto;200;US;40
+Nomós Rodópis;200;GR;40
+Dimos Komotini;200;GR;40
+Komotini;200;GR;40
+Provincia di Olbia-Tempio;200;IT;40
+Tempio Pausania;200;IT;40
+Campavaglio;200;IT;40
+Nomós Xánthis;200;GR;40
+Dimos Xanthi;200;GR;40
+Indiana;200;US;40
+Catalunya;200;ES;40
+Olèrdola;200;ES;40
+Pike County;200;US;40
+Indiantown (historical);200;US;40
+Fort LaClede (historical);200;US;40
+Sant Adria de Besos;200;ES;40
+Foggia;200;IT;40
+Navoiy Province;200;UZ;40
+Omontoy;200;UZ;40
+Warren County;200;US;40
+Palmyra;200;US;40
+Steubenville;200;US;40
+Strovija;200;MK;40
+Balaguer;200;ES;40
+Província de Girona;200;ES;40
+Provincia de Ourense;200;ES;40
+La Giustiniana;200;IT;40
+Del Norte County;200;US;40
+Provincia de Huesca;200;ES;40
+Republic of Bulgaria;200;BG;40
+Vigo;200;ES;40
+Alcabre;200;ES;40
+Provincia di Rieti;200;IT;40
+Frasso Sabino;200;IT;40
+Frasso Sabino;200;IT;40
+Mundale;200;US;40
+Dwyer Junction;200;US;40
+Casamaina;200;IT;40
+Three Creek;200;US;40
+Camp Wyoma;200;US;40
+South Gilboa Station;200;US;40
+Labor del Rey;200;ES;40
+South New Berlin;200;US;40
+Chüy;200;KG;40
+Ala-Archa Al’plegri;200;KG;40
+Farnams;200;US;40
+Kalamo;200;US;40
+Garanou;200;FR;40
+Foligno;200;IT;40
+Ayazaza;200;ES;40
+Région Provence-Alpes-Côte d'Azur;200;FR;40
+Département du Var;200;FR;40
+Arrondissement de Narbonne;200;FR;40
+Sorabilla;200;ES;40
+Sestao;200;ES;40
+Carbonne;200;FR;40
+Carbonne;200;FR;40
+Arrondissement de Marseille;200;FR;40
+Arteixo;200;ES;40
+Viñas;200;ES;40
+Saint-Pierre;200;FR;40
+Ilharre;200;FR;40
+Golovša;200;RS;40
+Arnuero;200;ES;40
+Quejo;200;ES;40
+Bonneville County;200;US;40
+Swan Valley;200;US;40
+Tinje;200;BA;40
+Cascina;200;IT;40
+Capraia Fiorentina;200;IT;40
+Provincia di Lucca;200;IT;40
+Provincia di Pesaro e Urbino;200;IT;40
+Montemurlo;200;IT;40
+Warren;200;US;40
+Les Mées;200;FR;40
+Castelsarrasin;200;FR;40
+Zadarska Županija;200;HR;40
+Vallabrix;200;FR;40
+Lussolle;200;FR;40
+Borghetto Santo Spirito;200;IT;40
+Provincia di Forlì;200;IT;40
+Cesena;200;IT;40
+Pontenx-les-Forges;200;FR;40
+Pontenx-les-Forges;200;FR;40
+Crystal (historical);200;US;40
+Saint-Trosse;200;FR;40
+Franklin County;200;US;40
+Cabarton;200;US;40
+Marola;200;IT;40
+Rivalta Bormida;200;IT;40
+Rivalta Bormida;200;IT;40
+Ferrara;200;IT;40
+Provincia di Piacenza;200;IT;40
+Carpaneto Piacentino;200;IT;40
+Mucinasso;200;IT;40
+Lemhi County;200;US;40
+Baker;200;US;40
+Langlade County;200;US;40
+Provincia di Pavia;200;IT;40
+Corte Rusta;200;IT;40
+Arrondissement de Périgueux;200;FR;40
+Albion Center;200;US;40
+Provincia di Venezia;200;IT;40
+Hilgard;200;US;40
+Kandiyohi County;200;US;40
+Mirano;200;IT;40
+Creazzo;200;IT;40
+Venezia;200;IT;40
+Cret;200;IT;40
+Sampson;200;US;40
+Arrondissement de La Tour-du-Pin;200;FR;40
+Four;200;FR;40
+Trieste;200;IT;40
+Corent;200;FR;40
+Albino;200;IT;40
+Zalog;200;SI;40
+Sibiu;200;RO;40
+Občina Krško;200;SI;40
+Sacile;200;IT;40
+Britof;200;SI;40
+Ježa;200;SI;40
+Občina Cerkno;200;SI;40
+Kal;200;SI;40
+Hungary;200;HU;40
+Département de la Haute-Savoie;200;FR;40
+Valle di Dentro;200;IT;40
+Saint-Sulpice (VD);200;CH;40
+Izvoarele de Sus;200;RO;40
+Région Franche-Comté;200;FR;40
+Département du Jura;200;FR;40
+Felsőtelep;200;HU;40
+Walser Crossing;200;US;40
+Trouy;200;FR;40
+Trouy;200;FR;40
+Livada de Bihor;200;RO;40
+Kanton St. Gallen;200;CH;40
+Wahlkreis Sargans;200;CH;40
+Vilters-Wangs;200;CH;40
+Vilters;200;CH;40
+Département du Doubs;200;FR;40
+Arrondissement de Pontarlier;200;FR;40
+Ruswil;200;CH;40
+Holz;200;CH;40
+Grays Harbor County;200;US;40
+Amt Burgdorf;200;CH;40
+Kernenried;200;CH;40
+Bellmund;200;CH;40
+Bellmund;200;CH;40
+Greith;200;AT;40
+Puchfeld;200;AT;40
+La Croix Verte;200;FR;40
+Picheldorf;200;AT;40
+Ormenans;200;FR;40
+Basel;200;CH;40
+Spokane County;200;US;40
+Bezirk Bülach;200;CH;40
+Eglisau;200;CH;40
+Hinter Stadtberg;200;CH;40
+Bulai-Bosanci;200;RO;40
+Windhag;200;DE;40
+Région Bretagne;200;FR;40
+Judeţul Suceava;200;RO;40
+Regierungsbezirk Tübingen;200;DE;40
+Unterleithen;200;AT;40
+Région Champagne-Ardenne;200;FR;40
+Burgkirchen;200;AT;40
+Innere Stadt;200;AT;40
+Bratislavský Kraj;200;SK;40
+Friesenegg;200;AT;40
+Stevens County;200;US;40
+Région Île-de-France;200;FR;40
+Fontenailles;200;FR;40
+Wielands;200;AT;40
+Regierungsbezirk Karlsruhe;200;DE;40
+Landkreis Regen;200;DE;40
+Blossersberg;200;DE;40
+Kraj Vysočina;200;CZ;40
+Veľký Bysterec;200;SK;40
+Haßloch;200;DE;40
+Okres Žďár nad Sázavou;200;CZ;40
+Wiebelskirchen;200;DE;40
+Podhradní Lhota;200;CZ;40
+Audignicourt;200;FR;40
+Grand Duchy of Luxembourg;200;LU;40
+Landkreis Kusel;200;DE;40
+Landkreis Fürth;200;DE;40
+Otavožaty;200;CZ;40
+Hüttenfeld;200;DE;40
+Zámek Zďár nad Sázavou II;200;CZ;40
+Středočeský kraj;200;CZ;40
+Scharrau;200;DE;40
+Regierungsbezirk Darmstadt;200;DE;40
+Landkreis Groß-Gerau;200;DE;40
+Nauheim;200;DE;40
+Studánka;200;CZ;40
+Département de la Somme;200;FR;40
+Bethencourt-sur-Mer;200;FR;40
+Malešice;200;CZ;40
+Podlesí;200;CZ;40
+Landkreis Cochem-Zell;200;DE;40
+Olomoucký kraj;200;CZ;40
+Ramzová;200;CZ;40
+Stopnica;200;PL;40
+Segendorf;200;DE;40
+Janov;200;CZ;40
+Duchess;200;CA;40
+Direktionsbezirk Dresden;200;DE;40
+Zinnwald-Georgenfeld;200;DE;40
+Georgenfeld;200;DE;40
+Roschütz;200;DE;40
+Obernetphen;200;DE;40
+Gemeente Beek;200;NL;40
+Gardschütz;200;DE;40
+Rommelaar;200;BE;40
+Dover District;200;GB;40
+Hart District;200;GB;40
+Fetcham;200;GB;40
+Greater London;200;GB;40
+Lössnig;200;DE;40
+Mikułowice;200;PL;40
+Sandhurst;200;GB;40
+Morden;200;GB;40
+Radom;200;PL;40
+Powiat kozienicki;200;PL;40
+Barnet;200;GB;40
+Wales;200;GB;40
+Chepstow;200;GB;40
+Sinsen;200;DE;40
+Great Braxted;200;GB;40
+Fort Cross Roads;200;IE;40
+Regierungsbezirk Detmold;200;DE;40
+Röllinghausen;200;DE;40
+Sierzchów;200;PL;40
+Nacton;200;GB;40
+Westenfeld;200;DE;40
+Tre-groes;200;GB;40
+Malvern Hills District;200;GB;40
+Jakubów;200;PL;40
+Forest Heath District;200;GB;40
+Haddenham;200;GB;40
+Grafhorst;200;DE;40
+East Northamptonshire District;200;GB;40
+City of Peterborough;200;GB;40
+Województwo Zachodniopomorskie;200;PL;40
+Łomżyca;200;PL;40
+Ballycoyle;200;IE;40
+Meadow Mount;200;IE;40
+Dünkirchen;200;DE;40
+Ohrbült;200;DE;40
+Kreis Herzogtum Lauenburg;200;DE;40
+Powiat chojnicki;200;PL;40
+Shipley;200;GB;40
+Mragowo;200;PL;40
+Kreis Steinburg;200;DE;40
+La Ronge;200;CA;40
+Huallen;200;CA;40
+Roskilde Kommune;200;DK;40
+Ladegårdshuse;200;DK;40
+Mjölby Kommun;200;SE;40
+Ramshult;200;SE;40
+Dease Lake;200;CA;40
+Västra Götalands Län;200;SE;40
+Trollhättans Kommun;200;SE;40
+Väne Åsaka;200;SE;40
+Rogaland Fylke;200;NO;40
+Teekkarikylae;200;FI;40
+Fjell;200;NO;40
+Kouvola;200;FI;40
+Etelä-Karjala;200;FI;40
+Faro;200;CA;40
+Halssilanrinne;200;FI;40
+Snowdrift;200;CA;40
+Karhunkylä;200;FI;40
+Viitasaari;200;FI;40
+Huopanankoski;200;FI;40
+L'Hospitalet-près-l'Andorre;200;FR;40
+Villanova sull'Arda;200;IT;40
+L'Allier;200;FR;40
+L'Isle-Verte;200;CA;40
+L'Eure;200;FR;40
+Kravtsovo;200;RU;40
+Starodzhereliyevskaya;200;RU;40
+Saransk;200;RU;40
+Tyndall Air Force Base;200;US;40
+Weil;200;US;40
+Dartmouth;200;CA;40
+Noyes;200;US;40
+Clearbrook;200;US;40
+Zamboanga;200;PH;40
+Aurora;200;PH;40
+Province of Agusan del Sur;200;PH;40
+Nakhon Si Thammarat;200;TH;40
+Kindia;200;GN;40
+Cebu City;200;PH;40
+Kousseri;200;CM;40
+Ban Yang Duan;200;TH;40
+Santa Marta;200;CO;40
+Gloria;200;PH;40
+I-n-Amenas;200;DZ;40
+Young;200;US;40
+South Dyersburg;200;US;40
+Atwood;200;US;40
+Ryugasaki;200;JP;40
+Almeria;200;ES;40
+Adana;200;TR;40
+Le Grand;200;US;40
+Utsunomiya-shi;200;JP;40
+Lanjarón;200;ES;40
+Monachil;200;ES;40
+San Juan de Aznalfarache;200;ES;40
+Hoehne;200;US;40
+Realejo-San Matías;200;ES;40
+Tortona;200;IT;40
+Sanliurfa;200;TR;40
+Ravenswood;200;US;40
+Dimos Galatsi;200;GR;40
+Jumilla;200;ES;40
+Sant’Avendrace;200;IT;40
+Prospect;200;US;40
+Wendover;200;US;40
+Salamanca;200;ES;40
+Fremont;200;US;40
+Monzalbarba;200;ES;40
+Saint-Girons;200;FR;40
+Melarde;200;ES;40
+Bellaria;200;IT;40
+Hogansburg;200;US;40
+North Redwood;200;US;40
+Marshall;200;US;40
+Grenoble;200;FR;40
+Parkwood Estates;200;US;40
+Park Falls;200;US;40
+Bassano del Grappa;200;IT;40
+Temeke;200;CN;40
+Sauk Centre;200;US;40
+Serres-Castet;200;FR;40
+Turate;200;IT;40
+Casier;200;IT;40
+Farschweiler;200;DE;40
+Mamers;200;FR;40
+Bitz;200;DE;40
+Bar-sur-Aube;200;FR;40
+Skalica;200;SK;40
+Amberg;200;DE;40
+Hirschau;200;DE;40
+Anguilcourt-le-Sart;200;FR;40
+Dörth;200;DE;40
+Waimes;200;BE;40
+Odenkirchen;200;DE;40
+Lewin Brzeski;200;PL;40
+Hawkwell;200;GB;40
+Rahtnnane;200;IE;40
+Wietmarschen;200;DE;40
+Axelvold;200;SE;40
+Saint-Felicien;200;CA;40
+Viverone;200;IT;40
+Eastern District;200;AS;40
+Nedlands;200;AU;40
+Kone;200;NC;40
+Moriac;200;AU;40
+Alpiarça;200;PT;40
+Alpiarça;200;PT;40
+Enejas;200;PT;40
+Dartmouth Crossing;200;CA;40
+Dimos Aigialeia;200;GR;40
+Aigio;200;GR;40
+Yerres;200;FR;40
+Arrondissement de Mulhouse;200;FR;40
+Hésingue;200;FR;40
+San Paolo;200;IT;40
+Les Chenais;200;FR;40
+Moana;200;AU;40
+Landersdorf;200;AT;40
+San Vigilio;200;IT;40
+Campbells Bay;200;NZ;40
+Cimarrona;200;PR;40
+Arrondissement de Sarlat-la-Canéda;200;FR;40
+Landkreis Freising;200;DE;40
+Pulaski County;200;US;40
+Toowoomba;200;AU;40
+Kudo;200;AU;40
+Wangenies;200;BE;40
+Umatilla County;200;US;40
+Lambourn;200;GB;40
+Maur;200;CH;40
+Rüti;200;CH;40
+Basaldella;200;IT;40
+El Ksâr;200;LB;40
+Leven;200;GB;40
+Obshtina Ikhtiman;200;BG;40
+Aktobe;200;KZ;40
+Dhuizon;200;FR;40
+Dhuizon;200;FR;40
+Département du Lot-et-Garonne;200;FR;40
+Arrondissement d'Agen;200;FR;40
+Pont-du-Casse;200;FR;40
+Pont-du-Casse;200;FR;40
+Armour Heights;200;CA;40
+Torrelavega;200;ES;40
+Torrelavega;200;ES;40
+Zimmerman Terrace;200;US;40
+Epping Forest District;200;GB;40
+Tampere;200;FI;40
+Corrigin;200;AU;40
+Gorge Rock;200;AU;40
+Peggy's Cove;200;CA;40
+Neumühle;200;DE;40
+Kew;200;TC;40
+Blue Mountains;200;AU;40
+Gemeente Grootegast;200;NL;40
+Korsmo;200;NO;40
+Selby District;200;GB;40
+Rosny-sous-Bois;200;FR;40
+Water Valley;200;CA;40
+Goring-by-Sea;200;GB;40
+Grégny;200;FR;40
+Ramløse;200;DK;40
+Vŭrzulitsa;200;BG;40
+Wembury;200;GB;40
+Pollok;200;NZ;40
+Jimboomba;200;AU;40
+Plérin;200;FR;40
+Thierrens;200;CH;40
+Lugo;200;ES;40
+Lea;200;GB;40
+Lea;200;GB;40
+Lilla Edets Kommun;200;SE;40
+Kärra;200;SE;40
+Wellspang;200;DE;40
+Riedlingen;200;DE;40
+District of Telford and Wrekin;200;GB;40
+Wellington;200;GB;40
+Wellington;200;GB;40
+Piaia;200;IT;40
+Landkreis Bad Kreuznach;200;DE;40
+Richmondshire District;200;GB;40
+Stanislaus County;200;US;40
+Arcos de la Frontera;200;ES;40
+Le Caselle;200;IT;40
+Borough of Sefton;200;GB;40
+Maghull;200;GB;40
+Maghull;200;GB;40
+West Brookline;200;US;40
+Clackmannanshire;200;GB;40
+Cambus;200;GB;40
+Ibiza;200;ES;40
+Es Cana;200;ES;40
+Distrito de Leiria;200;PT;40
+Samarra;200;PT;40
+Valldemossa;200;ES;40
+Arrondissement de Rambouillet;200;FR;40
+Saint-Germain-de-la-Grange;200;FR;40
+Cooee;200;AU;40
+Département de l'Allier;200;FR;40
+Bridgeport;200;CA;40
+Herstmonceux;200;GB;40
+Griže;200;SI;40
+Newton Longville;200;GB;40
+Lancaster;200;GB;40
+Zaio;200;MA;40
+Gemeente Hulst;200;NL;40
+Estabrook;200;US;40
+Eastleigh District;200;GB;40
+North Stoneham;200;GB;40
+Dimos Kalavryta;200;GR;40
+Gudo;200;CH;40
+Uilenhoek;200;BE;40
+Garrabost;200;GB;40
+Kroondal;200;ZA;40
+Daganzo de Arriba;200;ES;40
+MOUNT ALBERT;200;NZ;40
+Sülz;200;DE;40
+Dimos Molos-Agios Konstantinos;200;GR;40
+Pouillon;200;FR;40
+Bos;200;BE;40
+Holmen;200;SE;40
+Llanelli;200;GB;40
+Trostre;200;GB;40
+Inner Mongolia Autonomous Region;200;CN;40
+Dalan Turu;200;CN;40
+Meersig;200;NA;40
+El Pedregal;200;VE;40
+Seano;200;IT;40
+Sant’Antonino;200;IT;40
+Spink County;200;US;40
+Coseley;200;GB;40
+Ribes de Freser;200;ES;40
+Ribes Altes;200;ES;40
+Krün;200;DE;40
+Krun;200;DE;40
+Ravels;200;BE;40
+Aiffres;200;FR;40
+Aiffres;200;FR;40
+Neuhäusel;200;DE;40
+Calaveras County;200;US;40
+Douds Landing;200;US;40
+Kurkimäki;200;FI;40
+Felline;200;IT;40
+Hillingdon;200;GB;40
+Hegningen;200;DK;40
+Concepción;200;MX;40
+Launsbach;200;DE;40
+Glen Eira;200;AU;40
+Bentleigh East;200;AU;40
+Cencenighe Agordino;200;IT;40
+Cencenighe;200;IT;40
+Villanova;200;IT;40
+Vomero;200;IT;40
+Gemeente De Wolden;200;NL;40
+Engeland;200;NL;40
+Rockhampton;200;AU;40
+Arrondissement de Dijon;200;FR;40
+Marcilly-sur-Tille;200;FR;40
+Marcilly-sur-Tille;200;FR;40
+Stans;200;CH;40
+Lappeenranta;200;FI;40
+Cheshire West and Chester;200;GB;40
+Great Boughton;200;GB;40
+Hoole;200;GB;40
+Gilfershausen;200;DE;40
+Godalming;200;GB;40
+Churachandpur;200;IN;40
+Colilla (La);200;ES;40
+Westkapelle;200;NL;40
+Voistia;200;FI;40
+Filton;200;GB;40
+Charlton;200;GB;40
+Leithe;200;DE;40
+Tavastland;200;FI;40
+Ypäjä;200;FI;40
+Manninen;200;FI;40
+Erenler;200;TR;40
+Vernon;200;CA;40
+Montaigut-sur-Save;200;FR;40
+Sandringham;200;AU;40
+Cideng;200;ID;40
+Longreach;200;AU;40
+Ikast-Brande Kommune;200;DK;40
+Vik;200;NO;40
+Vik;200;NO;40
+Mynaral;200;KZ;40
+Midnapore;200;CA;40
+Kefar Aharon;200;IL;40
+Bjorli;200;NO;40
+Ixós;200;GR;40
+Macon;200;US;40
+Zuerich (Kreis 3) / Alt-Wiedikon;200;CH;40
+Gehrsweilerhof;200;DE;40
+Casale Litta;200;IT;40
+Newcastle;200;AU;40
+Cedar Hill;200;US;40
+Mindelheim;200;DE;40
+Norra Karelen;200;FI;40
+Ristisaari;200;FI;40
+Tjörns Kommun;200;SE;40
+Kingborough;200;AU;40
+Gemeente Noordoostpolder;200;NL;40
+Northam;200;AU;40
+Clavijo;200;ES;40
+Dimos Chios;200;GR;40
+Kambos;200;GR;40
+Uxola;200;ES;40
+Landkreis Nordwestmecklenburg;200;DE;40
+Schlagsdorf;200;DE;40
+Schlagsdorf;200;DE;40
+San Luis Obispo County;200;US;40
+Banyule;200;AU;40
+Lower Plenty;200;AU;40
+Añorga;200;ES;40
+Iza;200;ES;40
+Swierczewo;200;PL;40
+Noordwijk aan Zee;200;NL;40
+Valencia;200;ES;40
+Campanar;200;ES;40
+Branksome;200;GB;40
+Wiliberg;200;CH;40
+Wiliberg;200;CH;40
+Allennes-les-Marais;200;FR;40
+Oosterzee;200;NL;40
+Pontenova (A);200;ES;40
+Echarlens;200;CH;40
+Hem;200;NO;40
+Shafter;200;US;40
+Navilleton;200;US;40
+Deming;200;US;40
+Rancho El Aguajito;200;MX;40
+Nomós Imathías;200;GR;40
+San Felipe;200;PH;40
+Shermans Corner;200;US;40
+Quiberon;200;FR;40
+El Bedito;200;MX;40
+Coswig;200;DE;40
+Gemeente Rheden;200;NL;40
+Dieren;200;NL;40
+Velo d'Astico;200;IT;40
+Meda;200;IT;40
+Llanllyfni;200;GB;40
+Saint-Nicolas;200;IT;40
+San Nicolas;200;IT;40
+Kronsburg;200;DE;40
+Sophienhöhe;200;DE;40
+Wyndham;200;AU;40
+Bezirk Prättigau-Davos;200;CH;40
+Strassgang;200;AT;40
+Gemeente Made en Drimmelen;200;NL;40
+Consejo;200;BZ;40
+Lemoyne;200;US;40
+Little Milton;200;GB;40
+Walton County;200;US;40
+New Harmony;200;US;40
+Domdidier;200;CH;40
+Maisbirbaum;200;AT;40
+Ashfield District;200;GB;40
+Selston;200;GB;40
+South Normanton;200;GB;40
+Tangipahoa Parish;200;US;40
+Alexandra;200;AU;40
+El Molino;200;ES;40
+Llangollen Rural;200;GB;40
+Maglie;200;IT;40
+Thun;200;CH;40
+Bexley;200;GB;40
+Bexleyheath;200;GB;40
+Seinäjoki;200;FI;40
+Niemistö;200;FI;40
+Tilehurst;200;GB;40
+Gemeente Strijen;200;NL;40
+Strijen;200;NL;40
+Casale Vignarola;200;IT;40
+Abbadia di Stura;200;IT;40
+Ardeatino;200;IT;40
+Emmet County;200;US;40
+Canby Corners;200;US;40
+Otter Creek;200;CA;40
+Nesodden;200;NO;40
+Hasle;200;NO;40
+Falmouth;200;GB;40
+Falmouth;200;GB;40
+Burgrieden;200;DE;40
+Nexon;200;FR;40
+Ohama;200;JP;40
+San Bartolomé de Tirajana;200;ES;40
+Playa del Ingles;200;ES;40
+Bradley in the Moors;200;GB;40
+Christiana;200;ZA;40
+Terrace End;200;NZ;40
+Gemeente Leidschendam-Voorburg;200;NL;40
+Beckford;200;GB;40
+Mariperez;200;VE;40
+La Florida;200;VE;40
+Chalengkou;200;CN;40
+Laotai;200;CN;40
+Stouffville;200;CA;40
+Carolina Municipio;200;PR;40
+Holeby;200;DK;40
+Durrow;200;IE;40
+Cloetesville;200;ZA;40
+Lapa;200;BR;40
+Caroya;200;AR;40
+Montcada i Reixac;200;ES;40
+Talent;200;US;40
+Stio Caracol;200;BR;40
+Volga;200;US;40
+Goliad County;200;US;40
+Carew Newton;200;GB;40
+Tattula;200;FI;40
+Arboretum;200;ZA;40
+Nannup;200;AU;40
+Riedelsbach;200;DE;40
+Perry County;200;US;40
+Dellville;200;US;40
+San Michele;200;IT;40
+Cullera;200;ES;40
+Gemeente Noordenveld;200;NL;40
+Département du Loiret;200;FR;40
+La Jacqueminière;200;FR;40
+Kleinkönigsdorf;200;DE;40
+Cavagnolo;200;IT;40
+Quévert;200;FR;40
+Viimsi vald;200;EE;40
+Santiponce;200;ES;40
+Layka;200;CN;40
+Cuenca;200;ES;40
+La Cueva;200;ES;40
+Murray Park;200;CA;40
+Todber;200;GB;40
+Cloverleaf Mobile Home Community;200;US;40
+Hazebrouck;200;FR;40
+Redruth;200;GB;40
+Harecastle;200;GB;40
+City and Borough of Birmingham;200;GB;40
+Káto Vlasía;200;GR;40
+Noord-Scharwoude;200;NL;40
+Petawawa;200;CA;40
+Cayuse;200;US;40
+Kuortane;200;FI;40
+Volta Barozzo;200;IT;40
+Provincia di Parma;200;IT;40
+Romanillos;200;ES;40
+Beit Ṣafāfā;200;IL;40
+Sintra;200;PT;40
+Budelsdorf;200;DE;40
+Bracalba;200;AU;40
+Krommenie;200;NL;40
+Savannah;200;KY;40
+Frufällan;200;SE;40
+Smoorken;200;BE;40
+City and Borough of Coventry;200;GB;40
+Foleshill;200;GB;40
+Hemmeshøj;200;DK;40
+Ramer;200;US;40
+Skopanie;200;PL;40
+Prabuty;200;PL;40
+Lammerenburg;200;NL;40
+Palm Beach;200;US;40
+Wahlkreis Rheintal;200;CH;40
+Villeurbanne;200;FR;40
+Baihe;200;CN;40
+Mas dels Gayatos;200;ES;40
+Rota;200;NO;40
+Oxford District;200;GB;40
+Mantova;200;IT;40
+Hilterfingen;200;CH;40
+Mustola;200;FI;40
+Alida;200;US;40
+Arrondissement de Brest;200;FR;40
+Karpov;200;RU;40
+Michurinsk;200;RU;40
+Norilsk;200;RU;40
+Magadan;200;RU;40
+Yuzhno-Sakhalinsk;200;RU;40
+Pyshma;200;RU;40
+Kamyshin;200;RU;40
+Altayskoye;200;RU;40
+Pavlovskaya;200;RU;40
+Star;200;RU;40
+Kirov;200;RU;40
+Sverdlovskiy;200;RU;40
+Volot;200;RU;40
+Voyskovitsy;200;RU;40
+Roshchino;200;RU;40
+Lisiy Nos;200;RU;40
+Pospelova;200;RU;40
+Uitenhage;200;ZA;40
+Algiers;200;DZ;40
+L’Agha;200;DZ;40
+Malanshof;200;ZA;40
+Halfway House;200;ZA;40
+Erand;200;ZA;40
+Umtata;200;ZA;40
+Sakumona;200;GH;40
+Mount Edgecombe;200;ZA;40
+Sandton;200;ZA;40
+Brake;200;US;40
+Mound City;200;US;40
+Essex County;200;US;40
+Republic;200;US;40
+Shelton;200;US;40
+Arizona City;200;US;40
+Saint Mary's County;200;US;40
+Pin Oak Village;200;US;40
+Fairtraid;200;US;40
+Sheltons;200;US;40
+Country Club Subdivision;200;US;40
+Mount Enterprise;200;US;40
+Hermosa;200;US;40
+La Fetra;200;US;40
+Boone County;200;US;40
+Carlyle West;200;US;40
+South Westerlo;200;US;40
+Contentnea Junction;200;US;40
+Lincoln Heights;200;US;40
+Waterloo;200;US;40
+Richfield;200;US;40
+Vaughans Crossroads;200;US;40
+Choctaw County;200;US;40
+Saint David;200;US;40
+Rockwell;200;US;40
+Cook;200;US;40
+Barry County;200;US;40
+La Paz;200;BO;40
+Sidney;200;US;40
+Sunny View;200;US;40
+Cheboygan County;200;US;40
+Tomahawk Bluff;200;US;40
+Dykes;200;US;40
+Cozy Acres;200;US;40
+Drake Crossing;200;US;40
+Gas Point;200;US;40
+Sloan;200;US;40
+Creston;200;US;40
+Oliver Beach;200;US;40
+Melbourne;200;AU;40
+Melbourne;200;AU;40
+City of Sydney;200;AU;40
+South Yarra;200;AU;40
+Toowoomba;200;AU;40
+Cambridge;200;AU;40
+Ryde;200;AU;40
+Newtown;200;AU;40
+Seaford;200;AU;40
+Ballarat North;200;AU;40
+Ku-ring-gai;200;AU;40
+Collie;200;AU;40
+Yarra Junction;200;AU;40
+Manly;200;AU;40
+Kingston;200;AU;40
+Nowra;200;AU;40
+Oberon;200;AU;40
+Sandy Bay;200;AU;40
+Tatiara;200;AU;40
+Albury;200;AU;40
+The Patch;200;AU;40
+Manjimup;200;AU;40
+Jannali;200;AU;40
+Rosebank;200;AU;40
+Corinda;200;AU;40
+Wauchope;200;AU;40
+Mackay;200;AU;40
+Elwood;200;AU;40
+Barossa;200;AU;40
+Yenda;200;AU;40
+Hallett;200;AU;40
+Berwick;200;AU;40
+Riverstone;200;AU;40
+Busselton;200;AU;40
+Wodonga;200;AU;40
+Balaklava;200;AU;40
+Northmead;200;AU;40
+Croydon North;200;AU;40
+Taree;200;AU;40
+Kilmore;200;AU;40
+Mandalong;200;AU;40
+Wyee;200;AU;40
+Leeton;200;AU;40
+Woodleigh;200;AU;40
+Cervantes;200;AU;40
+Utakarra;200;AU;40
+Namhyang-dong;200;KR;40
+Kinho;200;KR;40
+Sup’yŏng-dong;200;KR;40
+P’ungnap-tong;200;KR;40
+Hamyang;200;KR;40
+Okinawa;200;JP;40
+Higashi-horidōri;200;JP;40
+Sakura;200;JP;40
+Miyazaki-shi;200;JP;40
+Kaigandōri;200;JP;40
+Shijōdōri;200;JP;40
+Fukushima-shi;200;JP;40
+Miyoshi;200;JP;40
+Motoichiba;200;JP;40
+Toyama-shi;200;JP;40
+Ogori;200;JP;40
+Mitsugarasuchō;200;JP;40
+Hiroshima-shi;200;JP;40
+Kami-nagarekawachō;200;JP;40
+Harisakichō;200;JP;40
+Nakamura;200;JP;40
+Gifu-shi;200;JP;40
+Honjōchō;200;JP;40
+Otsu-shi;200;JP;40
+Sapporo-shi;200;JP;40
+Aomori-shi;200;JP;40
+Matsue-shi;200;JP;40
+Miyake;200;JP;40
+Nagasaki-shi;200;JP;40
+Hiradogoyamachi;200;JP;40
+Takamatsu-shi;200;JP;40
+Obihiro;200;JP;40
+Nakano;200;JP;40
+Hanawadamachi;200;JP;40
+Nishikichō;200;JP;40
+Shibata;200;JP;40
+Sambashidōri;200;JP;40
+Masuda;200;JP;40
+Nakaichi;200;JP;40
+Arita;200;JP;40
+Furukawabashi;200;JP;40
+Tōbō;200;JP;40
+Minami-senjumachi;200;JP;40
+Sakaidechō;200;JP;40
+Ganiko;200;JP;40
+Tsuyama;200;JP;40
+Tokuyama;200;JP;40
+Uwajima;200;JP;40
+Kure;200;JP;40
+Nagahama;200;JP;40
+Komatsu;200;JP;40
+Nishikawa;200;JP;40
+Otaru;200;JP;40
+Toyooka;200;JP;40
+Kikuchi;200;JP;40
+Hikari;200;JP;40
+Kashiwazaki;200;JP;40
+Mombetsu;200;JP;40
+Tateyama;200;JP;40
+Yamae;200;JP;40
+Toriimatsu;200;JP;40
+Shibayama;200;JP;40
+Sekigahara;200;JP;40
+Kuradani;200;JP;40
+Kyōguchi;200;JP;40
+Enzan;200;JP;40
+Tsukaguchi;200;JP;40
+Togane;200;JP;40
+Hanyu;200;JP;40
+Tanabe;200;JP;40
+Hamanose;200;JP;40
+Ojiya;200;JP;40
+Iwakura;200;JP;40
+Minatomachi;200;JP;40
+Mifune;200;JP;40
+Otake;200;JP;40
+Kawai;200;JP;40
+Samani;200;JP;40
+Koshimizu;200;JP;40
+Kanegasaki;200;JP;40
+Nakagawa;200;JP;40
+Yokote;200;JP;40
+Nayoro;200;JP;40
+Murakami;200;JP;40
+Zaōmachi;200;JP;40
+Kameoka;200;JP;40
+Tamagawa;200;JP;40
+Kudoyama;200;JP;40
+芦屋;200;JP;40
+Iwami;200;JP;40
+Sabae;200;JP;40
+Takamori;200;JP;40
+Iijima;200;JP;40
+Hayakawa;200;JP;40
+Narusawa;200;JP;40
+Ogano;200;JP;40
+Kakuda;200;JP;40
+Uozu;200;JP;40
+Iiyama;200;JP;40
+Fukuyama;200;JP;40
+Takayama;200;JP;40
+Toyokawa;200;JP;40
+Saiki;200;JP;40
+Kahoku;200;JP;40
+Akashichō;200;JP;40
+Yūrakuchō;200;JP;40
+Kawasaki;200;JP;40
+Kurosawajiri;200;JP;40
+Nanukaichi;200;JP;40
+Akabira;200;JP;40
+Renjakuchō;200;JP;40
+Kariwa;200;JP;40
+Habu;200;JP;40
+Shobara;200;JP;40
+Mitake;200;JP;40
+Kusatsu;200;JP;40
+Fukuchiyama;200;JP;40
+Tarumizu;200;JP;40
+Oku-ikutahara;200;JP;40
+Akaigawa;200;JP;40
+Tokamachi;200;JP;40
+Nirasaki;200;JP;40
+Urakawa;200;JP;40
+Pippu;200;JP;40
+Shari;200;JP;40
+Sanjo;200;JP;40
+Obita;200;JP;40
+Toyokoro;200;JP;40
+Kuromatsunai;200;JP;40
+Uken;200;JP;40
+Engaru;200;JP;40
+Yakage;200;JP;40
+Furugen;200;JP;40
+Mugi;200;JP;40
+Embetsu;200;JP;40
+Shimokawa;200;JP;40
+Utazu;200;JP;40
+Funato;200;JP;40
+Anamizu;200;JP;40
+Yanohama;200;JP;40
+Awara;200;JP;40
+Ono;200;JP;40
+Obanazawa;200;JP;40
+Otawara;200;JP;40
+Yamaga;200;JP;40
+Iyo;200;JP;40
+Ozu;200;JP;40
+Higashikawa;200;JP;40
+Higashi-ōsaka;200;JP;40
+Utashinai;200;JP;40
+Shimizu;200;JP;40
+Tomamae;200;JP;40
+Wake;200;JP;40
+Urazoe;200;JP;40
+Kamoenai;200;JP;40
+Itano;200;JP;40
+Belgaum;200;IN;40
+Hubli;200;IN;40
+Union Territory of Andaman and Nicobar Islands;200;IN;40
+Port Blair;200;IN;40
+Tezpur;200;IN;40
+Kowloon City;200;HK;40
+Ban Fai Kaeo;200;TH;40
+Amiens;200;FR;40
+Strasbourg;200;FR;40
+Nanterre;200;FR;40
+Département de l'Orne;200;FR;40
+Créteil;200;FR;40
+Saint-Denis;200;FR;40
+Clermont-Ferrand;200;FR;40
+Clermont-Ferrand;200;FR;40
+Arrondissement de Tarbes;200;FR;40
+Clermont;200;FR;40
+Perpignan;200;FR;40
+Département du Calvados;200;FR;40
+Le Mans;200;FR;40
+Le Mans;200;FR;40
+Reims;200;FR;40
+Argentan;200;FR;40
+Arrondissement de Roanne;200;FR;40
+Roanne;200;FR;40
+Landerneau;200;FR;40
+Arrondissement de Beauvais;200;FR;40
+Ville-dAvray;200;FR;40
+Fontainebleau;200;FR;40
+Chamalieres;200;FR;40
+Saint-Brieuc;200;FR;40
+Département de la Nièvre;200;FR;40
+La Seyne-sur-Mer;200;FR;40
+Coutances;200;FR;40
+Coutances;200;FR;40
+Mondeville;200;FR;40
+Yèvres;200;FR;40
+Saverne;200;FR;40
+Lunéville;200;FR;40
+Arrondissement du Puy;200;FR;40
+Coubon;200;FR;40
+Coubon;200;FR;40
+Arrondissement de Charleville-Mézières;200;FR;40
+Arrondissement de Bonneville;200;FR;40
+Sotteville;200;FR;40
+Riva-Bella;200;FR;40
+Arrondissement de Saint-Julien-en-Genevois;200;FR;40
+Labenne;200;FR;40
+Bruges;200;FR;40
+Tresses;200;FR;40
+Lacanau;200;FR;40
+Arrondissement d'Épinal;200;FR;40
+Gavray;200;FR;40
+Baron-sur-Odon;200;FR;40
+Arrondissement de Nontron;200;FR;40
+Biguglia;200;FR;40
+Rots;200;FR;40
+Arrondissement d'Ajaccio;200;FR;40
+Crepy-en-Valois;200;FR;40
+Virelade;200;FR;40
+Gonba;200;RU;40
+Gari;200;RU;40
+Erzin;200;RU;40
+Dubinino;200;RU;40
+Chunoyar;200;RU;40
+Choya;200;RU;40
+Chistogorskiy;200;RU;40
+Chesma;200;RU;40
+Burla;200;RU;40
+Beya;200;RU;40
+Belyy Yar;200;RU;40
+Barzas;200;RU;40
+Zarghun Shahr;200;AF;40
+Zarah Sharan;200;AF;40
+Yahya Khel;200;AF;40
+Tormay;200;AF;40
+Qalat;200;AF;40
+Kalakan;200;AF;40
+Dwah Manday;200;AF;40
+Darqad;200;AF;40
+Barg-e Matal;200;AF;40
+Bagrami;200;AF;40
+Alaqahdari Atghar;200;AF;40
+Anar Darah;200;AF;40
+Ali Khel;200;AF;40
+Shayrwani-ye Bala;200;AF;40
+Alaqahdari Sarobi;200;AF;40
+Zerok-Alakadari;200;AF;40
+Khayr Kot;200;AF;40
+Dahan-e Jarf;200;AF;40
+Maidan Shahr;200;AF;40
+Pul-e Hisar;200;AF;40
+Pas Pul;200;AF;40
+Bolands;200;AG;40
+Konispol;200;AL;40
+Kurbnesh;200;AL;40
+Fushe-Arrez;200;AL;40
+Selenice;200;AL;40
+Puke;200;AL;40
+Orikum;200;AL;40
+Milot;200;AL;40
+Uzice;200;RS;40
+Chateauneuf-les-Martigues;200;FR;40
+Castandet;200;FR;40
+Napoli;200;IT;40
+Sesto San Giovanni;200;IT;40
+San Michele di Pagana;200;IT;40
+Province of Ascoli Piceno;200;IT;40
+Taranto;200;IT;40
+Montoggio;200;IT;40
+Sant’Anna;200;IT;40
+Salerno;200;IT;40
+Seriate;200;IT;40
+Vittoria;200;IT;40
+Asti;200;IT;40
+Trento;200;IT;40
+Viterbo;200;IT;40
+Martignacco;200;IT;40
+Castelfranco Veneto;200;IT;40
+Pisticci;200;IT;40
+Sesto Fiorentino;200;IT;40
+Provincia di Livorno;200;IT;40
+Rovigo;200;IT;40
+Trezzo sullAdda;200;IT;40
+Montecchio Emilia;200;IT;40
+Alcamo;200;IT;40
+Senigallia;200;IT;40
+Assisi;200;IT;40
+Licata;200;IT;40
+Vicenza;200;IT;40
+Pisa;200;IT;40
+Manduria;200;IT;40
+Soverato Marina;200;IT;40
+Provincia di Crotone;200;IT;40
+Crotone;200;IT;40
+Crotone;200;IT;40
+Ferentino;200;IT;40
+Ferentino;200;IT;40
+Chieti;200;IT;40
+Chieti;200;IT;40
+Spoleto;200;IT;40
+Spoleto;200;IT;40
+Provincia di Isernia;200;IT;40
+Cologno Monzese;200;IT;40
+Sarzana;200;IT;40
+Sarzana;200;IT;40
+Bitonto;200;IT;40
+Mirandola;200;IT;40
+Caorle;200;IT;40
+Gioia Tauro;200;IT;40
+Genzano di Roma;200;IT;40
+Fiumicino;200;IT;40
+Mascali;200;IT;40
+Domodossola;200;IT;40
+Matera;200;IT;40
+Putignano;200;IT;40
+Gravina in Puglia;200;IT;40
+Acri;200;IT;40
+San Michele;200;IT;40
+Alba;200;IT;40
+Castelnuovo;200;IT;40
+Monreale;200;IT;40
+Montevarchi;200;IT;40
+Imola;200;IT;40
+Casale Monferrato;200;IT;40
+Corigliano Calabro;200;IT;40
+Corigliano Calabro;200;IT;40
+Ivrea;200;IT;40
+Lentini;200;IT;40
+Sala Baganza;200;IT;40
+Rieti;200;IT;40
+Rieti;200;IT;40
+Avilla;200;IT;40
+Avio;200;IT;40
+Avio;200;IT;40
+Pantelleria;200;IT;40
+Castelvetro di Modena;200;IT;40
+Salemi;200;IT;40
+Lana - Lana;200;IT;40
+Lana;200;IT;40
+Thiene;200;IT;40
+Vita;200;IT;40
+Scorzè;200;IT;40
+Arceto;200;IT;40
+Torre Annunziata;200;IT;40
+Olbia Marittima;200;IT;40
+Deruta;200;IT;40
+Todi;200;IT;40
+Corato;200;IT;40
+Cormons;200;IT;40
+Savigliano;200;IT;40
+Carbonera;200;IT;40
+Marano di Valpolicella;200;IT;40
+Cormano;200;IT;40
+Tufo;200;IT;40
+Camposanto;200;IT;40
+Nardo;200;IT;40
+Atri;200;IT;40
+Susegana;200;IT;40
+Avigliano;200;IT;40
+Santa Maria di Sala;200;IT;40
+Formello;200;IT;40
+Formello;200;IT;40
+Noci;200;IT;40
+Soliera;200;IT;40
+Zula;200;IT;40
+Poggio a Caiano;200;IT;40
+Poggio a Caiano;200;IT;40
+Colorno;200;IT;40
+Ronchi dei Legionari;200;IT;40
+Breno;200;IT;40
+Somma Lombardo;200;IT;40
+Sasso Marconi;200;IT;40
+Castel Goffredo;200;IT;40
+Castel Goffredo;200;IT;40
+Camerino;200;IT;40
+Castellabate;200;IT;40
+Santa Maria di Castellabate;200;IT;40
+Seravezza;200;IT;40
+Stellata;200;IT;40
+Loreto;200;IT;40
+Loreto;200;IT;40
+Siderno;200;IT;40
+Butera;200;IT;40
+Monasterace;200;IT;40
+Noto;200;IT;40
+Carpignano Salentino;200;IT;40
+Serrano;200;IT;40
+Montagnana;200;IT;40
+Ganna;200;IT;40
+Carro;200;IT;40
+Bibione;200;IT;40
+Langhirano;200;IT;40
+Ronago;200;IT;40
+Adrano;200;IT;40
+Bagnara Calabra;200;IT;40
+Fivizzano;200;IT;40
+Baio Dora;200;IT;40
+Pizzolo;200;IT;40
+Trezzano sul Naviglio;200;IT;40
+San Benedetto del Tronto;200;IT;40
+San Benedetto del Tronto;200;IT;40
+Cigliano;200;IT;40
+Santo Stino di Livenza;200;IT;40
+San Giovanni Valdarno;200;IT;40
+Castellammare del Golfo;200;IT;40
+Novara di Sicilia;200;IT;40
+San Biagio di Callalta;200;IT;40
+Savogna d'Isonzo;200;IT;40
+Pra;200;IT;40
+Pieve di Cento;200;IT;40
+Gamla Staden;200;SE;40
+Nykoping;200;SE;40
+Umea;200;SE;40
+Vimmerby;200;SE;40
+Åvik;200;SE;40
+Cedofeita;200;PT;40
+Pontinha;200;PT;40
+Distrito de Braga;200;PT;40
+Aveiro;200;PT;40
+Valejas;200;PT;40
+Vizela;200;PT;40
+Tramagal;200;PT;40
+Tramagal;200;PT;40
+Fafe;200;PT;40
+Rio Tinto;200;PT;40
+Marinha Grande;200;PT;40
+Ribeirão;200;PT;40
+Penafiel;200;PT;40
+Cortegaca;200;PT;40
+Borda do Campo;200;PT;40
+Caldas da Rainha;200;PT;40
+Gatões;200;PT;40
+Riba Fria;200;PT;40
+Ventosa;200;PT;40
+Cabeceiras de Basto;200;PT;40
+Mascotelos;200;PT;40
+Armação de Pêra;200;PT;40
+Líndos;200;GR;40
+Patra;200;GR;40
+Dimos Kalymnos;200;GR;40
+Dimos Pylos-Nestoras;200;GR;40
+Spiliá;200;GR;40
+Dimos Rethymno;200;GR;40
+Vergina;200;GR;40
+Dimos Chersonisos;200;GR;40
+Dimos Eordaia;200;GR;40
+The Gorge;200;GB;40
+Coalbrookdale;200;GB;40
+Borough of Halton;200;GB;40
+Weston Point;200;GB;40
+Edgbaston;200;GB;40
+Newbury;200;GB;40
+Lincoln District;200;GB;40
+Town Moor;200;GB;40
+Basford;200;GB;40
+Ince-in-Makerfield;200;GB;40
+Hanwell;200;GB;40
+Llanelli;200;GB;40
+Allesley;200;GB;40
+Richmond upon Thames;200;GB;40
+Belfast;200;GB;40
+City of Edinburgh;200;GB;40
+Borough of Bury;200;GB;40
+Newton Abbot;200;GB;40
+Borough of Kirklees;200;GB;40
+Borough of Calderdale;200;GB;40
+Vale of Glamorgan;200;GB;40
+Wycombe;200;GB;40
+Coleraine;200;GB;40
+Wallingford;200;GB;40
+Thame;200;GB;40
+Caernarfon;200;GB;40
+Knutsford;200;GB;40
+Carmarthen;200;GB;40
+Carmarthen;200;GB;40
+Huntingdon;200;GB;40
+Armagh;200;GB;40
+Northwood;200;GB;40
+Northwood;200;GB;40
+Crowthorne;200;GB;40
+Finchampstead;200;GB;40
+Finchampstead;200;GB;40
+Truro;200;GB;40
+Truro;200;GB;40
+Ash Vale;200;GB;40
+Bowness-on-Windermere;200;GB;40
+Bridgend county borough;200;GB;40
+Leighton-Linslade;200;GB;40
+Barrow-in-Furness District;200;GB;40
+Borough of Hartlepool;200;GB;40
+South Lanarkshire;200;GB;40
+Hamilton;200;GB;40
+Hinckley and Bosworth District;200;GB;40
+Bedlington;200;GB;40
+Sunninghill;200;GB;40
+Denbigh;200;GB;40
+Penzance;200;GB;40
+Penzance;200;GB;40
+Gosport District;200;GB;40
+North Ayrshire;200;GB;40
+Brodick;200;GB;40
+Meltham;200;GB;40
+Omagh District;200;GB;40
+Omagh;200;GB;40
+Glyncorrwg;200;GB;40
+Abergwynfi;200;GB;40
+Pelenna;200;GB;40
+Pontrhydyfen;200;GB;40
+Monkseaton;200;GB;40
+Ystalyfera;200;GB;40
+Ystalyfera;200;GB;40
+Drumcree;200;GB;40
+Milford Haven;200;GB;40
+Milford Haven;200;GB;40
+City and Borough of Wakefield;200;GB;40
+Shepton Mallet;200;GB;40
+Thorne;200;GB;40
+Thorne;200;GB;40
+Tavernspite;200;GB;40
+West Oxfordshire District;200;GB;40
+Long Eaton;200;GB;40
+Forfar;200;GB;40
+Hungerford;200;GB;40
+Hungerford;200;GB;40
+Thornbury;200;GB;40
+Blaengwrach;200;GB;40
+Blaengwrach;200;GB;40
+Olney;200;GB;40
+Olney;200;GB;40
+Harden;200;GB;40
+Sir Powys;200;GB;40
+Brecon;200;GB;40
+Brecon;200;GB;40
+Nairn;200;GB;40
+Frankby;200;GB;40
+Sedgemoor District;200;GB;40
+Redcar;200;GB;40
+Lyme Regis;200;GB;40
+Hartpury;200;GB;40
+Hoylake;200;GB;40
+Crymych;200;GB;40
+Crymych;200;GB;40
+Llysfaen;200;GB;40
+Llysfaen;200;GB;40
+Dumfries and Galloway;200;GB;40
+Annan;200;GB;40
+Northiam;200;GB;40
+Marhamchurch;200;GB;40
+Marhamchurch;200;GB;40
+Shepway District;200;GB;40
+Folkestone;200;GB;40
+Cookstown District;200;GB;40
+Cookstown;200;GB;40
+Clunderwen;200;GB;40
+West Lothian;200;GB;40
+Bathgate;200;GB;40
+Glastonbury;200;GB;40
+Hodbarrow;200;GB;40
+Ham;200;GB;40
+Dunglass;200;GB;40
+Hugglescote;200;GB;40
+East Croydon Railway Station;200;GB;40
+Bruichladdich;200;GB;40
+Lawhitton Rural;200;GB;40
+Llanfyllin;200;GB;40
+Llanfyllin;200;GB;40
+Epworth;200;GB;40
+Milnathort;200;GB;40
+County of Flintshire;200;GB;40
+Mostyn;200;GB;40
+Llandarcy;200;GB;40
+Payhembury;200;GB;40
+Llangamarch;200;GB;40
+Bala;200;GB;40
+Biggar;200;GB;40
+North Lodge;200;GB;40
+Inchture;200;GB;40
+Beddgelert;200;GB;40
+Ampney Crucis;200;GB;40
+Maesycwmmer;200;GB;40
+Shepherds Bush;200;GB;40
+Little Massingham;200;GB;40
+Bodedern;200;GB;40
+Coedely;200;GB;40
+Mølholm;200;DK;40
+Herning Kommune;200;DK;40
+Saskatoon;200;CA;40
+Wolfville;200;CA;40
+Sherbrooke;200;CA;40
+Bedford;200;CA;40
+Sydney;200;CA;40
+Lachine;200;CA;40
+Saint John;200;CA;40
+New Westminster;200;CA;40
+Antigonish;200;CA;40
+Orillia;200;CA;40
+Midhurst;200;CA;40
+Bradford;200;CA;40
+Alliston;200;CA;40
+Hull;200;CA;40
+Collingwood;200;CA;40
+Bolton;200;CA;40
+Fort McMurray;200;CA;40
+Kingsview Village;200;CA;40
+Maple;200;CA;40
+Sarnia;200;CA;40
+Don Mills;200;CA;40
+Yennadon;200;CA;40
+North Bay;200;CA;40
+Fairview;200;CA;40
+Mont-Joli;200;CA;40
+Portage;200;CA;40
+Otway;200;CA;40
+Houston;200;CA;40
+Port Hawkesbury;200;CA;40
+Rockcliffe Park;200;CA;40
+Whitehorse;200;CA;40
+Lacombe;200;CA;40
+Hinton;200;CA;40
+Whitecourt;200;CA;40
+East Wiltshire;200;CA;40
+Norwich;200;CA;40
+Drayton Valley;200;CA;40
+Tillsonburg;200;CA;40
+Magog;200;CA;40
+Granby;200;CA;40
+Brockville;200;CA;40
+Trenton;200;CA;40
+Strathroy;200;CA;40
+Richmond;200;CA;40
+Greater Napanee;200;CA;40
+Laval-des-Rapides;200;CA;40
+Saint-Vincent-de-Paul;200;CA;40
+Perth;200;CA;40
+Delson;200;CA;40
+Point Edward;200;CA;40
+Baie-DUrfe;200;CA;40
+Petrolia;200;CA;40
+Turtleford;200;CA;40
+New Glasgow;200;CA;40
+Outlook;200;CA;40
+Cardinal;200;CA;40
+Mattawa;200;CA;40
+Acton Vale;200;CA;40
+Goderich;200;CA;40
+Saint-Zotique;200;CA;40
+Morinville;200;CA;40
+Millbrook;200;CA;40
+Sainte-Adele;200;CA;40
+Queenston;200;CA;40
+Redcliff;200;CA;40
+Saint-Nazaire;200;CA;40
+Cloridorme;200;CA;40
+Ensenada;200;MX;40
+El Pueblito;200;MX;40
+Estado de Veracruz-Llave;200;MX;40
+Piedras Negras;200;MX;40
+Estado de Oaxaca;200;MX;40
+Campeche;200;MX;40
+La Albarrada;200;MX;40
+Leon;200;MX;40
+Monclova;200;MX;40
+Mascota;200;MX;40
+Estado de Aguascalientes;200;MX;40
+Ocosingo;200;MX;40
+La Partida;200;MX;40
+Cholula;200;MX;40
+Salamanca;200;MX;40
+Jalapa;200;MX;40
+Torreon;200;MX;40
+La Paz;200;MX;40
+Culiacan;200;MX;40
+El Potosí;200;MX;40
+Poncitlan;200;MX;40
+Zimapan;200;MX;40
+Huehuetoca;200;MX;40
+Santa Ana;200;MX;40
+Valladolid;200;MX;40
+Tulancingo;200;MX;40
+Tepeaca;200;MX;40
+Tres Marias;200;MX;40
+Ciudad Camargo;200;MX;40
+Hualahuises;200;MX;40
+Minas de Barroteran;200;MX;40
+Halacho;200;MX;40
+Esqueda;200;MX;40
+Elp;200;DE;40
+Freie und Hansestadt Hamburg;200;DE;40
+Altstadt;200;DE;40
+Weihenstephan;200;DE;40
+Dambach;200;DE;40
+Walburger;200;DE;40
+Landkreis Potsdam-Mittelmark;200;DE;40
+Stahnsdorf;200;DE;40
+Stahnsdorf;200;DE;40
+Kreisfreie Stadt Lübeck;200;DE;40
+Luebeck;200;DE;40
+Landkreis Hannover;200;DE;40
+Wadgassen;200;DE;40
+Schneverdingen;200;DE;40
+Bremen;200;DE;40
+Landkreis Darmstadt-Dieburg;200;DE;40
+Roßdorf;200;DE;40
+Rossdorf;200;DE;40
+Engelshof;200;DE;40
+Arnoldsweiler;200;DE;40
+Landkreis Landshut;200;DE;40
+Kumhausen;200;DE;40
+Kumhausen;200;DE;40
+Waldstetten;200;DE;40
+Bürgerfeld;200;DE;40
+Ingolstadt;200;DE;40
+Leerort;200;DE;40
+Wegeleben;200;DE;40
+Plätz;200;DE;40
+Wehingen;200;DE;40
+Kreisfreie Stadt Aschaffenburg;200;DE;40
+Landkreis Peine;200;DE;40
+Peine, Stadt;200;DE;40
+Köppern;200;DE;40
+Echterdingen;200;DE;40
+Herzberg am Harz;200;DE;40
+Netze;200;DE;40
+Bierstraß;200;DE;40
+Wismar;200;DE;40
+Maxdorf;200;DE;40
+Maxdorf;200;DE;40
+Kreisfreie Stadt Kassel;200;DE;40
+Hengersberg;200;DE;40
+Offenhausen;200;DE;40
+Oberknöringen;200;DE;40
+Schierenbrink;200;DE;40
+Erfurt;200;DE;40
+Delmenhorst;200;DE;40
+Unterföhring;200;DE;40
+Unterfohring;200;DE;40
+Brock;200;DE;40
+Driesch;200;DE;40
+Windischeschenbach;200;DE;40
+Wolfsburg;200;DE;40
+Kitzscher;200;DE;40
+Birkenau;200;DE;40
+Landkreis Eichstätt;200;DE;40
+Lenting;200;DE;40
+Lenting;200;DE;40
+Sulzgries;200;DE;40
+Oberschleißheim;200;DE;40
+Oberschleissheim;200;DE;40
+Brömmenkamp;200;DE;40
+Ispringen;200;DE;40
+Ispringen;200;DE;40
+Berchtesgaden;200;DE;40
+Glane;200;DE;40
+Greding;200;DE;40
+Lauda-Konigshofen;200;DE;40
+Rheden;200;DE;40
+Kreis Pinneberg;200;DE;40
+Tangstedt;200;DE;40
+Tangstedt;200;DE;40
+Landkreis Ludwigsburg;200;DE;40
+Schwieberdingen;200;DE;40
+Schwieberdingen;200;DE;40
+Grenzach-Wyhlen;200;DE;40
+Weisenheim am Sand;200;DE;40
+Grasbrunn;200;DE;40
+Grasbrunn;200;DE;40
+Landkreis Neuwied;200;DE;40
+Rengsdorf;200;DE;40
+Rengsdorf;200;DE;40
+Nienburg;200;DE;40
+Engbrück;200;DE;40
+Burg bei Magdeburg;200;DE;40
+Jena;200;DE;40
+Olching;200;DE;40
+Heidenheim an der Brenz;200;DE;40
+Denkendorf;200;DE;40
+Denkendorf;200;DE;40
+Bitterfeld;200;DE;40
+Weil im Schonbuch;200;DE;40
+Alterhofen;200;DE;40
+Besigheim;200;DE;40
+Buchwald;200;DE;40
+Deggendorf;200;DE;40
+Gotha;200;DE;40
+Aalen;200;DE;40
+Marienberg;200;DE;40
+Schlaitdorf;200;DE;40
+Burgstall;200;DE;40
+Freiheit;200;DE;40
+Gasteig;200;DE;40
+St. Mang;200;DE;40
+Keferloh;200;DE;40
+Kranzberg;200;DE;40
+Kranzberg;200;DE;40
+Katrepel;200;DE;40
+Marburg an der Lahn;200;DE;40
+Sulzbach-Rosenberg;200;DE;40
+Ketschendorf;200;DE;40
+Eckersbach;200;DE;40
+Schwaig;200;DE;40
+Scharnhausen;200;DE;40
+Ramstein;200;DE;40
+Oberbehme;200;DE;40
+Falkenkrug;200;DE;40
+Bremerhaven;200;DE;40
+Trebur;200;DE;40
+Barsinghausen;200;DE;40
+Nieder-Olm;200;DE;40
+Nieder-Olm;200;DE;40
+Schöller;200;DE;40
+Brandenburg an der Havel;200;DE;40
+Rostock;200;DE;40
+Walthersdorf;200;DE;40
+Oberlüghausen;200;DE;40
+Au;200;DE;40
+Kandern;200;DE;40
+Meissen;200;DE;40
+Weiden;200;DE;40
+Schriesheim;200;DE;40
+Landscheid;200;DE;40
+Landscheid;200;DE;40
+Bischofsheim;200;DE;40
+Hammerbühl;200;DE;40
+Beuerlbach;200;DE;40
+Reußen;200;DE;40
+Mering;200;DE;40
+Kleinostheim;200;DE;40
+Elster;200;DE;40
+Luschendorf;200;DE;40
+Raunheim;200;DE;40
+Hochstraß;200;DE;40
+Landkreis Waldshut;200;DE;40
+Rickenbach;200;DE;40
+Rickenbach;200;DE;40
+Ernst;200;DE;40
+Rheinau;200;DE;40
+Eutin;200;DE;40
+Kießling;200;DE;40
+Preussisch Oldendorf;200;DE;40
+Hochtaunuskreis;200;DE;40
+Wehrheim;200;DE;40
+Grosskrotzenburg;200;DE;40
+Merz;200;DE;40
+Wenden;200;DE;40
+Rhein-Sieg-Kreis;200;DE;40
+Weingartsgasse;200;DE;40
+Landkreis Aichach-Friedberg;200;DE;40
+Feucht;200;DE;40
+Kreis Neuss;200;DE;40
+Puchheim;200;DE;40
+Ochsenhausen;200;DE;40
+Wiesentheid;200;DE;40
+Duderstadt;200;DE;40
+Papenmoorland;200;DE;40
+Durchhausen;200;DE;40
+Landkreis Emmendingen;200;DE;40
+Malterdingen;200;DE;40
+Esseite;200;DE;40
+Hahnenblecher;200;DE;40
+Tonning;200;DE;40
+Ebersberg;200;DE;40
+Kuchen;200;DE;40
+Kuchen;200;DE;40
+Osterode;200;DE;40
+Kempenich;200;DE;40
+Sandwisch;200;DE;40
+Deizisau;200;DE;40
+Deizisau;200;DE;40
+Lorch;200;DE;40
+Leingarten;200;DE;40
+Landkreis Miesbach;200;DE;40
+Valley;200;DE;40
+Valley;200;DE;40
+Northeim;200;DE;40
+Schwarzenbruck;200;DE;40
+Schwarzenbruck;200;DE;40
+Kirrweiler;200;DE;40
+Stelle;200;DE;40
+Bad Sooden-Allendorf;200;DE;40
+Windberg;200;DE;40
+Landkreis Starnberg;200;DE;40
+Gauting;200;DE;40
+Babelsberg;200;DE;40
+Hochfeld;200;DE;40
+Loßburg;200;DE;40
+Lossburg;200;DE;40
+Häuser;200;DE;40
+Grossenkneten;200;DE;40
+Aschheim;200;DE;40
+Staufen im Breisgau;200;DE;40
+Hümmel;200;DE;40
+Neuhofen;200;DE;40
+Nagel;200;DE;40
+Bettingerbrück;200;DE;40
+Weilburg;200;DE;40
+Börstel;200;DE;40
+Bayerisch Gmain;200;DE;40
+Reppinghausen;200;DE;40
+Echte;200;DE;40
+Obersölden;200;DE;40
+Hebel;200;DE;40
+Hirschhorn;200;DE;40
+Rampoldsdorf;200;DE;40
+Ostbevern;200;DE;40
+Sankt Wilhelmshütte;200;DE;40
+Enerke;200;DE;40
+Borg;200;DE;40
+Franken Vorstadt;200;DE;40
+Sangerhausen;200;DE;40
+Knautnaundorf;200;DE;40
+Linz am Rhein;200;DE;40
+Mutterstadt;200;DE;40
+Herchenrath;200;DE;40
+Gerstetten;200;DE;40
+Gerstetten;200;DE;40
+Hügelsheim;200;DE;40
+Reiff;200;DE;40
+Stetten;200;DE;40
+Gieboldehausen;200;DE;40
+Schlitz;200;DE;40
+Kirchseeon;200;DE;40
+Hoya;200;DE;40
+Kadelburg;200;DE;40
+Bad Ems;200;DE;40
+Weiß;200;DE;40
+Schmalkalden;200;DE;40
+Weimar;200;DE;40
+Poing;200;DE;40
+Poing;200;DE;40
+Freudenberg;200;DE;40
+Steppach;200;DE;40
+Stadtbergen;200;DE;40
+Dalborn;200;DE;40
+Landkreis Prignitz;200;DE;40
+Wachtendonk;200;DE;40
+Garrel;200;DE;40
+Emsdetten;200;DE;40
+Rothenhof;200;DE;40
+Rheinbrohl;200;DE;40
+Obernburg am Main;200;DE;40
+Landkreis Freyung-Grafenau;200;DE;40
+Gorwihl;200;DE;40
+Krailling;200;DE;40
+Torgelow;200;DE;40
+Gasteig;200;DE;40
+Lüxheim;200;DE;40
+Lauer;200;DE;40
+Landkreis Schwandorf;200;DE;40
+Teunz;200;DE;40
+Teunz;200;DE;40
+Steinhöring;200;DE;40
+Leegebruch;200;DE;40
+Edingen-Neckarhausen;200;DE;40
+Anzing;200;DE;40
+Heltersberg;200;DE;40
+Pfullendorf;200;DE;40
+Hallstadt;200;DE;40
+Rauenberg;200;DE;40
+Landkreis Lindau;200;DE;40
+Bad Bergzabern;200;DE;40
+Königsbrunn;200;DE;40
+Freiberg;200;DE;40
+Grafenrheinfeld;200;DE;40
+Neutraubling;200;DE;40
+Birkelbach;200;DE;40
+Kindenheim;200;DE;40
+Kindenheim;200;DE;40
+Meisenheim;200;DE;40
+Nufringen;200;DE;40
+Hiebel;200;DE;40
+Oberstenfeld;200;DE;40
+Oberstenfeld;200;DE;40
+Birkach;200;DE;40
+Obersontheim;200;DE;40
+Bovenden;200;DE;40
+Finnentrop;200;DE;40
+Ammerswurth;200;DE;40
+Wessling;200;DE;40
+Filderstadt;200;DE;40
+Zunham;200;DE;40
+Karlsdorf-Neuthard;200;DE;40
+Westeregeln;200;DE;40
+Velen;200;DE;40
+Gehrden;200;DE;40
+Plon;200;DE;40
+Saubach;200;DE;40
+Sankt Annen;200;DE;40
+Rödlitz;200;DE;40
+Ilsfeld;200;DE;40
+Hartmannsdorf;200;DE;40
+Basthorst;200;DE;40
+Morbach;200;DE;40
+Landkreis Parchim;200;DE;40
+Dobbertin;200;DE;40
+Harsleben;200;DE;40
+Haag;200;DE;40
+Jessen;200;DE;40
+Owen;200;DE;40
+Hedern;200;DE;40
+Au in der Hallertau;200;DE;40
+Bad Hopfenberg;200;DE;40
+Wissen;200;DE;40
+Ober-Morlen;200;DE;40
+Harsum;200;DE;40
+Rietberg;200;DE;40
+Landkreis Ravensburg;200;DE;40
+Dörpe;200;DE;40
+Reuters;200;DE;40
+Daun;200;DE;40
+Neckartailfingen;200;DE;40
+Neckarbischofsheim;200;DE;40
+Landkreis Weilheim-Schongau;200;DE;40
+Schwabbruck;200;DE;40
+Bruckberg;200;DE;40
+Bruckberg;200;DE;40
+Triptis;200;DE;40
+Bad Klosterlausnitz;200;DE;40
+Trappenkamp;200;DE;40
+Meckesheim;200;DE;40
+Landkreis Würzburg;200;DE;40
+Gladenbach;200;DE;40
+Pattensen;200;DE;40
+Argestorf;200;DE;40
+Wassel;200;DE;40
+Mohnesee;200;DE;40
+Dornstetten;200;DE;40
+Pottmes;200;DE;40
+Wellheim;200;DE;40
+Morsbach;200;DE;40
+Morsbach;200;DE;40
+Bodenheim;200;DE;40
+Olfen;200;DE;40
+Dentingen;200;DE;40
+Schwalenberg;200;DE;40
+Pütz;200;DE;40
+Ried;200;DE;40
+Ehringshausen;200;DE;40
+Dreis-Tiefenbach;200;DE;40
+Gerstungen;200;DE;40
+Saalfeld-Rudolstadt;200;DE;40
+Goldbach;200;DE;40
+Breisach am Rhein;200;DE;40
+Baierbrunn;200;DE;40
+Asche;200;DE;40
+Reikering;200;DE;40
+Eisenberg;200;DE;40
+Hilzingen;200;DE;40
+Schönau;200;DE;40
+Landkreis Merzig-Wadern;200;DE;40
+Kakerbeck;200;DE;40
+Niedernetphen;200;DE;40
+Stukenbrock;200;DE;40
+Sternenfels;200;DE;40
+Baltmannsweiler;200;DE;40
+Eching;200;DE;40
+Empfingen;200;DE;40
+Andechs;200;DE;40
+Hohentengen am Hochrhein;200;DE;40
+Grunstadt;200;DE;40
+Salach;200;DE;40
+Bunkenburg;200;DE;40
+Barleben;200;DE;40
+Wallersdorf;200;DE;40
+Neuenmarkt;200;DE;40
+Neuenmarkt;200;DE;40
+Immelborn;200;DE;40
+Köttenich;200;DE;40
+Irxleben;200;DE;40
+Priestewitz;200;DE;40
+Erpenburg;200;DE;40
+Mainaschaff;200;DE;40
+Gundelsheim;200;DE;40
+Allmersbach im Tal;200;DE;40
+Mauer;200;DE;40
+Heroldsberg;200;DE;40
+Gruibingen;200;DE;40
+Rosenfeld;200;DE;40
+Waldeck;200;DE;40
+Konigsbronn;200;DE;40
+Lohfelden;200;DE;40
+Landkreis Birkenfeld;200;DE;40
+Buggingen;200;DE;40
+Schlacht;200;DE;40
+Molfsee;200;DE;40
+Alveslohe;200;DE;40
+Saarwellingen;200;DE;40
+Retgendorf;200;DE;40
+Westerburg;200;DE;40
+Geeste;200;DE;40
+Leisau;200;DE;40
+Landkreis Heidekreis;200;DE;40
+Bispingen;200;DE;40
+Bürdenbach-Bruchermühle;200;DE;40
+Niederlörick;200;DE;40
+Oberlahnstein;200;DE;40
+Fridingen an der Donau;200;DE;40
+Manderscheid;200;DE;40
+Baumholder;200;DE;40
+Thyrnau;200;DE;40
+Kissing;200;DE;40
+Malchin;200;DE;40
+Grossbottwar;200;DE;40
+Eystrup;200;DE;40
+Eystrup;200;DE;40
+Willingen;200;DE;40
+Bad Bertrich;200;DE;40
+Scheibe;200;DE;40
+Immenstaad am Bodensee;200;DE;40
+Fußgönheim;200;DE;40
+Kesselsdorf;200;DE;40
+Abstatt;200;DE;40
+Schellerten;200;DE;40
+Bohme;200;DE;40
+Grossrohrsdorf;200;DE;40
+Berngau;200;DE;40
+Philippsthal;200;DE;40
+Lappersdorf;200;DE;40
+Stapelfeld;200;DE;40
+Bad Meinberg;200;DE;40
+Harsefeld;200;DE;40
+Starkenburg;200;DE;40
+Altenstadt;200;DE;40
+Weißdorf;200;DE;40
+Hauswalde;200;DE;40
+Wega;200;DE;40
+Osterhorn;200;DE;40
+Bellersheim;200;DE;40
+Stadtilm;200;DE;40
+Laudert;200;DE;40
+Gutach (Schwarzwaldbahn);200;DE;40
+Halsenbach;200;DE;40
+Bruttig;200;DE;40
+Bilshausen;200;DE;40
+Frede;200;DE;40
+Jestetten;200;DE;40
+Gundelprechting;200;DE;40
+Landkreis Ludwigslust;200;DE;40
+Albaching;200;DE;40
+Jesenwang;200;DE;40
+Thalheim;200;DE;40
+Hatzenbuhl;200;DE;40
+Harm;200;DE;40
+Achenbach;200;DE;40
+Sickte;200;DE;40
+Schwarza;200;DE;40
+Spradowerbach;200;DE;40
+Holzmaden;200;DE;40
+Spreenhagen;200;DE;40
+Schopp;200;DE;40
+Brendel;200;DE;40
+Klein-Winternheim;200;DE;40
+Lindenfels;200;DE;40
+Satrup;200;DE;40
+Quenstedt;200;DE;40
+Unterstall;200;DE;40
+Waldsiedlung;200;DE;40
+Andisleben;200;DE;40
+Bischofswiesen;200;DE;40
+Altlußheim;200;DE;40
+Havixbeck;200;DE;40
+Seeheilbad Graal-Muritz;200;DE;40
+Rodelmaier;200;DE;40
+Lorbach;200;DE;40
+Grabau;200;DE;40
+Sasbachwalden;200;DE;40
+Oberfell;200;DE;40
+Engelthal;200;DE;40
+Merscherhöhe;200;DE;40
+Sankt Alban;200;DE;40
+Liebenburg;200;DE;40
+Linkenheim-Hochstetten;200;DE;40
+Maxhutte-Haidhof;200;DE;40
+Unterleiterbach;200;DE;40
+Oberhattert;200;DE;40
+Pferdekamp;200;DE;40
+Wetter;200;DE;40
+Lengede;200;DE;40
+Sandbostel;200;DE;40
+Irfersgrün;200;DE;40
+Marnheim;200;DE;40
+Büchig;200;DE;40
+Jerrishoe;200;DE;40
+Oberottmarshausen;200;DE;40
+Laufeld;200;DE;40
+Peutenhausen;200;DE;40
+Herleshausen;200;DE;40
+Wonsees;200;DE;40
+Hub;200;DE;40
+Kellberg;200;DE;40
+Groß Kummerfeld;200;DE;40
+Vitzke;200;DE;40
+Arnum;200;DE;40
+Fresenburg;200;DE;40
+Lussow;200;DE;40
+Kleinjörl;200;DE;40
+Stettenhofen;200;DE;40
+Otterloh;200;DE;40
+Gaggstatt;200;DE;40
+Ostān-e Alborz;200;IR;40
+Tabriz;200;IR;40
+Zahedan;200;IR;40
+Chah Bahar;200;IR;40
+Ostān-e Māzandarān;200;IR;40
+Eslāmshahr;200;IR;40
+Zabol;200;IR;40
+Kazerun;200;IR;40
+Khāmeneh;200;IR;40
+Shahrak-e Dāneshgāh;200;IR;40
+Maḩall-e Eḩdās̄-e Shahrak-e Shardārī-ye Būkān;200;IR;40
+Qorveh;200;IR;40
+Gonbad-e Qabus;200;IR;40
+Juybar;200;IR;40
+Bojnurd;200;IR;40
+Bandar-e Anzali;200;IR;40
+Fasārūd;200;IR;40
+Gemeente Rotterdam;200;NL;40
+Rotterdam;200;NL;40
+Katerveer;200;NL;40
+Palenstein;200;NL;40
+Gemeente Amstelveen;200;NL;40
+Gemeente Maastricht;200;NL;40
+Enschede;200;NL;40
+Gemeente Almere;200;NL;40
+Gemeente Groningen;200;NL;40
+Groningen;200;NL;40
+Gemeente Nijmegen;200;NL;40
+Ubbergen;200;NL;40
+Hengstdal;200;NL;40
+Bieberg;200;NL;40
+Ginneken;200;NL;40
+Gemeente Hengelo;200;NL;40
+Hengelo;200;NL;40
+Gemeente Dordrecht;200;NL;40
+Gemeente  Oldambt;200;NL;40
+Gemeente Hilversum;200;NL;40
+Middelburg;200;NL;40
+Hardenberg;200;NL;40
+Gemeente 's-Hertogenbosch;200;NL;40
+Rosmalen;200;NL;40
+Gemeente Heerlen;200;NL;40
+Gemeente Arnhem;200;NL;40
+Gemeente Gouda;200;NL;40
+Mijnheerkens;200;NL;40
+Hoek van Holland;200;NL;40
+Geleen;200;NL;40
+Gemeente Elburg;200;NL;40
+Gemeente Lisse;200;NL;40
+Gemeente Staphorst;200;NL;40
+Gemeente Zutphen;200;NL;40
+Oranjewoud;200;NL;40
+Gemeente Bronckhorst;200;NL;40
+Hengelo;200;NL;40
+Gemeente Gennep;200;NL;40
+Gemeente Ommen;200;NL;40
+Zeesse;200;NL;40
+Gemeente Neder-Betuwe;200;NL;40
+Kesteren;200;NL;40
+Gemeente Bergen;200;NL;40
+Oostdorp;200;NL;40
+Roden;200;NL;40
+Hulst;200;NL;40
+Gemeente Tholen;200;NL;40
+Tholen;200;NL;40
+Vaartkant;200;NL;40
+Gemeente Twenterand;200;NL;40
+Den Ham;200;NL;40
+Reẖovot;200;IL;40
+Netanya;200;IL;40
+Ramat HaSharon;200;IL;40
+Kefar Tavor;200;IL;40
+Nirim;200;IL;40
+Jerusalem District;200;IL;40
+Maẖseya;200;IL;40
+Urim;200;IL;40
+Tel Litwinsky;200;IL;40
+Qiryat Tiv‘on;200;IL;40
+Or ‘Aqiva;200;IL;40
+Tequma;200;IL;40
+Delicias;200;ES;40
+Sant Pere, Santa Caterina i La Ribera;200;ES;40
+Palma;200;ES;40
+Fuenlabrada;200;ES;40
+Javea;200;ES;40
+Ciudad Real;200;ES;40
+Güeñes;200;ES;40
+Colunga;200;ES;40
+Cadiz;200;ES;40
+Compostela;200;ES;40
+Sacromonte;200;ES;40
+Zamudio;200;ES;40
+Ávila;200;ES;40
+San Lorenzo;200;ES;40
+Petrer;200;ES;40
+Alcorcón;200;ES;40
+Llanera;200;ES;40
+Llanera;200;ES;40
+Toledo;200;ES;40
+Aravaca;200;ES;40
+Lliçà d'Amunt;200;ES;40
+Siero;200;ES;40
+Posada;200;ES;40
+Logrono;200;ES;40
+Plan;200;ES;40
+Plan;200;ES;40
+Segovia;200;ES;40
+Palafrugell;200;ES;40
+Villaviciosa;200;ES;40
+Albacete;200;ES;40
+Utrera;200;ES;40
+Bustillo;200;ES;40
+Becerreá;200;ES;40
+La Matanza;200;ES;40
+Medio Cudeyo;200;ES;40
+Tortes;200;ES;40
+Benidorm;200;ES;40
+Beniparrell;200;ES;40
+Beniparrell;200;ES;40
+Constanti;200;ES;40
+Montferrer;200;ES;40
+Berrioplano;200;ES;40
+Izarra;200;ES;40
+Alcaraz;200;ES;40
+Huete;200;ES;40
+Orkoien;200;ES;40
+Colmenar Viejo;200;ES;40
+Dosrius;200;ES;40
+Quesada;200;ES;40
+Ceal;200;ES;40
+Aranga;200;ES;40
+Paterna;200;ES;40
+Escó;200;ES;40
+Burriana;200;ES;40
+Arantzazu;200;ES;40
+Tourón;200;ES;40
+Oliva;200;ES;40
+Huertas;200;ES;40
+Agreda;200;ES;40
+Benalmádena;200;ES;40
+Silleda;200;ES;40
+El Comercio;200;ES;40
+Nueva Montaña;200;ES;40
+Siresa;200;ES;40
+Núñez;200;ES;40
+Pie de Concha;200;ES;40
+Valga;200;ES;40
+Bullas;200;ES;40
+Montmelo;200;ES;40
+Pilar de la Horadada;200;ES;40
+Oria;200;ES;40
+Ocio;200;ES;40
+Abaran;200;ES;40
+Fraga;200;ES;40
+Bacarot;200;ES;40
+Biosca;200;ES;40
+Cantalojas;200;ES;40
+Águilas;200;ES;40
+Benirredrà;200;ES;40
+Marchena;200;ES;40
+Utiel;200;ES;40
+Consuegra;200;ES;40
+Cala del Moral;200;ES;40
+Aspe;200;ES;40
+Priego de Córdoba;200;ES;40
+Alhama de Murcia;200;ES;40
+Miñao Goien/Miñano Mayor;200;ES;40
+San Javier;200;ES;40
+Los Isidoros;200;ES;40
+Vilacolum;200;ES;40
+l'Hospitalet de Llobregat;200;ES;40
+Villanueva de la Cañada;200;ES;40
+Penaranda de Bracamonte;200;ES;40
+Murguia;200;ES;40
+Barbate de Franco;200;ES;40
+Subirats;200;ES;40
+Carlet;200;ES;40
+Vilagrassa;200;ES;40
+Villaviciosa de Odón;200;ES;40
+Calp;200;ES;40
+Los Barrios;200;ES;40
+Villacarrillo;200;ES;40
+Golmes;200;ES;40
+Yaiza;200;ES;40
+ses Truqueries;200;ES;40
+Medina del Campo;200;ES;40
+Miajadas;200;ES;40
+Puerto de Santa María (El);200;ES;40
+Facinas;200;ES;40
+Tuineje;200;ES;40
+Uga;200;ES;40
+Montoliu de Lleida;200;ES;40
+Manzanares el Real;200;ES;40
+Guia;200;ES;40
+Torroella de Montgrí;200;ES;40
+Pinós (el)/Pinoso;200;ES;40
+Cabrera d'Anoia;200;ES;40
+Mos;200;ES;40
+Palau-solità i Plegamans;200;ES;40
+Oliva de Mérida;200;ES;40
+Guarena;200;ES;40
+Ezcaray;200;ES;40
+Mendigorría;200;ES;40
+Cortes de la Frontera;200;ES;40
+Torroso;200;ES;40
+Torrejon el Rubio;200;ES;40
+Garrapinillos;200;ES;40
+Navacepeda de Tormes;200;ES;40
+Vilaflor;200;ES;40
+Paracuellos de Jarama;200;ES;40
+Algodonales;200;ES;40
+Vegas del Genil;200;ES;40
+Mondoñedo;200;ES;40
+El Tiemblo;200;ES;40
+Villamayor;200;ES;40
+Zalamea la Real;200;ES;40
+Calles;200;ES;40
+El Pina;200;ES;40
+Búbal;200;ES;40
+Rocafort;200;ES;40
+Tábara;200;ES;40
+Ancin;200;ES;40
+Tolbaños;200;ES;40
+Valdazo;200;ES;40
+Barón;200;CL;40
+Región de Los Lagos;200;CL;40
+Las Animas;200;CL;40
+Puerto Montt;200;CL;40
+Las Condes;200;CL;40
+Región del Maule;200;CL;40
+Talca;200;CL;40
+Concepcion;200;CL;40
+Región de Antofagasta;200;CL;40
+Chuquicamata;200;CL;40
+Lo Contador;200;CL;40
+Providencia;200;CL;40
+Región de la Araucanía;200;CL;40
+Maipú;200;CL;40
+Huilco;200;CL;40
+La Cesira;200;AR;40
+Retamito;200;AR;40
+Allen;200;PH;40
+Province of Davao del Sur;200;PH;40
+Magelang;200;ID;40
+Abianbase;200;ID;40
+Samarinda;200;ID;40
+Sojadibawah;200;ID;40
+Banjar Banyuning Barat;200;ID;40
+Sorong;200;ID;40
+Abbottabad;200;PK;40
+New Plymouth District;200;NZ;40
+New Plymouth;200;NZ;40
+Northcote;200;NZ;40
+Seaview;200;NZ;40
+Silverstream;200;NZ;40
+Nelson;200;NZ;40
+Hastings District;200;NZ;40
+Gisborne;200;NZ;40
+Hauraki District;200;NZ;40
+Kunduz;200;AF;40
+Andkhoy;200;AF;40
+Listowel;200;IE;40
+Tipperary;200;IE;40
+New Ross;200;IE;40
+Saggart;200;IE;40
+Charleroi;200;BE;40
+Soignies;200;BE;40
+Arrondissement Veurne;200;BE;40
+Veurne;200;BE;40
+Veurne;200;BE;40
+Arrondissement de Liège;200;BE;40
+Liège;200;BE;40
+La Ferté;200;BE;40
+Arrondissement Brugge;200;BE;40
+Brugge;200;BE;40
+Aalter;200;BE;40
+Merelbeke;200;BE;40
+Arrondissement de Nivelles;200;BE;40
+Nivelles;200;BE;40
+Genk;200;BE;40
+Pennepoel;200;BE;40
+Veeweide;200;BE;40
+Kraainem;200;BE;40
+Kraainem;200;BE;40
+Verviers;200;BE;40
+Oostrozebeke;200;BE;40

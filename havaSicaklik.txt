@@ -1,0 +1,1960 @@
+707860;800;Hurzuf;clear sky;294.06;1007.28
+707860;800;Hurzuf;clear sky;293.84;1007.24
+707860;800;Hurzuf;clear sky;294.22;1007.2
+707860;800;Hurzuf;clear sky;296.08;1007.91
+707860;800;Hurzuf;clear sky;296.948;1008.33
+707860;800;Hurzuf;clear sky;297.099;1007.6
+707860;800;Hurzuf;clear sky;296.363;1006.84
+707860;800;Hurzuf;clear sky;293.93;1006.71
+707860;800;Hurzuf;clear sky;292.874;1006.04
+707860;800;Hurzuf;clear sky;292.594;1005.23
+707860;801;Hurzuf;few clouds;292.73;1004.55
+707860;500;Hurzuf;light rain;295.735;1004.6
+707860;800;Hurzuf;clear sky;297.717;1003.8
+707860;800;Hurzuf;clear sky;298.432;1003.05
+707860;800;Hurzuf;clear sky;297.683;1003.06
+707860;800;Hurzuf;clear sky;295.43;1003.21
+707860;800;Hurzuf;clear sky;294.556;1003.57
+707860;800;Hurzuf;clear sky;294.397;1003.63
+707860;800;Hurzuf;clear sky;294.311;1004.07
+707860;800;Hurzuf;clear sky;296.728;1004.78
+707860;800;Hurzuf;clear sky;298.141;1005.63
+707860;800;Hurzuf;clear sky;298.309;1005.9
+707860;800;Hurzuf;clear sky;297.279;1006.16
+707860;800;Hurzuf;clear sky;295.062;1007.61
+707860;800;Hurzuf;clear sky;293.597;1008.7
+707860;500;Hurzuf;light rain;292.724;1009.52
+707860;800;Hurzuf;clear sky;292.281;1010.24
+707860;800;Hurzuf;clear sky;294.828;1011.12
+707860;800;Hurzuf;clear sky;296.078;1011.28
+707860;800;Hurzuf;clear sky;296.009;1010.51
+707860;800;Hurzuf;clear sky;295.363;1009.42
+707860;800;Hurzuf;clear sky;293.688;1009.4
+707860;800;Hurzuf;clear sky;293.175;1008.71
+707860;800;Hurzuf;clear sky;292.957;1008.21
+707860;800;Hurzuf;clear sky;292.686;1007.98
+707860;800;Hurzuf;clear sky;295.247;1008.48
+707860;800;Hurzuf;clear sky;296.571;1008.9
+707860;800;Hurzuf;clear sky;297.338;1008.47
+707860;800;Hurzuf;clear sky;296.84;1008.74
+707860;800;Hurzuf;clear sky;294.925;1009.89
+519188;800;Novinki;clear sky;285.74;1009.55
+519188;802;Novinki;scattered clouds;285.79;1009.59
+519188;801;Novinki;few clouds;286.62;1009.47
+519188;801;Novinki;few clouds;290.276;1009.28
+519188;801;Novinki;few clouds;293.798;1008.41
+519188;801;Novinki;few clouds;294.049;1007.93
+519188;802;Novinki;scattered clouds;293.013;1007.08
+519188;802;Novinki;scattered clouds;292.03;1007.11
+519188;800;Novinki;clear sky;291.024;1006.93
+519188;801;Novinki;few clouds;290.094;1007.01
+519188;801;Novinki;few clouds;289.13;1006.82
+519188;802;Novinki;scattered clouds;291.685;1006.62
+519188;802;Novinki;scattered clouds;294.117;1006.23
+519188;800;Novinki;clear sky;296.782;1005.48
+519188;800;Novinki;clear sky;295.533;1004.6
+519188;800;Novinki;clear sky;292.88;1004.18
+519188;801;Novinki;few clouds;291.456;1003.09
+519188;802;Novinki;scattered clouds;290.097;1001.84
+519188;802;Novinki;scattered clouds;289.211;1000.26
+519188;802;Novinki;scattered clouds;292.478;998.94
+519188;803;Novinki;broken clouds;295.741;998.01
+519188;801;Novinki;few clouds;296.659;996.82
+519188;801;Novinki;few clouds;294.929;996.11
+519188;500;Novinki;light rain;290.762;997.8
+519188;500;Novinki;light rain;288.297;998.89
+519188;801;Novinki;few clouds;286.624;999.96
+519188;802;Novinki;scattered clouds;285.631;1000.27
+519188;800;Novinki;clear sky;287.978;1000.26
+519188;800;Novinki;clear sky;290.978;999.04
+519188;804;Novinki;overcast clouds;291.959;998.19
+519188;804;Novinki;overcast clouds;291.613;997.67
+519188;804;Novinki;overcast clouds;291.288;998.13
+519188;500;Novinki;light rain;291.125;998.5
+519188;500;Novinki;light rain;290.457;999.37
+519188;500;Novinki;light rain;289.736;998.98
+519188;802;Novinki;scattered clouds;290.447;997.86
+519188;500;Novinki;light rain;292.521;996.09
+519188;500;Novinki;light rain;288.988;995.5
+519188;500;Novinki;light rain;286.19;997.88
+519188;500;Novinki;light rain;285.575;1000.08
+1283378;500;Gorkhā;light rain;286.71;806.33
+1283378;500;Gorkhā;light rain;286.94;806.29
+1283378;500;Gorkhā;light rain;290.72;807.47
+1283378;500;Gorkhā;light rain;293.83;807.44
+1283378;500;Gorkhā;light rain;294.198;806.08
+1283378;500;Gorkhā;light rain;290.899;806.49
+1283378;500;Gorkhā;light rain;288.263;808.73
+1283378;500;Gorkhā;light rain;287.38;808.6
+1283378;500;Gorkhā;light rain;286.674;807.85
+1283378;500;Gorkhā;light rain;286.194;807.52
+1283378;500;Gorkhā;light rain;291.18;808.47
+1283378;500;Gorkhā;light rain;295.135;808.27
+1283378;500;Gorkhā;light rain;295.717;806.58
+1283378;500;Gorkhā;light rain;291.982;806.48
+1283378;801;Gorkhā;few clouds;288.783;808.92
+1283378;500;Gorkhā;light rain;288.03;809.4
+1283378;500;Gorkhā;light rain;287.706;807.97
+1283378;500;Gorkhā;light rain;287.147;807.78
+1283378;500;Gorkhā;light rain;292.011;808.63
+1283378;500;Gorkhā;light rain;295.228;808.21
+1283378;500;Gorkhā;light rain;295.041;806.79
+1283378;500;Gorkhā;light rain;291.459;806.16
+1283378;801;Gorkhā;few clouds;288.629;807.81
+1283378;500;Gorkhā;light rain;287.462;808.28
+1283378;500;Gorkhā;light rain;286.947;807.18
+1283378;500;Gorkhā;light rain;286.624;806.55
+1283378;500;Gorkhā;light rain;292.031;807.35
+1283378;500;Gorkhā;light rain;295.228;807.74
+1283378;500;Gorkhā;light rain;296.278;805.71
+1283378;500;Gorkhā;light rain;293.159;805.59
+1283378;802;Gorkhā;scattered clouds;289.813;807.5
+1283378;801;Gorkhā;few clouds;288.638;807.96
+1283378;500;Gorkhā;light rain;287.675;806.71
+1283378;500;Gorkhā;light rain;287.108;805.96
+1283378;800;Gorkhā;clear sky;293.086;806.7
+1283378;800;Gorkhā;clear sky;296.747;806.97
+1283378;803;Gorkhā;broken clouds;297.121;805.28
+1283378;803;Gorkhā;broken clouds;293.938;805.5
+1283378;800;Gorkhā;clear sky;291.14;806.98
+1283378;800;Gorkhā;clear sky;288.975;807.24
+1270260;802;State of Haryāna;scattered clouds;299.36;993.42
+1270260;801;State of Haryāna;few clouds;298.84;993.78
+1270260;800;State of Haryāna;clear sky;304.87;994.79
+1270260;802;State of Haryāna;scattered clouds;309.83;995.02
+1270260;801;State of Haryāna;few clouds;310.298;993.25
+1270260;803;State of Haryāna;broken clouds;307.699;992.69
+1270260;803;State of Haryāna;broken clouds;303.713;994.68
+1270260;802;State of Haryāna;scattered clouds;301.58;995.44
+1270260;802;State of Haryāna;scattered clouds;300.324;995.02
+1270260;803;State of Haryāna;broken clouds;299.944;995.42
+1270260;802;State of Haryāna;scattered clouds;304.03;996.61
+1270260;800;State of Haryāna;clear sky;309.135;996.25
+1270260;800;State of Haryāna;clear sky;310.567;994.31
+1270260;800;State of Haryāna;clear sky;309.032;993.16
+1270260;800;State of Haryāna;clear sky;303.583;994.95
+1270260;800;State of Haryāna;clear sky;300.08;996.24
+1270260;800;State of Haryāna;clear sky;298.506;995.87
+1270260;800;State of Haryāna;clear sky;297.747;996.01
+1270260;800;State of Haryāna;clear sky;304.561;997.1
+1270260;800;State of Haryāna;clear sky;309.428;996.43
+1270260;800;State of Haryāna;clear sky;310.291;993.88
+1270260;800;State of Haryāna;clear sky;309.109;992.6
+1270260;800;State of Haryāna;clear sky;302.079;994.57
+1270260;800;State of Haryāna;clear sky;298.562;995.2
+1270260;800;State of Haryāna;clear sky;296.597;994.83
+1270260;800;State of Haryāna;clear sky;295.774;994.44
+1270260;800;State of Haryāna;clear sky;302.681;995.41
+1270260;800;State of Haryāna;clear sky;309.578;995.07
+1270260;500;State of Haryāna;light rain;307.278;993.52
+1270260;500;State of Haryāna;light rain;306.309;992.76
+1270260;802;State of Haryāna;scattered clouds;301.513;994.5
+1270260;801;State of Haryāna;few clouds;298.938;994.81
+1270260;801;State of Haryāna;few clouds;297.675;994.45
+1270260;800;State of Haryāna;clear sky;296.658;994.43
+1270260;800;State of Haryāna;clear sky;302.936;995.49
+1270260;800;State of Haryāna;clear sky;308.347;994.78
+1270260;800;State of Haryāna;clear sky;310.321;992.61
+1270260;800;State of Haryāna;clear sky;309.138;991.53
+1270260;801;State of Haryāna;few clouds;304.14;993.42
+1270260;800;State of Haryāna;clear sky;300.725;993.92
+708546;800;Holubynka;clear sky;294.21;1014.82
+708546;800;Holubynka;clear sky;293.94;1014.7
+708546;800;Holubynka;clear sky;293.72;1014.74
+708546;800;Holubynka;clear sky;296.53;1015.29
+708546;800;Holubynka;clear sky;297.498;1015.38
+708546;800;Holubynka;clear sky;298.049;1014.58
+708546;800;Holubynka;clear sky;297.313;1013.65
+708546;800;Holubynka;clear sky;294.83;1013.43
+708546;800;Holubynka;clear sky;293.924;1012.61
+708546;800;Holubynka;clear sky;293.744;1011.55
+708546;800;Holubynka;clear sky;293.73;1010.63
+708546;800;Holubynka;clear sky;296.535;1010.43
+708546;800;Holubynka;clear sky;298.767;1009.88
+708546;800;Holubynka;clear sky;299.182;1009.54
+708546;800;Holubynka;clear sky;298.433;1010.03
+708546;800;Holubynka;clear sky;296.53;1010.26
+708546;800;Holubynka;clear sky;294.956;1011.27
+708546;800;Holubynka;clear sky;294.197;1011.49
+708546;800;Holubynka;clear sky;293.961;1011.93
+708546;800;Holubynka;clear sky;296.478;1012.72
+708546;800;Holubynka;clear sky;297.541;1013.74
+708546;800;Holubynka;clear sky;297.309;1014.16
+708546;800;Holubynka;clear sky;296.229;1014.59
+708546;800;Holubynka;clear sky;294.262;1016.12
+708546;800;Holubynka;clear sky;293.747;1017.13
+708546;800;Holubynka;clear sky;293.524;1017.71
+708546;800;Holubynka;clear sky;292.831;1018.27
+708546;800;Holubynka;clear sky;295.178;1018.98
+708546;800;Holubynka;clear sky;296.828;1018.97
+708546;800;Holubynka;clear sky;296.659;1018.13
+708546;800;Holubynka;clear sky;295.663;1017.12
+708546;800;Holubynka;clear sky;293.988;1016.94
+708546;800;Holubynka;clear sky;293.475;1016.33
+708546;800;Holubynka;clear sky;293.008;1015.66
+708546;800;Holubynka;clear sky;292.686;1015.43
+708546;800;Holubynka;clear sky;295.497;1016.19
+708546;800;Holubynka;clear sky;297.021;1016.68
+708546;800;Holubynka;clear sky;297.288;1016.34
+708546;800;Holubynka;clear sky;296.84;1016.36
+708546;800;Holubynka;clear sky;294.825;1017.42
+1283710;500;Bāgmatī Zone;light rain;289.13;710.84
+1283710;500;Bāgmatī Zone;light rain;286.75;710.96
+1283710;500;Bāgmatī Zone;light rain;287.45;711.9
+1283710;500;Bāgmatī Zone;light rain;287.376;711.79
+1283710;802;Bāgmatī Zone;scattered clouds;287.048;710.92
+1283710;802;Bāgmatī Zone;scattered clouds;284.749;711.01
+1283710;801;Bāgmatī Zone;few clouds;282.963;713.0
+1283710;500;Bāgmatī Zone;light rain;281.98;712.7
+1283710;500;Bāgmatī Zone;light rain;281.424;711.79
+1283710;500;Bāgmatī Zone;light rain;280.994;711.63
+1283710;802;Bāgmatī Zone;scattered clouds;284.48;712.5
+1283710;802;Bāgmatī Zone;scattered clouds;287.335;712.54
+1283710;801;Bāgmatī Zone;few clouds;287.467;711.33
+1283710;801;Bāgmatī Zone;few clouds;285.032;711.15
+1283710;802;Bāgmatī Zone;scattered clouds;282.783;713.02
+1283710;802;Bāgmatī Zone;scattered clouds;281.68;713.26
+1283710;802;Bāgmatī Zone;scattered clouds;281.406;712.0
+1283710;500;Bāgmatī Zone;light rain;280.997;711.65
+1283710;801;Bāgmatī Zone;few clouds;284.861;712.33
+1283710;801;Bāgmatī Zone;few clouds;287.528;712.47
+1283710;802;Bāgmatī Zone;scattered clouds;286.941;711.3
+1283710;801;Bāgmatī Zone;few clouds;284.359;710.92
+1283710;800;Bāgmatī Zone;clear sky;282.529;712.16
+1283710;500;Bāgmatī Zone;light rain;281.512;712.3
+1283710;500;Bāgmatī Zone;light rain;280.997;711.12
+1283710;500;Bāgmatī Zone;light rain;280.924;710.57
+1283710;800;Bāgmatī Zone;clear sky;284.831;711.45
+1283710;800;Bāgmatī Zone;clear sky;287.228;712.01
+1283710;801;Bāgmatī Zone;few clouds;287.578;710.7
+1283710;801;Bāgmatī Zone;few clouds;285.009;710.43
+1283710;800;Bāgmatī Zone;clear sky;282.663;711.93
+1283710;800;Bāgmatī Zone;clear sky;281.638;712.23
+1283710;800;Bāgmatī Zone;clear sky;281.475;710.82
+1283710;800;Bāgmatī Zone;clear sky;281.158;710.31
+1283710;800;Bāgmatī Zone;clear sky;285.286;711.22
+1283710;800;Bāgmatī Zone;clear sky;287.897;711.56
+1283710;802;Bāgmatī Zone;scattered clouds;286.721;710.68
+1283710;500;Bāgmatī Zone;light rain;284.688;710.58
+1283710;800;Bāgmatī Zone;clear sky;283.29;711.74
+1283710;800;Bāgmatī Zone;clear sky;282.225;711.75
+529334;800;Mar’ina Roshcha;clear sky;285.74;1009.55
+529334;802;Mar’ina Roshcha;scattered clouds;285.78;1009.59
+529334;801;Mar’ina Roshcha;few clouds;286.62;1009.47
+529334;801;Mar’ina Roshcha;few clouds;290.276;1009.28
+529334;801;Mar’ina Roshcha;few clouds;293.798;1008.41
+529334;801;Mar’ina Roshcha;few clouds;294.049;1007.93
+529334;802;Mar’ina Roshcha;scattered clouds;293.013;1007.08
+529334;802;Mar’ina Roshcha;scattered clouds;292.03;1007.11
+529334;800;Mar’ina Roshcha;clear sky;291.024;1006.93
+529334;801;Mar’ina Roshcha;few clouds;290.094;1007.01
+529334;801;Mar’ina Roshcha;few clouds;289.13;1006.82
+529334;802;Mar’ina Roshcha;scattered clouds;291.685;1006.62
+529334;802;Mar’ina Roshcha;scattered clouds;294.117;1006.23
+529334;800;Mar’ina Roshcha;clear sky;296.782;1005.48
+529334;800;Mar’ina Roshcha;clear sky;295.533;1004.6
+529334;800;Mar’ina Roshcha;clear sky;292.88;1004.18
+529334;801;Mar’ina Roshcha;few clouds;291.456;1003.09
+529334;802;Mar’ina Roshcha;scattered clouds;290.097;1001.84
+529334;802;Mar’ina Roshcha;scattered clouds;289.211;1000.26
+529334;802;Mar’ina Roshcha;scattered clouds;292.478;998.94
+529334;803;Mar’ina Roshcha;broken clouds;295.741;998.01
+529334;801;Mar’ina Roshcha;few clouds;296.659;996.82
+529334;801;Mar’ina Roshcha;few clouds;294.929;996.11
+529334;500;Mar’ina Roshcha;light rain;290.762;997.8
+529334;500;Mar’ina Roshcha;light rain;288.297;998.89
+529334;801;Mar’ina Roshcha;few clouds;286.624;999.96
+529334;802;Mar’ina Roshcha;scattered clouds;285.631;1000.27
+529334;800;Mar’ina Roshcha;clear sky;287.978;1000.26
+529334;800;Mar’ina Roshcha;clear sky;290.978;999.04
+529334;804;Mar’ina Roshcha;overcast clouds;291.959;998.19
+529334;804;Mar’ina Roshcha;overcast clouds;291.613;997.67
+529334;804;Mar’ina Roshcha;overcast clouds;291.288;998.13
+529334;500;Mar’ina Roshcha;light rain;291.125;998.5
+529334;500;Mar’ina Roshcha;light rain;290.457;999.37
+529334;500;Mar’ina Roshcha;light rain;289.736;998.98
+529334;802;Mar’ina Roshcha;scattered clouds;290.447;997.86
+529334;500;Mar’ina Roshcha;light rain;292.521;996.09
+529334;500;Mar’ina Roshcha;light rain;288.988;995.5
+529334;500;Mar’ina Roshcha;light rain;286.19;997.88
+529334;500;Mar’ina Roshcha;light rain;285.575;1000.08
+1269750;803;Republic of India;broken clouds;296.36;964.56
+1269750;801;Republic of India;few clouds;295.84;964.93
+1269750;800;Republic of India;clear sky;299.67;966.42
+1269750;800;Republic of India;clear sky;303.63;966.48
+1269750;800;Republic of India;clear sky;305.198;963.99
+1269750;803;Republic of India;broken clouds;303.749;963.59
+1269750;803;Republic of India;broken clouds;300.063;966.07
+1269750;501;Republic of India;moderate rain;296.58;967.96
+1269750;500;Republic of India;light rain;296.224;966.16
+1269750;801;Republic of India;few clouds;296.244;966.16
+1269750;800;Republic of India;clear sky;299.33;967.59
+1269750;800;Republic of India;clear sky;303.035;967.31
+1269750;800;Republic of India;clear sky;304.817;965.29
+1269750;801;Republic of India;few clouds;303.482;964.47
+1269750;800;Republic of India;clear sky;299.983;966.74
+1269750;800;Republic of India;clear sky;297.78;968.03
+1269750;800;Republic of India;clear sky;297.206;966.69
+1269750;803;Republic of India;broken clouds;296.847;966.99
+1269750;500;Republic of India;light rain;300.011;968.48
+1269750;800;Republic of India;clear sky;303.478;967.89
+1269750;800;Republic of India;clear sky;305.141;965.51
+1269750;800;Republic of India;clear sky;304.359;964.23
+1269750;801;Republic of India;few clouds;300.179;966.61
+1269750;801;Republic of India;few clouds;298.412;967.08
+1269750;801;Republic of India;few clouds;297.747;965.98
+1269750;802;Republic of India;scattered clouds;296.324;966.15
+1269750;800;Republic of India;clear sky;299.231;967.69
+1269750;800;Republic of India;clear sky;303.828;967.43
+1269750;800;Republic of India;clear sky;305.678;964.58
+1269750;801;Republic of India;few clouds;304.909;963.99
+1269750;500;Republic of India;light rain;301.213;965.81
+1269750;501;Republic of India;moderate rain;297.538;966.52
+1269750;500;Republic of India;light rain;296.475;965.91
+1269750;500;Republic of India;light rain;296.008;965.16
+1269750;500;Republic of India;light rain;298.536;966.55
+1269750;501;Republic of India;moderate rain;298.847;966.9
+1269750;500;Republic of India;light rain;301.771;964.56
+1269750;802;Republic of India;scattered clouds;301.638;963.89
+1269750;802;Republic of India;scattered clouds;299.24;965.45
+1269750;500;Republic of India;light rain;297.925;966.04
+1283240;500;Kathmandu;light rain;293.68;894.77
+1283240;500;Kathmandu;light rain;292.9;894.73
+1283240;500;Kathmandu;light rain;295.05;895.9
+1283240;501;Kathmandu;moderate rain;295.276;896.21
+1283240;500;Kathmandu;light rain;295.448;894.84
+1283240;500;Kathmandu;light rain;294.349;894.93
+1283240;500;Kathmandu;light rain;293.663;897.41
+1283240;500;Kathmandu;light rain;293.03;897.44
+1283240;500;Kathmandu;light rain;292.124;896.61
+1283240;500;Kathmandu;light rain;291.844;896.45
+1283240;500;Kathmandu;light rain;293.38;897.39
+1283240;500;Kathmandu;light rain;296.285;897.6
+1283240;500;Kathmandu;light rain;295.217;895.74
+1283240;500;Kathmandu;light rain;294.482;895.32
+1283240;500;Kathmandu;light rain;293.683;897.84
+1283240;500;Kathmandu;light rain;293.83;898.24
+1283240;500;Kathmandu;light rain;293.156;896.82
+1283240;500;Kathmandu;light rain;292.447;896.71
+1283240;500;Kathmandu;light rain;293.961;897.8
+1283240;500;Kathmandu;light rain;296.878;897.53
+1283240;500;Kathmandu;light rain;296.241;895.8
+1283240;500;Kathmandu;light rain;295.459;894.84
+1283240;500;Kathmandu;light rain;292.879;896.57
+1283240;500;Kathmandu;light rain;293.212;897.04
+1283240;500;Kathmandu;light rain;292.247;895.78
+1283240;500;Kathmandu;light rain;291.574;895.39
+1283240;500;Kathmandu;light rain;295.631;896.35
+1283240;802;Kathmandu;scattered clouds;297.728;896.91
+1283240;500;Kathmandu;light rain;298.128;894.63
+1283240;500;Kathmandu;light rain;295.809;894.11
+1283240;500;Kathmandu;light rain;294.113;896.02
+1283240;500;Kathmandu;light rain;293.688;896.48
+1283240;500;Kathmandu;light rain;293.425;895.23
+1283240;500;Kathmandu;light rain;291.908;894.48
+1283240;800;Kathmandu;clear sky;296.636;895.3
+1283240;800;Kathmandu;clear sky;300.847;895.24
+1283240;500;Kathmandu;light rain;298.021;893.63
+1283240;500;Kathmandu;light rain;297.588;893.29
+1283240;800;Kathmandu;clear sky;293.14;895.01
+1283240;800;Kathmandu;clear sky;292.925;894.95
+703363;800;Laspi;clear sky;294.21;1014.82
+703363;800;Laspi;clear sky;293.94;1014.7
+703363;800;Laspi;clear sky;293.72;1014.74
+703363;800;Laspi;clear sky;296.53;1015.29
+703363;800;Laspi;clear sky;297.498;1015.38
+703363;800;Laspi;clear sky;298.049;1014.58
+703363;800;Laspi;clear sky;297.313;1013.65
+703363;800;Laspi;clear sky;294.83;1013.43
+703363;800;Laspi;clear sky;293.924;1012.61
+703363;800;Laspi;clear sky;293.744;1011.55
+703363;800;Laspi;clear sky;293.73;1010.63
+703363;800;Laspi;clear sky;296.535;1010.43
+703363;800;Laspi;clear sky;298.767;1009.88
+703363;800;Laspi;clear sky;299.182;1009.54
+703363;800;Laspi;clear sky;298.433;1010.03
+703363;800;Laspi;clear sky;296.53;1010.26
+703363;800;Laspi;clear sky;294.956;1011.27
+703363;800;Laspi;clear sky;294.197;1011.49
+703363;800;Laspi;clear sky;293.961;1011.93
+703363;800;Laspi;clear sky;296.478;1012.72
+703363;800;Laspi;clear sky;297.541;1013.74
+703363;800;Laspi;clear sky;297.309;1014.16
+703363;800;Laspi;clear sky;296.229;1014.59
+703363;800;Laspi;clear sky;294.262;1016.12
+703363;800;Laspi;clear sky;293.747;1017.13
+703363;800;Laspi;clear sky;293.524;1017.71
+703363;800;Laspi;clear sky;292.831;1018.27
+703363;800;Laspi;clear sky;295.178;1018.98
+703363;800;Laspi;clear sky;296.828;1018.97
+703363;800;Laspi;clear sky;296.659;1018.13
+703363;800;Laspi;clear sky;295.663;1017.12
+703363;800;Laspi;clear sky;293.988;1016.94
+703363;800;Laspi;clear sky;293.475;1016.33
+703363;800;Laspi;clear sky;293.008;1015.66
+703363;800;Laspi;clear sky;292.686;1015.43
+703363;800;Laspi;clear sky;295.497;1016.19
+703363;800;Laspi;clear sky;297.021;1016.68
+703363;800;Laspi;clear sky;297.288;1016.34
+703363;800;Laspi;clear sky;296.84;1016.36
+703363;800;Laspi;clear sky;294.825;1017.42
+3632308;500;Merida;light rain;294.11;815.49
+3632308;800;Merida;clear sky;290.04;817.23
+3632308;500;Merida;light rain;286.92;818.25
+3632308;500;Merida;light rain;286.93;817.17
+3632308;500;Merida;light rain;286.198;816.94
+3632308;500;Merida;light rain;287.649;818.17
+3632308;801;Merida;few clouds;295.363;818.37
+3632308;501;Merida;moderate rain;293.43;816.46
+3632308;500;Merida;light rain;293.874;815.55
+3632308;500;Merida;light rain;290.394;816.6
+3632308;501;Merida;moderate rain;286.88;818.28
+3632308;800;Merida;clear sky;284.885;817.51
+3632308;801;Merida;few clouds;284.567;817.2
+3632308;500;Merida;light rain;288.082;818.15
+3632308;800;Merida;clear sky;295.583;818.16
+3632308;500;Merida;light rain;294.33;816.13
+3632308;500;Merida;light rain;294.156;815.35
+3632308;500;Merida;light rain;289.297;816.62
+3632308;500;Merida;light rain;288.511;817.87
+3632308;800;Merida;clear sky;286.628;816.96
+3632308;800;Merida;clear sky;285.491;816.84
+3632308;500;Merida;light rain;287.909;818.32
+3632308;802;Merida;scattered clouds;294.929;818.91
+3632308;500;Merida;light rain;295.212;817.03
+3632308;500;Merida;light rain;294.897;815.53
+3632308;500;Merida;light rain;291.674;817.0
+3632308;500;Merida;light rain;288.081;818.21
+3632308;500;Merida;light rain;286.628;817.47
+3632308;500;Merida;light rain;286.228;816.73
+3632308;801;Merida;few clouds;288.709;817.83
+3632308;800;Merida;clear sky;296.913;818.2
+3632308;500;Merida;light rain;294.288;817.12
+3632308;802;Merida;scattered clouds;294.375;815.95
+3632308;801;Merida;few clouds;290.108;817.07
+3632308;800;Merida;clear sky;287.486;818.54
+3632308;500;Merida;light rain;285.997;817.26
+3632308;800;Merida;clear sky;284.521;816.79
+3632308;800;Merida;clear sky;287.788;817.9
+3632308;801;Merida;few clouds;296.64;817.93
+3632308;500;Merida;light rain;295.125;815.91
+473537;800;Vinogradovo;clear sky;284.36;1011.41
+473537;802;Vinogradovo;scattered clouds;285.01;1011.78
+473537;803;Vinogradovo;broken clouds;286.61;1011.49
+473537;801;Vinogradovo;few clouds;291.176;1011.31
+473537;800;Vinogradovo;clear sky;294.798;1010.76
+473537;801;Vinogradovo;few clouds;295.149;1010.04
+473537;803;Vinogradovo;broken clouds;293.463;1009.19
+473537;801;Vinogradovo;few clouds;291.23;1009.14
+473537;802;Vinogradovo;scattered clouds;290.124;1008.96
+473537;801;Vinogradovo;few clouds;288.844;1009.04
+473537;801;Vinogradovo;few clouds;287.78;1008.77
+473537;801;Vinogradovo;few clouds;291.685;1008.49
+473537;800;Vinogradovo;clear sky;295.917;1007.93
+473537;800;Vinogradovo;clear sky;297.832;1007.27
+473537;800;Vinogradovo;clear sky;296.183;1006.38
+473537;800;Vinogradovo;clear sky;292.28;1006.13
+473537;800;Vinogradovo;clear sky;290.156;1004.87
+473537;802;Vinogradovo;scattered clouds;288.947;1003.46
+473537;801;Vinogradovo;few clouds;288.261;1002.04
+473537;803;Vinogradovo;broken clouds;293.128;1000.72
+473537;801;Vinogradovo;few clouds;296.591;999.8
+473537;800;Vinogradovo;clear sky;296.609;998.6
+473537;800;Vinogradovo;clear sky;295.779;997.65
+473537;500;Vinogradovo;light rain;292.312;998.77
+473537;500;Vinogradovo;light rain;290.347;999.94
+473537;800;Vinogradovo;clear sky;287.924;1001.25
+473537;800;Vinogradovo;clear sky;285.481;1002.14
+473537;800;Vinogradovo;clear sky;289.128;1002.28
+473537;800;Vinogradovo;clear sky;292.078;1001.63
+473537;801;Vinogradovo;few clouds;293.459;1001.03
+473537;803;Vinogradovo;broken clouds;292.813;1000.26
+473537;804;Vinogradovo;overcast clouds;292.138;1000.89
+473537;801;Vinogradovo;few clouds;291.475;1001.09
+473537;800;Vinogradovo;clear sky;290.508;1001.64
+473537;802;Vinogradovo;scattered clouds;289.536;1001.57
+473537;802;Vinogradovo;scattered clouds;291.847;1000.38
+473537;802;Vinogradovo;scattered clouds;294.771;998.53
+473537;500;Vinogradovo;light rain;293.888;996.88
+473537;500;Vinogradovo;light rain;287.69;1000.15
+473537;500;Vinogradovo;light rain;286.075;1002.92
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;284.9;920.71
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;284.28;920.67
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;284.94;921.52
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;304.026;922.63
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.148;922.4
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.299;921.68
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;302.913;921.81
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;292.08;922.97
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;288.724;922.95
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;287.844;922.79
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;287.58;923.41
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;305.335;924.51
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.667;924.28
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.332;923.45
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;302.883;923.45
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;292.73;924.18
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;289.306;924.13
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;287.797;923.78
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;288.411;924.38
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;303.078;925.01
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.091;923.84
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;308.809;922.32
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;301.679;921.94
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;292.512;922.41
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;288.797;922.04
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;287.474;921.73
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;288.081;921.97
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;303.128;922.28
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.428;921.22
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;309.759;919.97
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;301.963;919.77
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;292.438;920.8
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;289.425;920.92
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;287.707;921.07
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;288.236;921.49
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;303.397;922.24
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;308.971;921.52
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;308.788;920.77
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;301.14;920.87
+384848;800;Qarah Gawl al ‘Ulyā;clear sky;291.525;921.94
+569143;800;Cherkizovo;clear sky;285.74;1009.55
+569143;802;Cherkizovo;scattered clouds;285.78;1009.59
+569143;801;Cherkizovo;few clouds;286.62;1009.47
+569143;801;Cherkizovo;few clouds;290.276;1009.28
+569143;801;Cherkizovo;few clouds;293.798;1008.41
+569143;801;Cherkizovo;few clouds;294.049;1007.93
+569143;802;Cherkizovo;scattered clouds;293.013;1007.08
+569143;802;Cherkizovo;scattered clouds;292.03;1007.11
+569143;800;Cherkizovo;clear sky;291.024;1006.93
+569143;801;Cherkizovo;few clouds;290.094;1007.01
+569143;801;Cherkizovo;few clouds;289.13;1006.82
+569143;802;Cherkizovo;scattered clouds;291.685;1006.62
+569143;802;Cherkizovo;scattered clouds;294.117;1006.23
+569143;800;Cherkizovo;clear sky;296.782;1005.48
+569143;800;Cherkizovo;clear sky;295.533;1004.6
+569143;800;Cherkizovo;clear sky;292.88;1004.18
+569143;801;Cherkizovo;few clouds;291.456;1003.09
+569143;802;Cherkizovo;scattered clouds;290.097;1001.84
+569143;802;Cherkizovo;scattered clouds;289.211;1000.26
+569143;802;Cherkizovo;scattered clouds;292.478;998.94
+569143;803;Cherkizovo;broken clouds;295.741;998.01
+569143;801;Cherkizovo;few clouds;296.659;996.82
+569143;801;Cherkizovo;few clouds;294.929;996.11
+569143;500;Cherkizovo;light rain;290.762;997.8
+569143;500;Cherkizovo;light rain;288.297;998.89
+569143;801;Cherkizovo;few clouds;286.624;999.96
+569143;802;Cherkizovo;scattered clouds;285.631;1000.27
+569143;800;Cherkizovo;clear sky;287.978;1000.26
+569143;800;Cherkizovo;clear sky;290.978;999.04
+569143;804;Cherkizovo;overcast clouds;291.959;998.19
+569143;804;Cherkizovo;overcast clouds;291.613;997.67
+569143;804;Cherkizovo;overcast clouds;291.288;998.13
+569143;500;Cherkizovo;light rain;291.125;998.5
+569143;500;Cherkizovo;light rain;290.457;999.37
+569143;500;Cherkizovo;light rain;289.736;998.98
+569143;802;Cherkizovo;scattered clouds;290.447;997.86
+569143;500;Cherkizovo;light rain;292.521;996.09
+569143;500;Cherkizovo;light rain;288.988;995.5
+569143;500;Cherkizovo;light rain;286.19;997.88
+569143;500;Cherkizovo;light rain;285.575;1000.08
+713514;800;Alupka;clear sky;294.06;1007.28
+713514;800;Alupka;clear sky;293.84;1007.24
+713514;800;Alupka;clear sky;294.22;1007.2
+713514;800;Alupka;clear sky;296.08;1007.91
+713514;800;Alupka;clear sky;296.948;1008.33
+713514;800;Alupka;clear sky;297.099;1007.6
+713514;800;Alupka;clear sky;296.363;1006.84
+713514;800;Alupka;clear sky;293.93;1006.71
+713514;800;Alupka;clear sky;292.874;1006.04
+713514;800;Alupka;clear sky;292.594;1005.23
+713514;801;Alupka;few clouds;292.73;1004.55
+713514;500;Alupka;light rain;295.735;1004.6
+713514;800;Alupka;clear sky;297.717;1003.8
+713514;800;Alupka;clear sky;298.432;1003.05
+713514;800;Alupka;clear sky;297.683;1003.06
+713514;800;Alupka;clear sky;295.43;1003.21
+713514;800;Alupka;clear sky;294.556;1003.57
+713514;800;Alupka;clear sky;294.397;1003.63
+713514;800;Alupka;clear sky;294.311;1004.07
+713514;800;Alupka;clear sky;296.728;1004.78
+713514;800;Alupka;clear sky;298.141;1005.63
+713514;800;Alupka;clear sky;298.309;1005.9
+713514;800;Alupka;clear sky;297.279;1006.16
+713514;800;Alupka;clear sky;295.062;1007.61
+713514;800;Alupka;clear sky;293.597;1008.7
+713514;500;Alupka;light rain;292.724;1009.52
+713514;800;Alupka;clear sky;292.281;1010.24
+713514;800;Alupka;clear sky;294.828;1011.12
+713514;800;Alupka;clear sky;296.078;1011.28
+713514;800;Alupka;clear sky;296.009;1010.51
+713514;800;Alupka;clear sky;295.363;1009.42
+713514;800;Alupka;clear sky;293.688;1009.4
+713514;800;Alupka;clear sky;293.175;1008.71
+713514;800;Alupka;clear sky;292.957;1008.21
+713514;800;Alupka;clear sky;292.686;1007.98
+713514;800;Alupka;clear sky;295.247;1008.48
+713514;800;Alupka;clear sky;296.571;1008.9
+713514;800;Alupka;clear sky;297.338;1008.47
+713514;800;Alupka;clear sky;296.84;1008.74
+713514;800;Alupka;clear sky;294.925;1009.89
+2878044;800;Lichtenrade;clear sky;285.02;1010.44
+2878044;800;Lichtenrade;clear sky;283.65;1010.16
+2878044;800;Lichtenrade;clear sky;283.33;1008.66
+2878044;801;Lichtenrade;few clouds;285.03;1007.66
+2878044;804;Lichtenrade;overcast clouds;290.148;1006.71
+2878044;804;Lichtenrade;overcast clouds;291.649;1005.5
+2878044;802;Lichtenrade;scattered clouds;292.913;1004.65
+2878044;804;Lichtenrade;overcast clouds;291.53;1005.33
+2878044;800;Lichtenrade;clear sky;289.024;1006.77
+2878044;800;Lichtenrade;clear sky;287.244;1007.09
+2878044;800;Lichtenrade;clear sky;286.48;1007.47
+2878044;801;Lichtenrade;few clouds;286.885;1008.49
+2878044;802;Lichtenrade;scattered clouds;291.117;1009.88
+2878044;500;Lichtenrade;light rain;291.132;1010.27
+2878044;500;Lichtenrade;light rain;289.383;1011.73
+2878044;500;Lichtenrade;light rain;288.48;1013.1
+2878044;801;Lichtenrade;few clouds;286.956;1014.44
+2878044;800;Lichtenrade;clear sky;285.747;1014.49
+2878044;800;Lichtenrade;clear sky;284.611;1012.66
+2878044;500;Lichtenrade;light rain;285.978;1009.07
+2878044;500;Lichtenrade;light rain;288.741;1006.12
+2878044;500;Lichtenrade;light rain;291.459;1005.17
+2878044;500;Lichtenrade;light rain;290.879;1005.03
+2878044;500;Lichtenrade;light rain;288.762;1003.72
+2878044;500;Lichtenrade;light rain;288.547;1005.21
+2878044;500;Lichtenrade;light rain;287.324;1006.6
+2878044;804;Lichtenrade;overcast clouds;286.881;1006.19
+2878044;500;Lichtenrade;light rain;287.028;1006.5
+2878044;803;Lichtenrade;broken clouds;288.878;1006.98
+2878044;500;Lichtenrade;light rain;288.509;1006.79
+2878044;500;Lichtenrade;light rain;286.613;1007.47
+2878044;500;Lichtenrade;light rain;284.438;1011.26
+2878044;500;Lichtenrade;light rain;284.425;1013.17
+2878044;804;Lichtenrade;overcast clouds;284.758;1013.55
+2878044;500;Lichtenrade;light rain;284.686;1013.81
+2878044;500;Lichtenrade;light rain;285.647;1015.46
+2878044;500;Lichtenrade;light rain;287.521;1017.66
+2878044;500;Lichtenrade;light rain;289.038;1018.12
+2878044;500;Lichtenrade;light rain;289.49;1017.98
+2878044;802;Lichtenrade;scattered clouds;287.725;1018.56
+464176;800;Zavety Il’icha;clear sky;285.88;1009.55
+464176;802;Zavety Il’icha;scattered clouds;285.87;1009.59
+464176;801;Zavety Il’icha;few clouds;286.66;1009.47
+464176;801;Zavety Il’icha;few clouds;290.276;1009.28
+464176;801;Zavety Il’icha;few clouds;293.798;1008.41
+464176;801;Zavety Il’icha;few clouds;294.049;1007.93
+464176;802;Zavety Il’icha;scattered clouds;293.013;1007.08
+464176;802;Zavety Il’icha;scattered clouds;292.03;1007.11
+464176;800;Zavety Il’icha;clear sky;291.024;1006.93
+464176;801;Zavety Il’icha;few clouds;290.094;1007.01
+464176;801;Zavety Il’icha;few clouds;289.13;1006.82
+464176;802;Zavety Il’icha;scattered clouds;291.685;1006.62
+464176;802;Zavety Il’icha;scattered clouds;294.117;1006.23
+464176;800;Zavety Il’icha;clear sky;296.782;1005.48
+464176;800;Zavety Il’icha;clear sky;295.533;1004.6
+464176;800;Zavety Il’icha;clear sky;292.88;1004.18
+464176;801;Zavety Il’icha;few clouds;291.456;1003.09
+464176;802;Zavety Il’icha;scattered clouds;290.097;1001.84
+464176;802;Zavety Il’icha;scattered clouds;289.211;1000.26
+464176;802;Zavety Il’icha;scattered clouds;292.478;998.94
+464176;803;Zavety Il’icha;broken clouds;295.741;998.01
+464176;801;Zavety Il’icha;few clouds;296.659;996.82
+464176;801;Zavety Il’icha;few clouds;294.929;996.11
+464176;500;Zavety Il’icha;light rain;290.762;997.8
+464176;500;Zavety Il’icha;light rain;288.297;998.89
+464176;801;Zavety Il’icha;few clouds;286.624;999.96
+464176;802;Zavety Il’icha;scattered clouds;285.631;1000.27
+464176;800;Zavety Il’icha;clear sky;287.978;1000.26
+464176;800;Zavety Il’icha;clear sky;290.978;999.04
+464176;804;Zavety Il’icha;overcast clouds;291.959;998.19
+464176;804;Zavety Il’icha;overcast clouds;291.613;997.67
+464176;804;Zavety Il’icha;overcast clouds;291.288;998.13
+464176;500;Zavety Il’icha;light rain;291.125;998.5
+464176;500;Zavety Il’icha;light rain;290.457;999.37
+464176;500;Zavety Il’icha;light rain;289.736;998.98
+464176;802;Zavety Il’icha;scattered clouds;290.447;997.86
+464176;500;Zavety Il’icha;light rain;292.521;996.09
+464176;500;Zavety Il’icha;light rain;288.988;995.5
+464176;500;Zavety Il’icha;light rain;286.19;997.88
+464176;500;Zavety Il’icha;light rain;285.575;1000.08
+295582;800;‘Azriqam;clear sky;293.17;1005.49
+295582;800;‘Azriqam;clear sky;291.81;1004.89
+295582;800;‘Azriqam;clear sky;290.83;1005.41
+295582;800;‘Azriqam;clear sky;299.126;1006.28
+295582;800;‘Azriqam;clear sky;304.398;1006.06
+295582;800;‘Azriqam;clear sky;305.399;1005.01
+295582;800;‘Azriqam;clear sky;302.863;1004.57
+295582;800;‘Azriqam;clear sky;297.08;1005.41
+295582;800;‘Azriqam;clear sky;293.474;1005.55
+295582;800;‘Azriqam;clear sky;291.294;1005.23
+295582;800;‘Azriqam;clear sky;289.93;1005.85
+295582;800;‘Azriqam;clear sky;299.035;1007.27
+295582;800;‘Azriqam;clear sky;304.967;1007.36
+295582;800;‘Azriqam;clear sky;306.532;1006.54
+295582;800;‘Azriqam;clear sky;302.583;1006.78
+295582;800;‘Azriqam;clear sky;295.03;1007.75
+295582;800;‘Azriqam;clear sky;291.906;1008.03
+295582;800;‘Azriqam;clear sky;290.347;1007.68
+295582;801;‘Azriqam;few clouds;289.511;1008.12
+295582;500;‘Azriqam;light rain;297.178;1008.99
+295582;800;‘Azriqam;clear sky;304.741;1008.47
+295582;802;‘Azriqam;scattered clouds;305.259;1007.44
+295582;801;‘Azriqam;few clouds;301.629;1007.3
+295582;801;‘Azriqam;few clouds;295.512;1007.61
+295582;800;‘Azriqam;clear sky;293.097;1006.99
+295582;500;‘Azriqam;light rain;293.474;1006.2
+295582;500;‘Azriqam;light rain;295.581;1005.95
+295582;500;‘Azriqam;light rain;297.628;1006.58
+295582;500;‘Azriqam;light rain;301.978;1006.49
+295582;800;‘Azriqam;clear sky;303.709;1004.76
+295582;800;‘Azriqam;clear sky;301.313;1004.23
+295582;800;‘Azriqam;clear sky;296.488;1004.78
+295582;800;‘Azriqam;clear sky;293.575;1004.66
+295582;804;‘Azriqam;overcast clouds;292.408;1004.4
+295582;500;‘Azriqam;light rain;295.586;1004.81
+295582;500;‘Azriqam;light rain;298.097;1005.81
+295582;800;‘Azriqam;clear sky;302.521;1005.5
+295582;800;‘Azriqam;clear sky;303.638;1004.18
+295582;800;‘Azriqam;clear sky;300.89;1004.2
+295582;800;‘Azriqam;clear sky;295.725;1005.43
+1271231;802;Ghūra;scattered clouds;298.61;980.77
+1271231;802;Ghūra;scattered clouds;298.54;981.22
+1271231;802;Ghūra;scattered clouds;303.37;982.55
+1271231;802;Ghūra;scattered clouds;307.83;982.21
+1271231;501;Ghūra;moderate rain;300.698;980.6
+1271231;501;Ghūra;moderate rain;299.499;980.69
+1271231;500;Ghūra;light rain;298.963;983.17
+1271231;802;Ghūra;scattered clouds;298.03;983.04
+1271231;501;Ghūra;moderate rain;296.274;982.78
+1271231;501;Ghūra;moderate rain;295.694;983.02
+1271231;801;Ghūra;few clouds;298.98;983.88
+1271231;802;Ghūra;scattered clouds;303.485;984.09
+1271231;802;Ghūra;scattered clouds;304.917;981.91
+1271231;801;Ghūra;few clouds;304.082;980.76
+1271231;802;Ghūra;scattered clouds;300.383;983.36
+1271231;801;Ghūra;few clouds;298.68;984.08
+1271231;801;Ghūra;few clouds;298.056;983.15
+1271231;801;Ghūra;few clouds;297.797;983.2
+1271231;801;Ghūra;few clouds;302.411;984.29
+1271231;800;Ghūra;clear sky;306.378;983.78
+1271231;802;Ghūra;scattered clouds;306.941;980.91
+1271231;500;Ghūra;light rain;303.709;980.44
+1271231;801;Ghūra;few clouds;299.129;982.33
+1271231;800;Ghūra;clear sky;298.112;983.05
+1271231;802;Ghūra;scattered clouds;297.847;982.03
+1271231;804;Ghūra;overcast clouds;298.224;982.12
+1271231;803;Ghūra;broken clouds;301.031;983.17
+1271231;801;Ghūra;few clouds;305.978;982.67
+1271231;802;Ghūra;scattered clouds;307.628;979.9
+1271231;501;Ghūra;moderate rain;300.459;979.71
+1271231;500;Ghūra;light rain;297.913;982.35
+1271231;802;Ghūra;scattered clouds;297.388;982.0
+1271231;802;Ghūra;scattered clouds;296.925;981.15
+1271231;802;Ghūra;scattered clouds;296.807;980.81
+1271231;800;Ghūra;clear sky;300.486;981.87
+1271231;800;Ghūra;clear sky;305.147;981.73
+1271231;800;Ghūra;clear sky;307.971;978.75
+1271231;801;Ghūra;few clouds;306.888;977.99
+1271231;500;Ghūra;light rain;302.34;979.8
+1271231;501;Ghūra;moderate rain;296.875;980.38
+690856;800;Tyuzler;clear sky;294.06;1007.28
+690856;800;Tyuzler;clear sky;293.84;1007.24
+690856;800;Tyuzler;clear sky;294.22;1007.2
+690856;800;Tyuzler;clear sky;296.08;1007.91
+690856;800;Tyuzler;clear sky;296.948;1008.33
+690856;800;Tyuzler;clear sky;297.099;1007.6
+690856;800;Tyuzler;clear sky;296.363;1006.84
+690856;800;Tyuzler;clear sky;293.93;1006.71
+690856;800;Tyuzler;clear sky;292.874;1006.04
+690856;800;Tyuzler;clear sky;292.594;1005.23
+690856;801;Tyuzler;few clouds;292.73;1004.55
+690856;500;Tyuzler;light rain;295.735;1004.6
+690856;800;Tyuzler;clear sky;297.717;1003.8
+690856;800;Tyuzler;clear sky;298.432;1003.05
+690856;800;Tyuzler;clear sky;297.683;1003.06
+690856;800;Tyuzler;clear sky;295.43;1003.21
+690856;800;Tyuzler;clear sky;294.556;1003.57
+690856;800;Tyuzler;clear sky;294.397;1003.63
+690856;800;Tyuzler;clear sky;294.311;1004.07
+690856;800;Tyuzler;clear sky;296.728;1004.78
+690856;800;Tyuzler;clear sky;298.141;1005.63
+690856;800;Tyuzler;clear sky;298.309;1005.9
+690856;800;Tyuzler;clear sky;297.279;1006.16
+690856;800;Tyuzler;clear sky;295.062;1007.61
+690856;800;Tyuzler;clear sky;293.597;1008.7
+690856;500;Tyuzler;light rain;292.724;1009.52
+690856;800;Tyuzler;clear sky;292.281;1010.24
+690856;800;Tyuzler;clear sky;294.828;1011.12
+690856;800;Tyuzler;clear sky;296.078;1011.28
+690856;800;Tyuzler;clear sky;296.009;1010.51
+690856;800;Tyuzler;clear sky;295.363;1009.42
+690856;800;Tyuzler;clear sky;293.688;1009.4
+690856;800;Tyuzler;clear sky;293.175;1008.71
+690856;800;Tyuzler;clear sky;292.957;1008.21
+690856;800;Tyuzler;clear sky;292.686;1007.98
+690856;800;Tyuzler;clear sky;295.247;1008.48
+690856;800;Tyuzler;clear sky;296.571;1008.9
+690856;800;Tyuzler;clear sky;297.338;1008.47
+690856;800;Tyuzler;clear sky;296.84;1008.74
+690856;800;Tyuzler;clear sky;294.925;1009.89
+464737;800;Zaponor’ye;clear sky;284.01;1013.36
+464737;800;Zaponor’ye;clear sky;284.02;1013.56
+464737;802;Zaponor’ye;scattered clouds;285.51;1013.28
+464737;803;Zaponor’ye;broken clouds;290.276;1013.26
+464737;801;Zaponor’ye;few clouds;293.848;1012.46
+464737;801;Zaponor’ye;few clouds;295.549;1011.58
+464737;803;Zaponor’ye;broken clouds;293.713;1010.73
+464737;802;Zaponor’ye;scattered clouds;291.88;1010.68
+464737;802;Zaponor’ye;scattered clouds;291.074;1010.5
+464737;801;Zaponor’ye;few clouds;289.594;1010.5
+464737;801;Zaponor’ye;few clouds;288.48;1010.55
+464737;801;Zaponor’ye;few clouds;292.435;1010.43
+464737;800;Zaponor’ye;clear sky;295.917;1009.88
+464737;800;Zaponor’ye;clear sky;298.082;1009.13
+464737;800;Zaponor’ye;clear sky;296.383;1008.57
+464737;800;Zaponor’ye;clear sky;292.48;1008.24
+464737;800;Zaponor’ye;clear sky;290.556;1007.22
+464737;801;Zaponor’ye;few clouds;288.747;1005.98
+464737;802;Zaponor’ye;scattered clouds;288.161;1004.39
+464737;801;Zaponor’ye;few clouds;293.078;1003.15
+464737;801;Zaponor’ye;few clouds;296.641;1001.98
+464737;802;Zaponor’ye;scattered clouds;297.859;1000.63
+464737;800;Zaponor’ye;clear sky;295.879;999.52
+464737;804;Zaponor’ye;overcast clouds;293.262;999.66
+464737;500;Zaponor’ye;light rain;290.347;1001.08
+464737;802;Zaponor’ye;scattered clouds;288.174;1002.55
+464737;803;Zaponor’ye;broken clouds;286.381;1003.43
+464737;500;Zaponor’ye;light rain;288.328;1003.58
+464737;800;Zaponor’ye;clear sky;291.928;1002.76
+464737;801;Zaponor’ye;few clouds;293.309;1002.17
+464737;803;Zaponor’ye;broken clouds;292.963;1001.31
+464737;804;Zaponor’ye;overcast clouds;292.588;1001.86
+464737;804;Zaponor’ye;overcast clouds;292.075;1001.98
+464737;803;Zaponor’ye;broken clouds;291.408;1002.78
+464737;500;Zaponor’ye;light rain;290.386;1003.03
+464737;800;Zaponor’ye;clear sky;292.097;1002.0
+464737;803;Zaponor’ye;broken clouds;294.021;999.9
+464737;500;Zaponor’ye;light rain;295.138;997.37
+464737;501;Zaponor’ye;moderate rain;287.39;1000.55
+464737;500;Zaponor’ye;light rain;285.575;1003.24
+707716;800;Il’ichëvka;clear sky;294.06;1007.28
+707716;800;Il’ichëvka;clear sky;293.84;1007.24
+707716;800;Il’ichëvka;clear sky;294.22;1007.2
+707716;800;Il’ichëvka;clear sky;296.08;1007.91
+707716;800;Il’ichëvka;clear sky;296.948;1008.33
+707716;800;Il’ichëvka;clear sky;297.099;1007.6
+707716;800;Il’ichëvka;clear sky;296.363;1006.84
+707716;800;Il’ichëvka;clear sky;293.93;1006.71
+707716;800;Il’ichëvka;clear sky;292.874;1006.04
+707716;800;Il’ichëvka;clear sky;292.594;1005.23
+707716;801;Il’ichëvka;few clouds;292.73;1004.55
+707716;500;Il’ichëvka;light rain;295.735;1004.6
+707716;800;Il’ichëvka;clear sky;297.717;1003.8
+707716;800;Il’ichëvka;clear sky;298.432;1003.05
+707716;800;Il’ichëvka;clear sky;297.683;1003.06
+707716;800;Il’ichëvka;clear sky;295.43;1003.21
+707716;800;Il’ichëvka;clear sky;294.556;1003.57
+707716;800;Il’ichëvka;clear sky;294.397;1003.63
+707716;800;Il’ichëvka;clear sky;294.311;1004.07
+707716;800;Il’ichëvka;clear sky;296.728;1004.78
+707716;800;Il’ichëvka;clear sky;298.141;1005.63
+707716;800;Il’ichëvka;clear sky;298.309;1005.9
+707716;800;Il’ichëvka;clear sky;297.279;1006.16
+707716;800;Il’ichëvka;clear sky;295.062;1007.61
+707716;800;Il’ichëvka;clear sky;293.597;1008.7
+707716;500;Il’ichëvka;light rain;292.724;1009.52
+707716;800;Il’ichëvka;clear sky;292.281;1010.24
+707716;800;Il’ichëvka;clear sky;294.828;1011.12
+707716;800;Il’ichëvka;clear sky;296.078;1011.28
+707716;800;Il’ichëvka;clear sky;296.009;1010.51
+707716;800;Il’ichëvka;clear sky;295.363;1009.42
+707716;800;Il’ichëvka;clear sky;293.688;1009.4
+707716;800;Il’ichëvka;clear sky;293.175;1008.71
+707716;800;Il’ichëvka;clear sky;292.957;1008.21
+707716;800;Il’ichëvka;clear sky;292.686;1007.98
+707716;800;Il’ichëvka;clear sky;295.247;1008.48
+707716;800;Il’ichëvka;clear sky;296.571;1008.9
+707716;800;Il’ichëvka;clear sky;297.338;1008.47
+707716;800;Il’ichëvka;clear sky;296.84;1008.74
+707716;800;Il’ichëvka;clear sky;294.925;1009.89
+697959;800;Partyzans’ke;clear sky;287.01;992.93
+697959;800;Partyzans’ke;clear sky;285.59;993.05
+697959;800;Partyzans’ke;clear sky;284.52;993.01
+697959;800;Partyzans’ke;clear sky;294.03;993.56
+697959;800;Partyzans’ke;clear sky;299.448;993.49
+697959;800;Partyzans’ke;clear sky;300.549;992.85
+697959;800;Partyzans’ke;clear sky;298.313;992.17
+697959;800;Partyzans’ke;clear sky;290.53;991.87
+697959;800;Partyzans’ke;clear sky;287.624;990.96
+697959;800;Partyzans’ke;clear sky;284.744;990.15
+697959;500;Partyzans’ke;light rain;285.08;989.4
+697959;500;Partyzans’ke;light rain;294.135;989.11
+697959;800;Partyzans’ke;clear sky;301.267;988.48
+697959;800;Partyzans’ke;clear sky;301.782;987.65
+697959;800;Partyzans’ke;clear sky;298.883;988.38
+697959;800;Partyzans’ke;clear sky;292.38;988.38
+697959;800;Partyzans’ke;clear sky;289.456;988.9
+697959;800;Partyzans’ke;clear sky;288.497;989.12
+697959;800;Partyzans’ke;clear sky;289.161;989.64
+697959;800;Partyzans’ke;clear sky;296.778;990.19
+697959;800;Partyzans’ke;clear sky;299.991;990.96
+697959;800;Partyzans’ke;clear sky;298.859;991.39
+697959;800;Partyzans’ke;clear sky;296.429;991.98
+697959;800;Partyzans’ke;clear sky;291.812;993.42
+697959;500;Partyzans’ke;light rain;290.897;994.75
+697959;800;Partyzans’ke;clear sky;288.374;995.58
+697959;800;Partyzans’ke;clear sky;285.581;996.3
+697959;800;Partyzans’ke;clear sky;292.578;996.93
+697959;800;Partyzans’ke;clear sky;295.928;996.85
+697959;800;Partyzans’ke;clear sky;297.159;995.84
+697959;800;Partyzans’ke;clear sky;295.313;994.83
+697959;800;Partyzans’ke;clear sky;288.188;994.81
+697959;800;Partyzans’ke;clear sky;285.375;994.45
+697959;800;Partyzans’ke;clear sky;283.758;993.78
+697959;800;Partyzans’ke;clear sky;282.536;993.71
+697959;800;Partyzans’ke;clear sky;292.697;994.14
+697959;800;Partyzans’ke;clear sky;297.871;994.63
+697959;800;Partyzans’ke;clear sky;298.588;994.29
+697959;800;Partyzans’ke;clear sky;296.19;994.56
+697959;800;Partyzans’ke;clear sky;288.575;995.54
+803611;800;Yurevichi;clear sky;282.61;871.75
+803611;800;Yurevichi;clear sky;280.87;871.79
+803611;800;Yurevichi;clear sky;282.01;872.07
+803611;800;Yurevichi;clear sky;291.526;872.54
+803611;800;Yurevichi;clear sky;295.348;872.55
+803611;500;Yurevichi;light rain;295.649;872.4
+803611;800;Yurevichi;clear sky;292.713;872.2
+803611;800;Yurevichi;clear sky;286.43;872.55
+803611;800;Yurevichi;clear sky;285.474;872.21
+803611;800;Yurevichi;clear sky;282.244;872.05
+803611;800;Yurevichi;clear sky;282.83;871.94
+803611;800;Yurevichi;clear sky;291.735;872.23
+803611;800;Yurevichi;clear sky;295.817;872.07
+803611;800;Yurevichi;clear sky;296.682;871.73
+803611;800;Yurevichi;clear sky;293.283;871.5
+803611;800;Yurevichi;clear sky;286.38;871.49
+803611;800;Yurevichi;clear sky;283.356;871.44
+803611;800;Yurevichi;clear sky;282.047;871.34
+803611;800;Yurevichi;clear sky;281.361;871.29
+803611;800;Yurevichi;clear sky;292.728;871.68
+803611;800;Yurevichi;clear sky;298.041;871.64
+803611;800;Yurevichi;clear sky;298.359;871.5
+803611;800;Yurevichi;clear sky;294.229;871.6
+803611;800;Yurevichi;clear sky;286.012;871.99
+803611;800;Yurevichi;clear sky;282.547;872.11
+803611;800;Yurevichi;clear sky;280.724;872.2
+803611;800;Yurevichi;clear sky;279.831;872.6
+803611;800;Yurevichi;clear sky;290.978;873.07
+803611;800;Yurevichi;clear sky;295.278;872.99
+803611;800;Yurevichi;clear sky;295.959;872.47
+803611;800;Yurevichi;clear sky;293.313;871.86
+803611;800;Yurevichi;clear sky;287.038;872.16
+803611;800;Yurevichi;clear sky;285.475;871.56
+803611;800;Yurevichi;clear sky;285.207;871.05
+803611;800;Yurevichi;clear sky;284.086;870.98
+803611;800;Yurevichi;clear sky;292.497;871.33
+803611;800;Yurevichi;clear sky;297.171;871.26
+803611;800;Yurevichi;clear sky;297.538;871.0
+803611;800;Yurevichi;clear sky;294.29;871.18
+803611;800;Yurevichi;clear sky;287.625;872.17
+614371;800;Gumist’a;clear sky;286.71;929.87
+614371;800;Gumist’a;clear sky;287.34;929.91
+614371;800;Gumist’a;clear sky;288.27;930.35
+614371;800;Gumist’a;clear sky;294.38;930.49
+614371;800;Gumist’a;clear sky;297.448;930.27
+614371;800;Gumist’a;clear sky;297.649;930.11
+614371;800;Gumist’a;clear sky;295.063;929.91
+614371;800;Gumist’a;clear sky;290.88;930.19
+614371;800;Gumist’a;clear sky;289.474;930.09
+614371;800;Gumist’a;clear sky;288.644;929.84
+614371;800;Gumist’a;clear sky;289.33;929.82
+614371;800;Gumist’a;clear sky;295.185;930.26
+614371;800;Gumist’a;clear sky;298.467;929.71
+614371;800;Gumist’a;clear sky;299.082;928.96
+614371;800;Gumist’a;clear sky;296.033;928.64
+614371;800;Gumist’a;clear sky;290.23;928.88
+614371;800;Gumist’a;clear sky;287.606;928.84
+614371;800;Gumist’a;clear sky;287.397;928.64
+614371;800;Gumist’a;clear sky;289.011;928.44
+614371;800;Gumist’a;clear sky;296.128;928.9
+614371;800;Gumist’a;clear sky;300.241;928.87
+614371;800;Gumist’a;clear sky;299.859;929.05
+614371;800;Gumist’a;clear sky;296.379;929.24
+614371;800;Gumist’a;clear sky;290.362;930.03
+614371;800;Gumist’a;clear sky;287.647;930.15
+614371;800;Gumist’a;clear sky;286.474;930.49
+614371;800;Gumist’a;clear sky;285.831;931.21
+614371;800;Gumist’a;clear sky;293.578;932.01
+614371;800;Gumist’a;clear sky;296.228;931.59
+614371;800;Gumist’a;clear sky;296.709;930.35
+614371;801;Gumist’a;few clouds;294.313;929.66
+614371;500;Gumist’a;light rain;290.538;929.96
+614371;500;Gumist’a;light rain;289.175;929.27
+614371;801;Gumist’a;few clouds;288.158;929.01
+614371;500;Gumist’a;light rain;287.086;928.86
+614371;800;Gumist’a;clear sky;294.447;929.21
+614371;800;Gumist’a;clear sky;297.521;928.73
+614371;800;Gumist’a;clear sky;298.688;928.31
+614371;800;Gumist’a;clear sky;295.59;928.49
+614371;801;Gumist’a;few clouds;290.275;929.72
+874560;800;Ptitsefabrika;clear sky;292.83;992.52
+874560;800;Ptitsefabrika;clear sky;293.9;992.65
+874560;800;Ptitsefabrika;clear sky;294.7;992.93
+874560;800;Ptitsefabrika;clear sky;297.576;992.99
+874560;800;Ptitsefabrika;clear sky;299.348;992.84
+874560;800;Ptitsefabrika;clear sky;299.149;992.61
+874560;800;Ptitsefabrika;clear sky;298.413;992.01
+874560;800;Ptitsefabrika;clear sky;297.28;992.12
+874560;800;Ptitsefabrika;clear sky;297.424;991.85
+874560;800;Ptitsefabrika;clear sky;297.544;991.69
+874560;800;Ptitsefabrika;clear sky;297.33;991.67
+874560;800;Ptitsefabrika;clear sky;299.335;992.03
+874560;800;Ptitsefabrika;clear sky;300.567;991.64
+874560;800;Ptitsefabrika;clear sky;300.332;990.81
+874560;800;Ptitsefabrika;clear sky;299.833;990.17
+874560;800;Ptitsefabrika;clear sky;298.03;990.16
+874560;800;Ptitsefabrika;clear sky;297.456;990.12
+874560;800;Ptitsefabrika;clear sky;297.147;989.93
+874560;800;Ptitsefabrika;clear sky;297.111;989.88
+874560;800;Ptitsefabrika;clear sky;300.028;990.43
+874560;800;Ptitsefabrika;clear sky;301.341;990.56
+874560;800;Ptitsefabrika;clear sky;300.609;990.82
+874560;800;Ptitsefabrika;clear sky;299.629;990.68
+874560;800;Ptitsefabrika;clear sky;297.212;991.72
+874560;800;Ptitsefabrika;clear sky;295.347;992.32
+874560;801;Ptitsefabrika;few clouds;294.324;992.9
+874560;800;Ptitsefabrika;clear sky;294.231;993.79
+874560;801;Ptitsefabrika;few clouds;296.728;994.42
+874560;800;Ptitsefabrika;clear sky;297.828;994.33
+874560;800;Ptitsefabrika;clear sky;297.809;993.17
+874560;800;Ptitsefabrika;clear sky;296.513;992.32
+874560;500;Ptitsefabrika;light rain;295.138;992.62
+874560;500;Ptitsefabrika;light rain;294.525;992.01
+874560;801;Ptitsefabrika;few clouds;294.158;991.75
+874560;500;Ptitsefabrika;light rain;293.986;991.52
+874560;800;Ptitsefabrika;clear sky;295.897;991.87
+874560;800;Ptitsefabrika;clear sky;296.971;991.55
+874560;800;Ptitsefabrika;clear sky;298.338;990.64
+874560;800;Ptitsefabrika;clear sky;297.99;990.5
+874560;801;Ptitsefabrika;few clouds;295.775;991.89
+874652;800;Orekhovo;clear sky;292.83;992.52
+874652;800;Orekhovo;clear sky;293.9;992.65
+874652;800;Orekhovo;clear sky;294.7;992.93
+874652;800;Orekhovo;clear sky;297.576;992.99
+874652;800;Orekhovo;clear sky;299.348;992.84
+874652;800;Orekhovo;clear sky;299.149;992.61
+874652;800;Orekhovo;clear sky;298.413;992.01
+874652;800;Orekhovo;clear sky;297.28;992.12
+874652;800;Orekhovo;clear sky;297.424;991.85
+874652;800;Orekhovo;clear sky;297.544;991.69
+874652;800;Orekhovo;clear sky;297.33;991.67
+874652;800;Orekhovo;clear sky;299.335;992.03
+874652;800;Orekhovo;clear sky;300.567;991.64
+874652;800;Orekhovo;clear sky;300.332;990.81
+874652;800;Orekhovo;clear sky;299.833;990.17
+874652;800;Orekhovo;clear sky;298.03;990.16
+874652;800;Orekhovo;clear sky;297.456;990.12
+874652;800;Orekhovo;clear sky;297.147;989.93
+874652;800;Orekhovo;clear sky;297.111;989.88
+874652;800;Orekhovo;clear sky;300.028;990.43
+874652;800;Orekhovo;clear sky;301.341;990.56
+874652;800;Orekhovo;clear sky;300.609;990.82
+874652;800;Orekhovo;clear sky;299.629;990.68
+874652;800;Orekhovo;clear sky;297.212;991.72
+874652;800;Orekhovo;clear sky;295.347;992.32
+874652;801;Orekhovo;few clouds;294.324;992.9
+874652;800;Orekhovo;clear sky;294.231;993.79
+874652;801;Orekhovo;few clouds;296.728;994.42
+874652;800;Orekhovo;clear sky;297.828;994.33
+874652;800;Orekhovo;clear sky;297.809;993.17
+874652;800;Orekhovo;clear sky;296.513;992.32
+874652;500;Orekhovo;light rain;295.138;992.62
+874652;500;Orekhovo;light rain;294.525;992.01
+874652;801;Orekhovo;few clouds;294.158;991.75
+874652;500;Orekhovo;light rain;293.986;991.52
+874652;800;Orekhovo;clear sky;295.897;991.87
+874652;800;Orekhovo;clear sky;296.971;991.55
+874652;800;Orekhovo;clear sky;298.338;990.64
+874652;800;Orekhovo;clear sky;297.99;990.5
+874652;801;Orekhovo;few clouds;295.775;991.89
+2347078;501;Birim;moderate rain;294.36;968.45
+2347078;803;Birim;broken clouds;294.99;968.17
+2347078;800;Birim;clear sky;293.72;967.32
+2347078;801;Birim;few clouds;294.43;968.51
+2347078;801;Birim;few clouds;301.198;969.34
+2347078;803;Birim;broken clouds;304.899;967.48
+2347078;500;Birim;light rain;306.013;965.66
+2347078;500;Birim;light rain;300.68;966.82
+2347078;800;Birim;clear sky;297.074;968.18
+2347078;800;Birim;clear sky;296.094;967.62
+2347078;801;Birim;few clouds;295.08;967.19
+2347078;804;Birim;overcast clouds;295.285;968.12
+2347078;800;Birim;clear sky;302.367;969.43
+2347078;800;Birim;clear sky;306.332;967.71
+2347078;500;Birim;light rain;307.083;965.77
+2347078;500;Birim;light rain;302.38;967.22
+2347078;803;Birim;broken clouds;298.456;969.28
+2347078;802;Birim;scattered clouds;297.597;968.28
+2347078;800;Birim;clear sky;295.861;968.32
+2347078;801;Birim;few clouds;296.228;969.43
+2347078;803;Birim;broken clouds;301.941;970.86
+2347078;800;Birim;clear sky;305.909;969.58
+2347078;501;Birim;moderate rain;297.029;968.79
+2347078;501;Birim;moderate rain;295.112;970.8
+2347078;804;Birim;overcast clouds;294.597;971.89
+2347078;804;Birim;overcast clouds;294.974;970.45
+2347078;803;Birim;broken clouds;294.581;969.95
+2347078;804;Birim;overcast clouds;295.078;970.51
+2347078;803;Birim;broken clouds;298.678;971.56
+2347078;500;Birim;light rain;301.809;969.74
+2347078;500;Birim;light rain;303.313;967.27
+2347078;500;Birim;light rain;300.738;968.3
+2347078;801;Birim;few clouds;298.525;970.45
+2347078;800;Birim;clear sky;296.108;969.46
+2347078;800;Birim;clear sky;294.686;968.74
+2347078;500;Birim;light rain;294.647;969.82
+2347078;800;Birim;clear sky;300.521;970.64
+2347078;800;Birim;clear sky;305.288;968.11
+2347078;500;Birim;light rain;305.79;965.94
+2347078;501;Birim;moderate rain;298.925;967.58
+2051302;501;Priiskovyy;moderate rain;293.56;1023.49
+2051302;501;Priiskovyy;moderate rain;293.14;1023.05
+2051302;500;Priiskovyy;light rain;294.32;1022.93
+2051302;501;Priiskovyy;moderate rain;292.13;1021.69
+2051302;500;Priiskovyy;light rain;293.398;1020.89
+2051302;500;Priiskovyy;light rain;293.549;1020.66
+2051302;500;Priiskovyy;light rain;293.063;1019.08
+2051302;500;Priiskovyy;light rain;292.38;1016.84
+2051302;500;Priiskovyy;light rain;291.724;1015.44
+2051302;800;Priiskovyy;clear sky;290.794;1016.25
+2051302;800;Priiskovyy;clear sky;291.53;1016.96
+2051302;800;Priiskovyy;clear sky;292.135;1017.97
+2051302;800;Priiskovyy;clear sky;292.317;1020.09
+2051302;800;Priiskovyy;clear sky;292.482;1022.74
+2051302;802;Priiskovyy;scattered clouds;292.383;1023.97
+2051302;803;Priiskovyy;broken clouds;291.48;1025.26
+2051302;802;Priiskovyy;scattered clouds;290.606;1027.0
+2051302;802;Priiskovyy;scattered clouds;290.697;1028.27
+2051302;800;Priiskovyy;clear sky;291.411;1028.23
+2051302;800;Priiskovyy;clear sky;292.828;1027.56
+2051302;802;Priiskovyy;scattered clouds;293.441;1028.57
+2051302;802;Priiskovyy;scattered clouds;293.709;1030.21
+2051302;803;Priiskovyy;broken clouds;293.879;1030.48
+2051302;804;Priiskovyy;overcast clouds;293.862;1030.3
+2051302;804;Priiskovyy;overcast clouds;293.647;1030.42
+2051302;801;Priiskovyy;few clouds;293.074;1031.16
+2051302;500;Priiskovyy;light rain;290.881;1031.8
+2051302;801;Priiskovyy;few clouds;290.778;1031.71
+2051302;800;Priiskovyy;clear sky;291.628;1033.08
+2051302;800;Priiskovyy;clear sky;291.559;1035.08
+2051302;800;Priiskovyy;clear sky;291.163;1036.01
+2051302;800;Priiskovyy;clear sky;290.838;1036.31
+2051302;800;Priiskovyy;clear sky;290.575;1037.0
+2051302;800;Priiskovyy;clear sky;290.508;1037.87
+2051302;800;Priiskovyy;clear sky;291.036;1037.48
+2051302;800;Priiskovyy;clear sky;291.647;1036.13
+2051302;802;Priiskovyy;scattered clouds;292.321;1035.65
+2051302;802;Priiskovyy;scattered clouds;292.638;1035.88
+2051302;802;Priiskovyy;scattered clouds;292.74;1035.25
+2051302;802;Priiskovyy;scattered clouds;292.725;1033.64
+563692;800;Dzhaga;clear sky;274.71;751.61
+563692;800;Dzhaga;clear sky;273.44;751.9
+563692;800;Dzhaga;clear sky;272.57;751.86
+563692;800;Dzhaga;clear sky;282.88;752.16
+563692;800;Dzhaga;clear sky;286.348;752.1
+563692;800;Dzhaga;clear sky;286.549;752.02
+563692;801;Dzhaga;few clouds;284.213;752.23
+563692;800;Dzhaga;clear sky;279.63;752.91
+563692;800;Dzhaga;clear sky;276.624;752.65
+563692;800;Dzhaga;clear sky;275.344;752.16
+563692;800;Dzhaga;clear sky;273.88;752.3
+563692;800;Dzhaga;clear sky;282.785;752.82
+563692;800;Dzhaga;clear sky;287.317;752.75
+563692;800;Dzhaga;clear sky;288.232;752.9
+563692;800;Dzhaga;clear sky;285.183;752.99
+563692;800;Dzhaga;clear sky;278.18;753.3
+563692;800;Dzhaga;clear sky;274.206;753.02
+563692;800;Dzhaga;clear sky;271.747;752.66
+563692;800;Dzhaga;clear sky;269.811;752.54
+563692;800;Dzhaga;clear sky;283.578;753.0
+563692;800;Dzhaga;clear sky;288.441;752.97
+563692;800;Dzhaga;clear sky;288.959;752.83
+563692;800;Dzhaga;clear sky;285.579;753.09
+563692;800;Dzhaga;clear sky;278.712;753.56
+563692;800;Dzhaga;clear sky;275.797;753.19
+563692;800;Dzhaga;clear sky;274.724;752.97
+563692;800;Dzhaga;clear sky;273.981;753.04
+563692;800;Dzhaga;clear sky;284.828;753.27
+563692;800;Dzhaga;clear sky;288.378;752.94
+563692;802;Dzhaga;scattered clouds;288.309;752.66
+563692;802;Dzhaga;scattered clouds;285.413;752.7
+563692;800;Dzhaga;clear sky;281.038;753.17
+563692;800;Dzhaga;clear sky;277.925;752.64
+563692;800;Dzhaga;clear sky;275.858;752.22
+563692;800;Dzhaga;clear sky;274.686;752.15
+563692;800;Dzhaga;clear sky;284.747;752.42
+563692;800;Dzhaga;clear sky;289.021;752.18
+563692;800;Dzhaga;clear sky;288.888;752.0
+563692;800;Dzhaga;clear sky;285.34;752.43
+563692;800;Dzhaga;clear sky;280.425;753.25
+481725;800;Tret’ya Rota;clear sky;288.01;969.5
+481725;800;Tret’ya Rota;clear sky;287.67;969.63
+481725;800;Tret’ya Rota;clear sky;289.51;969.83
+481725;800;Tret’ya Rota;clear sky;295.876;970.13
+481725;800;Tret’ya Rota;clear sky;299.398;970.07
+481725;800;Tret’ya Rota;clear sky;299.649;969.75
+481725;800;Tret’ya Rota;clear sky;297.413;969.31
+481725;800;Tret’ya Rota;clear sky;292.48;969.34
+481725;800;Tret’ya Rota;clear sky;292.874;969.08
+481725;800;Tret’ya Rota;clear sky;291.194;969.0
+481725;800;Tret’ya Rota;clear sky;291.13;968.81
+481725;800;Tret’ya Rota;clear sky;297.035;969.25
+481725;800;Tret’ya Rota;clear sky;300.967;968.94
+481725;800;Tret’ya Rota;clear sky;300.982;968.36
+481725;800;Tret’ya Rota;clear sky;298.333;967.79
+481725;800;Tret’ya Rota;clear sky;293.13;967.71
+481725;800;Tret’ya Rota;clear sky;293.106;967.82
+481725;800;Tret’ya Rota;clear sky;292.297;967.39
+481725;800;Tret’ya Rota;clear sky;291.961;967.59
+481725;800;Tret’ya Rota;clear sky;298.428;967.89
+481725;800;Tret’ya Rota;clear sky;301.591;968.18
+481725;800;Tret’ya Rota;clear sky;301.259;968.2
+481725;800;Tret’ya Rota;clear sky;298.229;967.98
+481725;800;Tret’ya Rota;clear sky;292.762;968.78
+481725;800;Tret’ya Rota;clear sky;290.397;969.38
+481725;800;Tret’ya Rota;clear sky;289.324;969.96
+481725;800;Tret’ya Rota;clear sky;289.281;970.77
+481725;801;Tret’ya Rota;few clouds;295.278;971.64
+481725;500;Tret’ya Rota;light rain;297.728;971.56
+481725;800;Tret’ya Rota;clear sky;298.209;970.47
+481725;800;Tret’ya Rota;clear sky;296.763;969.3
+481725;800;Tret’ya Rota;clear sky;292.588;969.35
+481725;800;Tret’ya Rota;clear sky;291.025;969.07
+481725;800;Tret’ya Rota;clear sky;290.608;968.57
+481725;800;Tret’ya Rota;clear sky;290.436;968.74
+481725;500;Tret’ya Rota;light rain;295.347;969.09
+481725;800;Tret’ya Rota;clear sky;298.871;968.61
+481725;800;Tret’ya Rota;clear sky;299.688;968.27
+481725;800;Tret’ya Rota;clear sky;297.74;967.97
+481725;800;Tret’ya Rota;clear sky;293.075;968.71
+2638976;500;Ruislip;light rain;285.9;996.09
+2638976;500;Ruislip;light rain;284.56;995.81
+2638976;500;Ruislip;light rain;284.77;994.15
+2638976;500;Ruislip;light rain;285.0;993.32
+2638976;500;Ruislip;light rain;286.048;993.65
+2638976;500;Ruislip;light rain;289.249;995.12
+2638976;803;Ruislip;broken clouds;289.063;997.36
+2638976;500;Ruislip;light rain;287.48;999.98
+2638976;800;Ruislip;clear sky;286.324;1002.64
+2638976;800;Ruislip;clear sky;284.594;1004.42
+2638976;801;Ruislip;few clouds;283.63;1005.85
+2638976;800;Ruislip;clear sky;283.185;1007.52
+2638976;800;Ruislip;clear sky;287.567;1009.15
+2638976;801;Ruislip;few clouds;289.932;1009.29
+2638976;500;Ruislip;light rain;289.783;1007.76
+2638976;501;Ruislip;moderate rain;286.38;1004.51
+2638976;501;Ruislip;moderate rain;288.056;997.25
+2638976;500;Ruislip;light rain;286.847;996.65
+2638976;500;Ruislip;light rain;285.511;998.47
+2638976;500;Ruislip;light rain;284.728;1000.56
+2638976;500;Ruislip;light rain;286.541;1001.82
+2638976;801;Ruislip;few clouds;288.009;1003.3
+2638976;802;Ruislip;scattered clouds;288.029;1003.89
+2638976;801;Ruislip;few clouds;286.112;1003.96
+2638976;802;Ruislip;scattered clouds;283.547;1004.72
+2638976;500;Ruislip;light rain;282.574;1005.06
+2638976;500;Ruislip;light rain;281.431;1006.35
+2638976;500;Ruislip;light rain;280.678;1008.53
+2638976;500;Ruislip;light rain;285.078;1010.79
+2638976;500;Ruislip;light rain;288.609;1012.62
+2638976;802;Ruislip;scattered clouds;287.963;1014.2
+2638976;803;Ruislip;broken clouds;286.888;1014.83
+2638976;801;Ruislip;few clouds;284.875;1015.44
+2638976;800;Ruislip;clear sky;282.108;1014.93
+2638976;500;Ruislip;light rain;281.936;1013.56
+2638976;500;Ruislip;light rain;283.447;1013.27
+2638976;500;Ruislip;light rain;285.521;1014.33
+2638976;500;Ruislip;light rain;286.788;1015.12
+2638976;500;Ruislip;light rain;285.79;1015.87
+2638976;500;Ruislip;light rain;285.425;1017.1
+2892705;800;Karow;clear sky;286.87;1010.76
+2892705;800;Karow;clear sky;284.8;1010.24
+2892705;801;Karow;few clouds;284.03;1008.98
+2892705;803;Karow;broken clouds;285.33;1007.74
+2892705;803;Karow;broken clouds;289.148;1006.95
+2892705;804;Karow;overcast clouds;290.949;1005.9
+2892705;500;Karow;light rain;291.613;1005.06
+2892705;500;Karow;light rain;289.93;1005.57
+2892705;800;Karow;clear sky;288.624;1006.69
+2892705;800;Karow;clear sky;286.494;1007.26
+2892705;802;Karow;scattered clouds;285.88;1007.63
+2892705;800;Karow;clear sky;286.485;1008.65
+2892705;500;Karow;light rain;289.767;1009.96
+2892705;803;Karow;broken clouds;290.932;1010.59
+2892705;802;Karow;scattered clouds;290.433;1011.32
+2892705;802;Karow;scattered clouds;288.38;1012.94
+2892705;500;Karow;light rain;286.356;1014.19
+2892705;500;Karow;light rain;286.547;1014.08
+2892705;800;Karow;clear sky;284.911;1012.25
+2892705;500;Karow;light rain;285.378;1008.67
+2892705;500;Karow;light rain;286.991;1004.98
+2892705;500;Karow;light rain;290.909;1004.44
+2892705;500;Karow;light rain;290.429;1003.89
+2892705;500;Karow;light rain;287.862;1002.82
+2892705;500;Karow;light rain;286.747;1004.24
+2892705;802;Karow;scattered clouds;285.974;1005.47
+2892705;802;Karow;scattered clouds;285.381;1005.7
+2892705;802;Karow;scattered clouds;285.428;1006.26
+2892705;800;Karow;clear sky;288.978;1006.74
+2892705;803;Karow;broken clouds;290.909;1006.46
+2892705;501;Karow;moderate rain;284.863;1008.04
+2892705;500;Karow;light rain;284.538;1010.37
+2892705;500;Karow;light rain;284.575;1012.36
+2892705;500;Karow;light rain;284.608;1012.99
+2892705;500;Karow;light rain;284.436;1013.4
+2892705;500;Karow;light rain;285.447;1015.3
+2892705;500;Karow;light rain;287.471;1017.66
+2892705;802;Karow;scattered clouds;289.438;1018.29
+2892705;500;Karow;light rain;287.49;1018.79
+2892705;500;Karow;light rain;284.875;1019.37
+2922336;800;Gatow;clear sky;284.98;1010.44
+2922336;800;Gatow;clear sky;283.62;1010.16
+2922336;800;Gatow;clear sky;283.31;1008.66
+2922336;801;Gatow;few clouds;285.02;1007.66
+2922336;804;Gatow;overcast clouds;290.148;1006.71
+2922336;804;Gatow;overcast clouds;291.649;1005.5
+2922336;802;Gatow;scattered clouds;292.913;1004.65
+2922336;804;Gatow;overcast clouds;291.53;1005.33
+2922336;800;Gatow;clear sky;289.024;1006.77
+2922336;800;Gatow;clear sky;287.244;1007.09
+2922336;800;Gatow;clear sky;286.48;1007.47
+2922336;801;Gatow;few clouds;286.885;1008.49
+2922336;802;Gatow;scattered clouds;291.117;1009.88
+2922336;500;Gatow;light rain;291.132;1010.27
+2922336;500;Gatow;light rain;289.383;1011.73
+2922336;500;Gatow;light rain;288.48;1013.1
+2922336;801;Gatow;few clouds;286.956;1014.44
+2922336;800;Gatow;clear sky;285.747;1014.49
+2922336;800;Gatow;clear sky;284.611;1012.66
+2922336;500;Gatow;light rain;285.978;1009.07
+2922336;500;Gatow;light rain;288.741;1006.12
+2922336;500;Gatow;light rain;291.459;1005.17
+2922336;500;Gatow;light rain;290.879;1005.03
+2922336;500;Gatow;light rain;288.762;1003.72
+2922336;500;Gatow;light rain;288.547;1005.21
+2922336;500;Gatow;light rain;287.324;1006.6
+2922336;804;Gatow;overcast clouds;286.881;1006.19
+2922336;500;Gatow;light rain;287.028;1006.5
+2922336;803;Gatow;broken clouds;288.878;1006.98
+2922336;500;Gatow;light rain;288.509;1006.79
+2922336;500;Gatow;light rain;286.613;1007.47
+2922336;500;Gatow;light rain;284.438;1011.26
+2922336;500;Gatow;light rain;284.425;1013.17
+2922336;804;Gatow;overcast clouds;284.758;1013.55
+2922336;500;Gatow;light rain;284.686;1013.81
+2922336;500;Gatow;light rain;285.647;1015.46
+2922336;500;Gatow;light rain;287.521;1017.66
+2922336;500;Gatow;light rain;289.038;1018.12
+2922336;500;Gatow;light rain;289.49;1017.98
+2922336;802;Gatow;scattered clouds;287.725;1018.56
+975511;800;Mkuze;clear sky;294.71;984.34
+975511;800;Mkuze;clear sky;290.34;983.49
+975511;800;Mkuze;clear sky;287.37;984.42
+975511;800;Mkuze;clear sky;294.53;986.67
+975511;800;Mkuze;clear sky;301.748;986.28
+975511;800;Mkuze;clear sky;306.149;984.1
+975511;800;Mkuze;clear sky;304.963;984.14
+975511;801;Mkuze;few clouds;296.73;985.47
+975511;800;Mkuze;clear sky;291.024;986.02
+975511;801;Mkuze;few clouds;287.444;985.05
+975511;800;Mkuze;clear sky;285.38;985.02
+975511;801;Mkuze;few clouds;295.285;986.44
+975511;801;Mkuze;few clouds;306.217;985.96
+975511;800;Mkuze;clear sky;308.832;983.84
+975511;800;Mkuze;clear sky;306.533;983.84
+975511;800;Mkuze;clear sky;301.73;985.38
+975511;800;Mkuze;clear sky;295.356;985.82
+975511;800;Mkuze;clear sky;290.597;984.74
+975511;800;Mkuze;clear sky;288.311;984.53
+975511;800;Mkuze;clear sky;299.128;985.65
+975511;800;Mkuze;clear sky;308.291;984.64
+975511;800;Mkuze;clear sky;309.759;981.5
+975511;800;Mkuze;clear sky;307.279;980.79
+975511;800;Mkuze;clear sky;299.462;982.32
+975511;800;Mkuze;clear sky;292.647;985.59
+975511;800;Mkuze;clear sky;289.824;986.34
+975511;801;Mkuze;few clouds;289.231;987.46
+975511;500;Mkuze;light rain;292.728;989.23
+975511;500;Mkuze;light rain;298.428;989.15
+975511;800;Mkuze;clear sky;301.059;986.93
+975511;800;Mkuze;clear sky;297.763;987.61
+975511;801;Mkuze;few clouds;292.388;990.11
+975511;500;Mkuze;light rain;290.725;991.12
+975511;500;Mkuze;light rain;289.608;990.62
+975511;500;Mkuze;light rain;288.636;990.14
+975511;802;Mkuze;scattered clouds;292.297;990.33
+975511;801;Mkuze;few clouds;296.621;989.04
+975511;800;Mkuze;clear sky;300.038;985.45
+975511;800;Mkuze;clear sky;299.39;983.86
+975511;800;Mkuze;clear sky;296.325;984.28
+1280737;801;Lhasa;few clouds;271.76;614.95
+1280737;801;Lhasa;few clouds;270.69;615.72
+1280737;801;Lhasa;few clouds;284.52;616.65
+1280737;801;Lhasa;few clouds;290.28;614.93
+1280737;801;Lhasa;few clouds;292.048;612.67
+1280737;802;Lhasa;scattered clouds;287.649;612.76
+1280737;802;Lhasa;scattered clouds;279.413;614.1
+1280737;802;Lhasa;scattered clouds;276.78;614.94
+1280737;800;Lhasa;clear sky;272.824;615.09
+1280737;800;Lhasa;clear sky;271.044;615.74
+1280737;800;Lhasa;clear sky;285.13;616.76
+1280737;800;Lhasa;clear sky;290.735;614.7
+1280737;802;Lhasa;scattered clouds;292.217;612.52
+1280737;803;Lhasa;broken clouds;288.282;613.23
+1280737;800;Lhasa;clear sky;280.083;614.78
+1280737;800;Lhasa;clear sky;274.53;615.66
+1280737;800;Lhasa;clear sky;271.856;615.78
+1280737;800;Lhasa;clear sky;270.597;616.4
+1280737;801;Lhasa;few clouds;283.811;617.49
+1280737;800;Lhasa;clear sky;289.628;615.45
+1280737;800;Lhasa;clear sky;291.941;612.73
+1280737;801;Lhasa;few clouds;286.809;612.67
+1280737;800;Lhasa;clear sky;278.779;614.4
+1280737;800;Lhasa;clear sky;274.162;615.03
+1280737;800;Lhasa;clear sky;271.747;614.91
+1280737;800;Lhasa;clear sky;270.674;615.73
+1280737;800;Lhasa;clear sky;284.081;616.7
+1280737;800;Lhasa;clear sky;290.228;615.14
+1280737;800;Lhasa;clear sky;292.228;612.87
+1280737;800;Lhasa;clear sky;286.509;612.91
+1280737;802;Lhasa;scattered clouds;279.013;614.09
+1280737;802;Lhasa;scattered clouds;277.388;614.8
+1280737;800;Lhasa;clear sky;273.475;614.92
+1280737;801;Lhasa;few clouds;272.408;615.96
+1280737;800;Lhasa;clear sky;284.786;617.02
+1280737;800;Lhasa;clear sky;291.147;615.1
+1280737;800;Lhasa;clear sky;293.171;612.52
+1280737;800;Lhasa;clear sky;287.188;612.41
+1280737;803;Lhasa;broken clouds;282.19;614.22
+1280737;803;Lhasa;broken clouds;280.225;615.29
+745042;800;İstanbul;clear sky;298.71;1021.31
+745042;800;İstanbul;clear sky;297.98;1021.26
+745042;800;İstanbul;clear sky;297.44;1021.55
+745042;800;İstanbul;clear sky;297.276;1022.1
+745042;800;İstanbul;clear sky;297.448;1022.11
+745042;800;İstanbul;clear sky;297.649;1020.41
+745042;800;İstanbul;clear sky;297.813;1018.83
+745042;800;İstanbul;clear sky;298.08;1018.62
+745042;800;İstanbul;clear sky;297.724;1018.6
+745042;800;İstanbul;clear sky;298.644;1017.47
+745042;800;İstanbul;clear sky;298.73;1017.61
+745042;800;İstanbul;clear sky;299.685;1018.62
+745042;800;İstanbul;clear sky;299.817;1018.95
+745042;800;İstanbul;clear sky;299.432;1018.53
+745042;800;İstanbul;clear sky;299.033;1018.94
+745042;800;İstanbul;clear sky;298.63;1020.56
+745042;800;İstanbul;clear sky;297.906;1022.22
+745042;800;İstanbul;clear sky;297.347;1023.08
+745042;800;İstanbul;clear sky;297.311;1023.52
+745042;800;İstanbul;clear sky;297.628;1024.64
+745042;800;İstanbul;clear sky;297.591;1025.25
+745042;800;İstanbul;clear sky;297.909;1024.78
+745042;800;İstanbul;clear sky;298.929;1024.48
+745042;800;İstanbul;clear sky;297.612;1025.76
+745042;800;İstanbul;clear sky;297.047;1026.37
+745042;800;İstanbul;clear sky;296.724;1026.46
+745042;800;İstanbul;clear sky;296.231;1026.21
+745042;800;İstanbul;clear sky;296.128;1026.36
+745042;800;İstanbul;clear sky;298.128;1025.62
+745042;800;İstanbul;clear sky;299.059;1023.56
+745042;800;İstanbul;clear sky;298.513;1022.55
+745042;800;İstanbul;clear sky;297.388;1022.69
+745042;800;İstanbul;clear sky;296.475;1022.49
+745042;800;İstanbul;clear sky;295.758;1022.39
+745042;800;İstanbul;clear sky;295.386;1022.56
+745042;500;İstanbul;light rain;295.197;1023.4
+745042;500;İstanbul;light rain;296.371;1023.9
+745042;800;İstanbul;clear sky;298.488;1022.83
+745042;800;İstanbul;clear sky;298.24;1022.6
+745042;800;İstanbul;clear sky;296.725;1023.5
+3496831;802;Mao;scattered clouds;305.28;1008.01
+3496831;500;Mao;light rain;301.55;1009.75
+3496831;803;Mao;broken clouds;300.35;1010.93
+3496831;801;Mao;few clouds;298.626;1009.77
+3496831;800;Mao;clear sky;297.498;1009.7
+3496831;800;Mao;clear sky;299.449;1010.93
+3496831;800;Mao;clear sky;302.913;1010.89
+3496831;800;Mao;clear sky;304.18;1009.38
+3496831;500;Mao;light rain;302.224;1009.36
+3496831;500;Mao;light rain;300.544;1010.66
+3496831;802;Mao;scattered clouds;299.48;1011.53
+3496831;801;Mao;few clouds;298.635;1010.27
+3496831;800;Mao;clear sky;298.067;1009.96
+3496831;801;Mao;few clouds;299.732;1011.16
+3496831;801;Mao;few clouds;302.633;1011.16
+3496831;500;Mao;light rain;303.63;1009.53
+3496831;500;Mao;light rain;302.456;1009.25
+3496831;801;Mao;few clouds;300.297;1010.43
+3496831;801;Mao;few clouds;298.961;1011.28
+3496831;801;Mao;few clouds;297.978;1009.88
+3496831;801;Mao;few clouds;297.491;1009.28
+3496831;802;Mao;scattered clouds;299.359;1010.6
+3496831;803;Mao;broken clouds;302.129;1011.35
+3496831;802;Mao;scattered clouds;302.762;1009.96
+3496831;802;Mao;scattered clouds;302.497;1009.42
+3496831;500;Mao;light rain;299.974;1010.66
+3496831;804;Mao;overcast clouds;299.681;1010.89
+3496831;500;Mao;light rain;299.478;1009.26
+3496831;500;Mao;light rain;299.128;1008.6
+3496831;500;Mao;light rain;299.709;1009.62
+3496831;500;Mao;light rain;301.963;1010.72
+3496831;803;Mao;broken clouds;302.538;1009.07
+3496831;803;Mao;broken clouds;301.675;1008.63
+3496831;803;Mao;broken clouds;300.408;1009.34
+3496831;500;Mao;light rain;299.586;1010.0
+3496831;802;Mao;scattered clouds;298.647;1008.32
+3496831;803;Mao;broken clouds;298.221;1007.93
+3496831;803;Mao;broken clouds;299.338;1008.64
+3496831;802;Mao;scattered clouds;302.44;1008.9
+3496831;500;Mao;light rain;302.425;1007.46
+2017370;500;Russian Federation;light rain;274.01;992.2
+2017370;803;Russian Federation;broken clouds;275.74;992.24
+2017370;801;Russian Federation;few clouds;280.52;991.88
+2017370;801;Russian Federation;few clouds;284.08;990.56
+2017370;803;Russian Federation;broken clouds;283.448;989.84
+2017370;500;Russian Federation;light rain;281.899;990.18
+2017370;804;Russian Federation;overcast clouds;281.563;989.57
+2017370;500;Russian Federation;light rain;281.28;988.63
+2017370;804;Russian Federation;overcast clouds;280.874;988.04
+2017370;500;Russian Federation;light rain;280.744;987.96
+2017370;802;Russian Federation;scattered clouds;282.73;987.37
+2017370;803;Russian Federation;broken clouds;284.885;986.36
+2017370;803;Russian Federation;broken clouds;285.367;986.05
+2017370;803;Russian Federation;broken clouds;283.832;986.76
+2017370;500;Russian Federation;light rain;283.233;987.17
+2017370;500;Russian Federation;light rain;281.78;986.84
+2017370;500;Russian Federation;light rain;280.506;987.36
+2017370;500;Russian Federation;light rain;280.497;987.74
+2017370;500;Russian Federation;light rain;282.461;988.18
+2017370;500;Russian Federation;light rain;284.328;987.83
+2017370;500;Russian Federation;light rain;285.591;987.39
+2017370;500;Russian Federation;light rain;284.609;987.58
+2017370;500;Russian Federation;light rain;283.029;987.03
+2017370;801;Russian Federation;few clouds;280.762;986.13
+2017370;801;Russian Federation;few clouds;279.647;984.94
+2017370;500;Russian Federation;light rain;280.074;984.31
+2017370;500;Russian Federation;light rain;282.581;982.76
+2017370;501;Russian Federation;moderate rain;282.928;981.29
+2017370;501;Russian Federation;moderate rain;282.778;980.8
+2017370;501;Russian Federation;moderate rain;282.309;980.6
+2017370;501;Russian Federation;moderate rain;281.913;979.91
+2017370;501;Russian Federation;moderate rain;281.438;979.49
+2017370;501;Russian Federation;moderate rain;279.875;980.1
+2017370;500;Russian Federation;light rain;277.408;980.97
+2017370;500;Russian Federation;light rain;277.686;981.31
+2017370;803;Russian Federation;broken clouds;279.947;980.84
+2017370;803;Russian Federation;broken clouds;280.321;981.18
+2017370;804;Russian Federation;overcast clouds;279.338;981.8
+2017370;802;Russian Federation;scattered clouds;278.24;982.07
+2017370;801;Russian Federation;few clouds;276.825;982.41
+2045761;501;De-Friz;moderate rain;291.14;1017.25
+2045761;500;De-Friz;light rain;291.84;1016.97
+2045761;500;De-Friz;light rain;292.77;1016.85
+2045761;500;De-Friz;light rain;292.076;1015.37
+2045761;500;De-Friz;light rain;292.448;1015.05
+2045761;500;De-Friz;light rain;291.749;1015.47
+2045761;500;De-Friz;light rain;290.013;1015.19
+2045761;500;De-Friz;light rain;287.98;1013.92
+2045761;500;De-Friz;light rain;287.324;1013.9
+2045761;800;De-Friz;clear sky;288.644;1014.22
+2045761;800;De-Friz;clear sky;290.58;1013.8
+2045761;800;De-Friz;clear sky;291.535;1014.32
+2045761;801;De-Friz;few clouds;291.067;1015.79
+2045761;802;De-Friz;scattered clouds;290.332;1018.12
+2045761;801;De-Friz;few clouds;289.133;1019.67
+2045761;800;De-Friz;clear sky;287.88;1020.96
+2045761;800;De-Friz;clear sky;287.206;1022.3
+2045761;800;De-Friz;clear sky;289.497;1023.48
+2045761;800;De-Friz;clear sky;291.911;1023.04
+2045761;803;De-Friz;broken clouds;292.578;1022.53
+2045761;802;De-Friz;scattered clouds;291.791;1023.54
+2045761;800;De-Friz;clear sky;289.459;1025.02
+2045761;800;De-Friz;clear sky;287.779;1025.37
+2045761;801;De-Friz;few clouds;287.162;1025.36
+2045761;800;De-Friz;clear sky;286.547;1025.64
+2045761;500;De-Friz;light rain;287.974;1027.11
+2045761;500;De-Friz;light rain;288.581;1027.18
+2045761;500;De-Friz;light rain;289.728;1027.66
+2045761;800;De-Friz;clear sky;289.928;1028.86
+2045761;800;De-Friz;clear sky;288.209;1030.54
+2045761;800;De-Friz;clear sky;286.613;1031.71
+2045761;800;De-Friz;clear sky;285.638;1031.93
+2045761;800;De-Friz;clear sky;284.825;1032.3
+2045761;800;De-Friz;clear sky;289.008;1032.93
+2045761;800;De-Friz;clear sky;291.386;1032.05
+2045761;800;De-Friz;clear sky;291.947;1030.54
+2045761;802;De-Friz;scattered clouds;290.721;1030.06
+2045761;801;De-Friz;few clouds;289.888;1030.2
+2045761;802;De-Friz;scattered clouds;289.79;1029.57
+2045761;803;De-Friz;broken clouds;290.775;1027.72
+1257986;600;Rumbak;light snow;267.86;611.22
+1257986;600;Rumbak;light snow;268.49;611.26
+1257986;600;Rumbak;light snow;271.52;611.71
+1257986;500;Rumbak;light rain;277.48;611.36
+1257986;500;Rumbak;light rain;277.698;610.97
+1257986;500;Rumbak;light rain;277.149;610.98
+1257986;500;Rumbak;light rain;272.113;611.75
+1257986;600;Rumbak;light snow;269.73;612.19
+1257986;600;Rumbak;light snow;268.724;611.76
+1257986;600;Rumbak;light snow;270.644;612.17
+1257986;600;Rumbak;light snow;273.38;613.03
+1257986;800;Rumbak;clear sky;279.335;612.59
+1257986;801;Rumbak;few clouds;279.717;611.87
+1257986;500;Rumbak;light rain;278.032;611.86
+1257986;800;Rumbak;clear sky;269.283;612.83
+1257986;800;Rumbak;clear sky;264.53;613.07
+1257986;800;Rumbak;clear sky;262.606;612.94
+1257986;800;Rumbak;clear sky;261.697;613.08
+1257986;800;Rumbak;clear sky;266.811;613.93
+1257986;800;Rumbak;clear sky;278.678;613.01
+1257986;801;Rumbak;few clouds;280.641;611.76
+1257986;800;Rumbak;clear sky;278.359;611.62
+1257986;800;Rumbak;clear sky;269.479;612.7
+1257986;800;Rumbak;clear sky;264.362;613.01
+1257986;800;Rumbak;clear sky;262.297;612.64
+1257986;800;Rumbak;clear sky;261.224;612.65
+1257986;800;Rumbak;clear sky;267.031;613.05
+1257986;800;Rumbak;clear sky;278.578;612.06
+1257986;500;Rumbak;light rain;279.778;611.08
+1257986;500;Rumbak;light rain;277.909;610.65
+1257986;801;Rumbak;few clouds;269.613;611.74
+1257986;802;Rumbak;scattered clouds;265.138;611.8
+1257986;801;Rumbak;few clouds;264.175;611.52
+1257986;800;Rumbak;clear sky;262.608;611.9
+1257986;800;Rumbak;clear sky;268.136;612.32
+1257986;800;Rumbak;clear sky;278.897;611.53
+1257986;500;Rumbak;light rain;280.621;610.25
+1257986;500;Rumbak;light rain;278.538;610.14
+1257986;500;Rumbak;light rain;270.79;611.06
+1257986;800;Rumbak;clear sky;265.625;611.4
+476350;801;Vavibet;few clouds;277.46;991.96
+476350;803;Vavibet;broken clouds;277.04;990.46
+476350;803;Vavibet;broken clouds;277.22;988.47
+476350;500;Vavibet;light rain;278.18;986.51
+476350;500;Vavibet;light rain;278.948;984.98
+476350;500;Vavibet;light rain;277.949;984.1
+476350;501;Vavibet;moderate rain;277.813;983.74
+476350;501;Vavibet;moderate rain;277.18;984.01
+476350;500;Vavibet;light rain;277.124;984.48
+476350;500;Vavibet;light rain;277.044;985.05
+476350;500;Vavibet;light rain;277.08;985.42
+476350;500;Vavibet;light rain;277.985;985.22
+476350;500;Vavibet;light rain;279.617;985.64
+476350;500;Vavibet;light rain;280.982;985.38
+476350;500;Vavibet;light rain;280.383;985.14
+476350;500;Vavibet;light rain;278.88;984.57
+476350;500;Vavibet;light rain;278.306;984.2
+476350;500;Vavibet;light rain;277.647;983.6
+476350;500;Vavibet;light rain;277.011;982.75
+476350;500;Vavibet;light rain;277.828;982.08
+476350;500;Vavibet;light rain;278.741;981.31
+476350;500;Vavibet;light rain;278.759;979.71
+476350;501;Vavibet;moderate rain;278.379;978.28
+476350;501;Vavibet;moderate rain;277.962;976.64
+476350;501;Vavibet;moderate rain;277.797;975.22
+476350;501;Vavibet;moderate rain;276.474;975.07
+476350;501;Vavibet;moderate rain;275.481;974.41
+476350;501;Vavibet;moderate rain;275.478;974.08
+476350;500;Vavibet;light rain;276.128;974.15
+476350;500;Vavibet;light rain;276.409;974.52
+476350;500;Vavibet;light rain;276.113;974.56
+476350;500;Vavibet;light rain;275.688;974.95
+476350;500;Vavibet;light rain;275.625;975.15
+476350;500;Vavibet;light rain;275.807;975.54
+476350;500;Vavibet;light rain;275.886;975.8
+476350;500;Vavibet;light rain;276.847;976.14
+476350;500;Vavibet;light rain;277.671;976.72
+476350;500;Vavibet;light rain;277.788;977.35
+476350;500;Vavibet;light rain;277.24;977.45
+476350;500;Vavibet;light rain;276.575;977.71
+1343000;800;Surtagān Chib;clear sky;290.51;925.08
+1343000;800;Surtagān Chib;clear sky;288.79;924.88
+1343000;800;Surtagān Chib;clear sky;294.17;925.81
+1343000;800;Surtagān Chib;clear sky;306.08;925.87
+1343000;800;Surtagān Chib;clear sky;311.598;924.11
+1343000;800;Surtagān Chib;clear sky;310.599;923.14
+1343000;800;Surtagān Chib;clear sky;301.113;924.89
+1343000;800;Surtagān Chib;clear sky;292.78;926.78
+1343000;800;Surtagān Chib;clear sky;288.874;926.6
+1343000;800;Surtagān Chib;clear sky;287.494;926.28
+1343000;800;Surtagān Chib;clear sky;293.08;927.71
+1343000;800;Surtagān Chib;clear sky;306.685;927.67
+1343000;800;Surtagān Chib;clear sky;310.817;925.66
+1343000;800;Surtagān Chib;clear sky;309.782;924.26
+1343000;800;Surtagān Chib;clear sky;299.983;925.97
+1343000;800;Surtagān Chib;clear sky;291.83;927.83
+1343000;800;Surtagān Chib;clear sky;287.956;927.21
+1343000;800;Surtagān Chib;clear sky;286.197;926.86
+1343000;800;Surtagān Chib;clear sky;291.561;927.95
+1343000;800;Surtagān Chib;clear sky;306.978;928.01
+1343000;800;Surtagān Chib;clear sky;310.491;925.63
+1343000;800;Surtagān Chib;clear sky;309.559;923.94
+1343000;800;Surtagān Chib;clear sky;299.479;925.18
+1343000;800;Surtagān Chib;clear sky;291.212;926.55
+1343000;800;Surtagān Chib;clear sky;287.547;925.93
+1343000;800;Surtagān Chib;clear sky;286.324;925.54
+1343000;800;Surtagān Chib;clear sky;292.831;926.75
+1343000;800;Surtagān Chib;clear sky;306.978;927.06
+1343000;800;Surtagān Chib;clear sky;309.878;924.95
+1343000;800;Surtagān Chib;clear sky;308.509;923.46
+1343000;800;Surtagān Chib;clear sky;301.363;925.04
+1343000;800;Surtagān Chib;clear sky;292.138;925.99
+1343000;800;Surtagān Chib;clear sky;287.475;925.87
+1343000;800;Surtagān Chib;clear sky;285.658;925.77
+1343000;800;Surtagān Chib;clear sky;291.136;926.83
+1343000;800;Surtagān Chib;clear sky;305.647;927.02
+1343000;800;Surtagān Chib;clear sky;308.921;924.6
+1343000;800;Surtagān Chib;clear sky;308.038;923.28
+1343000;800;Surtagān Chib;clear sky;297.69;925.01
+1343000;800;Surtagān Chib;clear sky;290.325;926.64
+456169;501;Rīgas Rajons;moderate rain;287.74;1011.57
+456169;501;Rīgas Rajons;moderate rain;287.17;1011.78
+456169;500;Rīgas Rajons;light rain;286.84;1012.71
+456169;500;Rīgas Rajons;light rain;287.49;1013.75
+456169;803;Rīgas Rajons;broken clouds;289.698;1014.49
+456169;500;Rīgas Rajons;light rain;290.799;1014.09
+456169;500;Rīgas Rajons;light rain;290.413;1012.92
+456169;500;Rīgas Rajons;light rain;289.53;1010.92
+456169;501;Rīgas Rajons;moderate rain;290.024;1008.23
+456169;501;Rīgas Rajons;moderate rain;290.094;1007.01
+456169;500;Rīgas Rajons;light rain;289.93;1007.31
+456169;500;Rīgas Rajons;light rain;290.335;1007.84
+456169;500;Rīgas Rajons;light rain;289.417;1009.39
+456169;501;Rīgas Rajons;moderate rain;288.782;1009.7
+456169;501;Rīgas Rajons;moderate rain;287.883;1009.46
+456169;501;Rīgas Rajons;moderate rain;287.18;1009.05
+456169;500;Rīgas Rajons;light rain;287.656;1009.17
+456169;500;Rīgas Rajons;light rain;285.997;1009.95
+456169;804;Rīgas Rajons;overcast clouds;285.261;1010.23
+456169;803;Rīgas Rajons;broken clouds;286.778;1010.37
+456169;500;Rīgas Rajons;light rain;288.491;1010.33
+456169;803;Rīgas Rajons;broken clouds;289.509;1009.62
+456169;803;Rīgas Rajons;broken clouds;288.579;1008.19
+456169;500;Rīgas Rajons;light rain;287.262;1005.58
+456169;501;Rīgas Rajons;moderate rain;285.547;1001.32
+456169;500;Rīgas Rajons;light rain;285.624;999.47
+456169;501;Rīgas Rajons;moderate rain;284.981;997.35
+456169;500;Rīgas Rajons;light rain;285.478;997.1
+456169;500;Rīgas Rajons;light rain;286.078;997.49
+456169;500;Rīgas Rajons;light rain;286.809;998.19
+456169;500;Rīgas Rajons;light rain;286.413;999.37
+456169;500;Rīgas Rajons;light rain;286.438;1001.29
+456169;500;Rīgas Rajons;light rain;285.675;1002.15
+456169;500;Rīgas Rajons;light rain;285.057;1001.72
+456169;501;Rīgas Rajons;moderate rain;284.536;1000.92
+456169;501;Rīgas Rajons;moderate rain;285.597;1001.51
+456169;500;Rīgas Rajons;light rain;286.821;1003.96
+456169;804;Rīgas Rajons;overcast clouds;288.538;1007.1
+456169;804;Rīgas Rajons;overcast clouds;288.39;1010.44
+456169;804;Rīgas Rajons;overcast clouds;287.625;1013.53
+475279;803;Verkhneye Shchekotikhino;broken clouds;287.01;1004.6
+475279;800;Verkhneye Shchekotikhino;clear sky;285.99;1004.64
+475279;800;Verkhneye Shchekotikhino;clear sky;284.22;1004.6
+475279;800;Verkhneye Shchekotikhino;clear sky;288.93;1004.83
+475279;800;Verkhneye Shchekotikhino;clear sky;293.948;1004.35
+475279;800;Verkhneye Shchekotikhino;clear sky;295.749;1003.47
+475279;801;Verkhneye Shchekotikhino;few clouds;294.413;1002.87
+475279;800;Verkhneye Shchekotikhino;clear sky;289.68;1002.9
+475279;800;Verkhneye Shchekotikhino;clear sky;287.424;1002.23
+475279;801;Verkhneye Shchekotikhino;few clouds;287.094;1001.66
+475279;801;Verkhneye Shchekotikhino;few clouds;287.13;1001.23
+475279;800;Verkhneye Shchekotikhino;clear sky;291.185;1001.03
+475279;800;Verkhneye Shchekotikhino;clear sky;296.417;1000.15
+475279;800;Verkhneye Shchekotikhino;clear sky;298.482;998.76
+475279;800;Verkhneye Shchekotikhino;clear sky;296.733;997.14
+475279;800;Verkhneye Shchekotikhino;clear sky;290.78;996.73
+475279;803;Verkhneye Shchekotikhino;broken clouds;289.156;995.71
+475279;803;Verkhneye Shchekotikhino;broken clouds;289.897;994.63
+475279;801;Verkhneye Shchekotikhino;few clouds;290.411;993.53
+475279;800;Verkhneye Shchekotikhino;clear sky;292.728;992.78
+475279;800;Verkhneye Shchekotikhino;clear sky;296.341;992.26
+475279;801;Verkhneye Shchekotikhino;few clouds;297.009;992.6
+475279;803;Verkhneye Shchekotikhino;broken clouds;294.279;993.76
+475279;803;Verkhneye Shchekotikhino;broken clouds;291.462;995.85
+475279;800;Verkhneye Shchekotikhino;clear sky;288.597;996.62
+475279;800;Verkhneye Shchekotikhino;clear sky;286.224;997.85
+475279;500;Verkhneye Shchekotikhino;light rain;284.581;998.33
+475279;800;Verkhneye Shchekotikhino;clear sky;288.828;998.64
+475279;800;Verkhneye Shchekotikhino;clear sky;292.628;998.22
+475279;800;Verkhneye Shchekotikhino;clear sky;293.959;997.71
+475279;801;Verkhneye Shchekotikhino;few clouds;292.863;997.5
+475279;802;Verkhneye Shchekotikhino;scattered clouds;291.188;997.81
+475279;803;Verkhneye Shchekotikhino;broken clouds;290.675;997.85
+475279;800;Verkhneye Shchekotikhino;clear sky;288.957;997.18
+475279;800;Verkhneye Shchekotikhino;clear sky;288.186;996.22
+475279;800;Verkhneye Shchekotikhino;clear sky;291.247;995.27
+475279;800;Verkhneye Shchekotikhino;clear sky;295.071;994.63
+475279;500;Verkhneye Shchekotikhino;light rain;291.338;997.13
+475279;800;Verkhneye Shchekotikhino;clear sky;289.79;999.26
+475279;800;Verkhneye Shchekotikhino;clear sky;287.125;1002.03
+711349;802;Bucha;scattered clouds;291.97;1012.71
+711349;802;Bucha;scattered clouds;290.74;1012.43
+711349;803;Bucha;broken clouds;290.85;1012.79
+711349;800;Bucha;clear sky;293.14;1013.34
+711349;800;Bucha;clear sky;297.298;1012.87
+711349;800;Bucha;clear sky;298.949;1011.66
+711349;801;Bucha;few clouds;298.663;1010.49
+711349;800;Bucha;clear sky;296.23;1010.03
+711349;800;Bucha;clear sky;293.824;1009.61
+711349;800;Bucha;clear sky;291.644;1009.04
+711349;801;Bucha;few clouds;289.88;1008.2
+711349;800;Bucha;clear sky;293.685;1007.35
+711349;801;Bucha;few clouds;298.567;1006.07
+711349;801;Bucha;few clouds;300.482;1004.35
+711349;803;Bucha;broken clouds;299.083;1003.7
+711349;803;Bucha;broken clouds;295.28;1003.37
+711349;801;Bucha;few clouds;291.656;1003.73
+711349;800;Bucha;clear sky;290.597;1005.33
+711349;800;Bucha;clear sky;288.361;1007.23
+711349;500;Bucha;light rain;289.078;1009.23
+711349;500;Bucha;light rain;290.741;1010.58
+711349;802;Bucha;scattered clouds;291.559;1011.25
+711349;800;Bucha;clear sky;292.379;1011.59
+711349;800;Bucha;clear sky;289.012;1012.31
+711349;800;Bucha;clear sky;287.147;1012.83
+711349;800;Bucha;clear sky;286.874;1012.92
+711349;801;Bucha;few clouds;286.431;1012.67
+711349;801;Bucha;few clouds;289.228;1012.58
+711349;801;Bucha;few clouds;293.928;1011.76
+711349;802;Bucha;scattered clouds;296.409;1010.76
+711349;802;Bucha;scattered clouds;295.763;1009.83
+711349;800;Bucha;clear sky;291.538;1009.48
+711349;800;Bucha;clear sky;288.475;1008.63
+711349;800;Bucha;clear sky;288.008;1007.72
+711349;800;Bucha;clear sky;288.086;1007.65
+711349;800;Bucha;clear sky;290.597;1010.27
+711349;800;Bucha;clear sky;291.821;1013.36
+711349;800;Bucha;clear sky;292.938;1014.56
+711349;800;Bucha;clear sky;291.84;1015.87
+711349;800;Bucha;clear sky;286.225;1017.75
+798544;500;Republic of Poland;light rain;283.9;1009.3
+798544;500;Republic of Poland;light rain;285.23;1009.35
+798544;500;Republic of Poland;light rain;286.29;1008.49
+798544;500;Republic of Poland;light rain;287.826;1006.77
+798544;501;Republic of Poland;moderate rain;289.848;1005.17
+798544;500;Republic of Poland;light rain;292.949;1003.71
+798544;500;Republic of Poland;light rain;292.963;1003.19
+798544;500;Republic of Poland;light rain;290.88;1003.55
+798544;500;Republic of Poland;light rain;289.124;1004.5
+798544;501;Republic of Poland;moderate rain;288.344;1004.66
+798544;501;Republic of Poland;moderate rain;287.33;1005.04
+798544;500;Republic of Poland;light rain;287.435;1005.57
+798544;500;Republic of Poland;light rain;288.817;1006.31
+798544;802;Republic of Poland;scattered clouds;290.782;1007.02
+798544;804;Republic of Poland;overcast clouds;290.083;1007.92
+798544;803;Republic of Poland;broken clouds;288.08;1008.89
+798544;500;Republic of Poland;light rain;287.106;1010.06
+798544;500;Republic of Poland;light rain;285.747;1010.92
+798544;800;Republic of Poland;clear sky;283.811;1011.77
+798544;800;Republic of Poland;clear sky;284.678;1011.91
+798544;801;Republic of Poland;few clouds;288.891;1010.74
+798544;802;Republic of Poland;scattered clouds;290.309;1008.49
+798544;500;Republic of Poland;light rain;290.129;1006.24
+798544;500;Republic of Poland;light rain;291.162;1004.36
+798544;500;Republic of Poland;light rain;288.397;1003.99
+798544;500;Republic of Poland;light rain;289.024;1003.12
+798544;500;Republic of Poland;light rain;287.181;1003.76
+798544;500;Republic of Poland;light rain;286.128;1003.91
+798544;500;Republic of Poland;light rain;287.228;1004.55
+798544;804;Republic of Poland;overcast clouds;289.659;1004.76
+798544;500;Republic of Poland;light rain;289.513;1004.96
+798544;500;Republic of Poland;light rain;287.138;1005.91
+798544;500;Republic of Poland;light rain;285.125;1006.69
+798544;500;Republic of Poland;light rain;284.307;1008.04
+798544;500;Republic of Poland;light rain;284.136;1010.0
+798544;500;Republic of Poland;light rain;284.597;1012.13
+798544;802;Republic of Poland;scattered clouds;287.171;1013.77
+798544;802;Republic of Poland;scattered clouds;288.338;1014.72
+798544;803;Republic of Poland;broken clouds;288.29;1015.47
+798544;802;Republic of Poland;scattered clouds;286.075;1016.29
+3094325;500;Kuchary;light rain;283.48;1008.01
+3094325;500;Kuchary;light rain;285.05;1008.13
+3094325;500;Kuchary;light rain;286.15;1007.12
+3094325;500;Kuchary;light rain;287.376;1005.39
+3094325;501;Kuchary;moderate rain;289.048;1003.63
+3094325;500;Kuchary;light rain;292.299;1002.09
+3094325;500;Kuchary;light rain;291.713;1001.89
+3094325;500;Kuchary;light rain;289.78;1002.41
+3094325;500;Kuchary;light rain;288.374;1003.28
+3094325;500;Kuchary;light rain;287.844;1003.28
+3094325;500;Kuchary;light rain;287.18;1003.82
+3094325;500;Kuchary;light rain;286.885;1004.6
+3094325;801;Kuchary;few clouds;289.167;1005.34
+3094325;802;Kuchary;scattered clouds;290.632;1005.89
+3094325;803;Kuchary;broken clouds;289.983;1006.62
+3094325;803;Kuchary;broken clouds;287.88;1007.67
+3094325;500;Kuchary;light rain;286.806;1008.92
+3094325;500;Kuchary;light rain;284.847;1009.79
+3094325;800;Kuchary;clear sky;283.461;1010.47
+3094325;800;Kuchary;clear sky;284.478;1010.45
+3094325;800;Kuchary;clear sky;288.641;1008.96
+3094325;500;Kuchary;light rain;290.109;1006.54
+3094325;500;Kuchary;light rain;290.379;1004.22
+3094325;500;Kuchary;light rain;291.012;1002.66
+3094325;501;Kuchary;moderate rain;288.497;1002.21
+3094325;500;Kuchary;light rain;288.574;1001.9
+3094325;500;Kuchary;light rain;286.381;1002.38
+3094325;500;Kuchary;light rain;285.878;1002.53
+3094325;500;Kuchary;light rain;287.628;1003.33
+3094325;804;Kuchary;overcast clouds;289.159;1003.62
+3094325;500;Kuchary;light rain;288.963;1003.83
+3094325;500;Kuchary;light rain;286.138;1004.78
+3094325;500;Kuchary;light rain;285.175;1005.47
+3094325;500;Kuchary;light rain;284.057;1007.07
+3094325;500;Kuchary;light rain;284.136;1009.03
+3094325;802;Kuchary;scattered clouds;284.397;1010.92
+3094325;802;Kuchary;scattered clouds;287.021;1012.47
+3094325;802;Kuchary;scattered clouds;288.038;1013.42
+3094325;803;Kuchary;broken clouds;288.14;1014.17
+3094325;802;Kuchary;scattered clouds;286.125;1014.91
+6255149;802;North America;scattered clouds;303.39;958.89
+6255149;801;North America;few clouds;302.46;959.09
+6255149;800;North America;clear sky;295.27;961.24
+6255149;802;North America;scattered clouds;293.3;962.84
+6255149;800;North America;clear sky;291.398;963.5
+6255149;800;North America;clear sky;288.949;964.56
+6255149;800;North America;clear sky;293.963;965.66
+6255149;800;North America;clear sky;300.18;965.2
+6255149;801;North America;few clouds;302.874;963.24
+6255149;800;North America;clear sky;301.894;961.54
+6255149;800;North America;clear sky;297.18;961.51
+6255149;800;North America;clear sky;295.235;960.5
+6255149;800;North America;clear sky;293.717;959.05
+6255149;800;North America;clear sky;292.132;957.98
+6255149;800;North America;clear sky;296.383;957.01
+6255149;800;North America;clear sky;303.18;955.47
+6255149;800;North America;clear sky;306.656;953.4
+6255149;800;North America;clear sky;305.397;952.15
+6255149;500;North America;light rain;297.011;952.35
+6255149;500;North America;light rain;291.828;952.74
+6255149;500;North America;light rain;289.941;953.11
+6255149;500;North America;light rain;288.909;953.45
+6255149;500;North America;light rain;292.579;953.72
+6255149;500;North America;light rain;293.712;953.78
+6255149;500;North America;light rain;295.247;953.09
+6255149;500;North America;light rain;292.024;953.99
+6255149;500;North America;light rain;290.481;954.88
+6255149;501;North America;moderate rain;290.228;954.54
+6255149;501;North America;moderate rain;289.928;953.88
+6255149;500;North America;light rain;289.209;953.37
+6255149;501;North America;moderate rain;290.013;953.33
+6255149;501;North America;moderate rain;292.338;952.74
+6255149;500;North America;light rain;292.825;952.38
+6255149;500;North America;light rain;292.608;952.84
+6255149;500;North America;light rain;288.036;955.04
+6255149;500;North America;light rain;286.747;955.79
+6255149;500;North America;light rain;286.221;956.13
+6255149;500;North America;light rain;285.688;956.19
+6255149;500;North America;light rain;286.29;957.19
+6255149;500;North America;light rain;289.225;957.53
